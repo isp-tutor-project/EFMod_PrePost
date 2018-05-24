@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Global Assets/Global Assets/IntroBackgroundNewB" itemID="538dd44e-00000e2e" lastModified="1401803872">
+  <timeline>
+    <DOMTimeline name="IntroBackgroundNewB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="-120">
+                  <matrix>
+                    <Matrix tx="1" ty="-1"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#D5E9FD"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2.5" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#AAAAAA"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

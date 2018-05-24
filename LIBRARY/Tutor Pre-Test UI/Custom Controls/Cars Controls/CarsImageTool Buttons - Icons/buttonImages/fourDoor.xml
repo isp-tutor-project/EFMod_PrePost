@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/fourDoor" itemID="4d39cd84-00000caa" lastModified="1295633796" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="fourDoor">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="186" objectHeight="88" x="154" y="36" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-153" ty="-37"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#993333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/frontDoor" centerPoint3DX="57" centerPoint3DY="44.35">
+                  <matrix>
+                    <Matrix tx="6.1" ty="8.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.9" y="36.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/backDoor" centerPoint3DX="171" centerPoint3DY="40">
+                  <matrix>
+                    <Matrix tx="158.15" ty="-2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-157.6" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" centerPoint3DX="72.95" centerPoint3DY="22.85">
+                  <matrix>
+                    <Matrix tx="-153" ty="-37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225.95" y="59.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

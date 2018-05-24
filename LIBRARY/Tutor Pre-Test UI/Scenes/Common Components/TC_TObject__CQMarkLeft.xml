@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" itemID="5b008440-000015bd" linkageExportForAS="true" linkageClassName="CQMarkLeft" lastModified="1526760512">
+  <timeline>
+    <DOMTimeline name="TC_TObject__CQMarkLeft">
+      <layers>
+        <DOMLayer name="Mask" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="31" objectHeight="136.95" x="448" y="341" lockFlag="true">
+                  <matrix>
+                    <Matrix d="0.510772705078125" tx="7.4" ty="174.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="463.5" y="409.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="44.8" height="102.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.813079833984375" d="0.813079833984375" tx="405.9" ty="340.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineHeight="102.95" size="73" face="Arial-Black" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7947 7122S6[8177 6893 8500 6893!8500 6893[8789 6893 9003 7077!9003 7077[9028 7098 9052 7122!9052 7122[9280 7350 9280 7674!9280 7674[9280 7997 9052 8227!9052 8227[9028 8250 9003 8272!9003 8272[8789 8455 8500 8455!8500 8455[8177 8455 7947
+ 8227!7947 8227[7718 7997 7718 7674!7718 7674[7718 7350 7947 7122"/>
+                    <Edge cubics="!9280 7674(;9280,7889 9205,8074 9052,8227q9280 7674Q9280 7997q9052 8227);"/>
+                    <Edge cubics="!9052 7122(;9205,7274 9280,7458 9280,7674q9052 7122Q9280 7350q9280 7674);"/>
+                    <Edge cubics="!7947 8227(;7795,8074 7718,7889 7718,7674q7947 8227Q7718 7997q7718 7674);"/>
+                    <Edge cubics="!7718 7674(;7718,7458 7795,7274 7947,7122q7718 7674Q7718 7350q7947 7122);"/>
+                    <Edge cubics="!8500 8455(;8284,8455 8100,8379 7947,8227q8500 8455Q8177 8455q7947 8227);"/>
+                    <Edge cubics="!9052 8227(;9035,8244 9018,8259 9003,8272q9052 8227 9003 8272);"/>
+                    <Edge cubics="!9003 8272(;8859,8395 8692,8455 8500,8455q9003 8272Q8789 8455q8500 8455);"/>
+                    <Edge cubics="!8500 6893(8500,6893;8695,6893 8864,6955 9003,7077q8500 6893Q8789 6893q9003 7077);"/>
+                    <Edge cubics="!9003 7077(;9022,7093 9037,7107 9052,7122q9003 7077 9052 7122);"/>
+                    <Edge cubics="!7947 7122(7947,7122;8100,6969 8284,6893 8500,6893q7947 7122Q8177 6893q8500 6893)8500,6893;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

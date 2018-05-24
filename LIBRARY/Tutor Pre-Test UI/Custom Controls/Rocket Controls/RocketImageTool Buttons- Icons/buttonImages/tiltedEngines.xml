@@ -1,0 +1,167 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/tiltedEngines" itemID="48188796-00002081" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/tiltedEngines" sourceLastModified="1209998675" lastModified="1209998675" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="tiltedEngines">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.599990844726563" d="0.599990844726563" tx="-1.5" ty="-289.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0625152587890625" b="0.029144287109375" c="-0.029144287109375" d="0.0625152587890625" tx="68.3" ty="580.3"/>
+                            </matrix>
+                            <GradientEntry ratio="0"/>
+                            <GradientEntry color="#999999" ratio="0.486274509803922"/>
+                            <GradientEntry ratio="0.87843137254902"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2065 9658|1456 10963!1456 10963[1394 10987 1297 11033!1297 11033[1102 11124 923 11229!923 11229[349 11566 149 11921!149 11921|65 12102!65 12102|1877 12947!1877 12947|1979 12730!1979 12730[2031 12608 2040 12350!2040 12350[2060 11835 1851
+ 11158!1851 11158|2482 9853!2482 9853|2065 9658"/>
+                        <Edge cubics="!2065 9658(;2065,9658 1456,10963 1456,10963q2065 9658 1456 10963);"/>
+                        <Edge cubics="!1456 10963(;1456,10963 469,11353 149,11921q1456 10963Q1394 10987q1297 11033Q1102 11124q923 11229Q349 11566q149 11921);"/>
+                        <Edge cubics="!149 11921(;149,11921 65,12102 65,12102q149 11921 65 12102);"/>
+                        <Edge cubics="!65 12102(;65,12102 1877,12947 1877,12947q65 12102 1877 12947);"/>
+                        <Edge cubics="!1877 12947(;1877,12947 1979,12730 1979,12730q1877 12947 1979 12730);"/>
+                        <Edge cubics="!1979 12730(;1979,12730 2185,12241 1851,11158q1979 12730Q2031 12608q2040 12350Q2060 11835q1851 11158);"/>
+                        <Edge cubics="!1851 11158(;1851,11158 2482,9853 2482,9853q1851 11158 2482 9853);"/>
+                        <Edge cubics="!2482 9853(;2482,9853 2065,9658 2065,9658q2482 9853 2065 9658);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.599990844726563" d="0.599990844726563" tx="-1.5" ty="-289.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0552978515625" b="0.025787353515625" c="-0.025787353515625" d="0.0552978515625" tx="47.9" ty="627.6"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0.282352941176471"/>
+                            <GradientEntry color="#F5F5F5" ratio="0.431372549019608"/>
+                            <GradientEntry ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!1865 12974[1839 13030 1554 12947!1554 12947[1270 12863 895 12688!895 12688[519 12513 273 12349!273 12349[26 12185 52 12129!52 12129[78 12073 362 12157!362 12157[647 12241 1022 12416!1022 12416[1397 12591 1644 12754!1644 12754[1891 12918
+ 1865 12974"/>
+                        <Edge cubics="!52 12129(;87,12054 521,12182 1022,12416q52 12129Q78 12073q362 12157Q647 12241q1022 12416);"/>
+                        <Edge cubics="!1022 12416(;1522,12649 1900,12899 1865,12974q1022 12416Q1397 12591q1644 12754Q1891 12918q1865 12974);"/>
+                        <Edge cubics="!1865 12974(;1830,13049 1395,12921 895,12688q1865 12974Q1839 13030q1554 12947Q1270 12863q895 12688);"/>
+                        <Edge cubics="!895 12688(;394,12454 17,12204 52,12129q895 12688Q519 12513q273 12349Q26 12185q52 12129);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.599990844726563" d="0.599990844726563" tx="-1.5" ty="-289.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0625" b="-0.029144287109375" c="0.029144287109375" d="0.0625" tx="195.9" ty="581.55"/>
+                            </matrix>
+                            <GradientEntry ratio="0"/>
+                            <GradientEntry color="#999999" ratio="0.486274509803922"/>
+                            <GradientEntry ratio="0.87843137254902"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!3435 11316[3379 11523 3345 11729!3345 11729[3234 12385 3377 12766!3377 12766|3462 12947!3462 12947|5274 12102!5274 12102|5173 11884!5173 11884[5113 11766 4922 11593!4922 11593[4540 11248 3887 10972!3887 10972|3292 9650!3292 9650|2875
+ 9844!2875 9844|3484 11149!3484 11149|3435 11316"/>
+                        <Edge cubics="!2875 9844(;2875,9844 3484,11149 3484,11149q2875 9844 3484 11149);"/>
+                        <Edge cubics="!3484 11149(;3484,11149 3148,12156 3377,12766q3484 11149Q3484 11149q3435 11316Q3379 11523q3345 11729Q3234 12385q3377 12766);"/>
+                        <Edge cubics="!3377 12766(;3377,12766 3462,12947 3462,12947q3377 12766 3462 12947);"/>
+                        <Edge cubics="!3462 12947(;3462,12947 5274,12102 5274,12102q3462 12947 5274 12102);"/>
+                        <Edge cubics="!5274 12102(;5274,12102 5173,11884 5173,11884q5274 12102 5173 11884);"/>
+                        <Edge cubics="!5173 11884(;5173,11884 4931,11413 3887,10972q5173 11884Q5113 11766q4922 11593Q4540 11248q3887 10972);"/>
+                        <Edge cubics="!3887 10972(;3887,10972 3292,9650 3292,9650q3887 10972 3292 9650);"/>
+                        <Edge cubics="!3292 9650(;3292,9650 2875,9844 2875,9844q3292 9650 2875 9844);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.599990844726563" d="0.599990844726563" tx="-1.5" ty="-289.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0552978515625" b="-0.025787353515625" c="0.025787353515625" d="0.0552978515625" tx="219.05" ty="627.6"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0.282352941176471"/>
+                            <GradientEntry color="#F5F5F5" ratio="0.431372549019608"/>
+                            <GradientEntry ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!5287 12129[5313 12185 5067 12349!5067 12349[4820 12513 4444 12688!4444 12688[4069 12863 3785 12947!3785 12947[3500 13030 3474 12974!3474 12974[3448 12918 3695 12754!3695 12754[3942 12591 4317 12416!4317 12416[4692 12241 4977 12157!4977
+ 12157[5261 12073 5287 12129"/>
+                        <Edge cubics="!3474 12974(;3439,12899 3817,12649 4317,12416q3474 12974Q3448 12918q3695 12754Q3942 12591q4317 12416);"/>
+                        <Edge cubics="!4317 12416(;4818,12182 5252,12054 5287,12129q4317 12416Q4692 12241q4977 12157Q5261 12073q5287 12129);"/>
+                        <Edge cubics="!5287 12129(;5322,12204 4945,12454 4444,12688q5287 12129Q5313 12185q5067 12349Q4820 12513q4444 12688);"/>
+                        <Edge cubics="!4444 12688(;3944,12921 3509,13049 3474,12974q4444 12688Q4069 12863q3785 12947Q3500 13030q3474 12974);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title1" itemID="5b008453-000015c1" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p1Title1" lastModified="1526760531">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Ci1p1Title1">
+      <layers>
+        <DOMLayer name="TItle Text" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="684.95" height="77.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="53" ty="-6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>To get used to how this program works, let's start with a warm-up activity.  The selections you make on this page may be anything you like - there are no right or wrong answers here.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

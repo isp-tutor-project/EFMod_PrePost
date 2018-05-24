@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/honey" itemID="481e4481-000003cb" lastModified="1295299933" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="honey">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" left="20.75" width="67.5" height="24.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix d="0.999542236328125" tx="1.4" ty="109.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Honey</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/honey" centerPoint3DX="56.6" centerPoint3DY="52.2">
+                  <matrix>
+                    <Matrix tx="11.55" ty="-2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.05" y="54.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,104 @@
+WARNINGS:
+Frame numbers in EaselJS start at 0 instead of 1. For example, this affects gotoAndStop and gotoAndPlay calls. (46)
+Feature not supported: Scale 9. (3)
+
+
+
+Warnings generated while copying/importing in Untitled-2:
+* 9Slice is not supported in HTML5 Canvas document, and has been removed in an instance of Movieclip TabFrame.
+* 9Slice is not supported in HTML5 Canvas document, and has been removed in an instance of Movieclip TabFrameTitle.
+* For DynamicText, Selectable is not supported in HTML5 Canvas document, and has been removed.
+* For InputText, Border is not supported in HTML5 Canvas document, and has been removed.
+* For InputText, LineType is not supported in HTML5 Canvas document, and will be converted to SingleLine.
+* For Sdisabled, an instance of Movieclip itemDisabled, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip TiresThin, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip TiresWide, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip ageOlder, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip ageYoung, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip alone, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip clockNoon, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip clockSix, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip clockThree, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip curvedBody, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip dimBulb, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip downEngines, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip drinkLemon, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip drinkTea, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip fiveMinute, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip fourDoorimage, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip fourWindow, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip friend, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip hardTop, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip honey, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip house, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip iconCards, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip itemDown, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip library, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip liteBulb, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip oneEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip oneMinute, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip oneWindow, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip soda, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip straightBody, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip sugar, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip temp200, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip temp350, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip temp500, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip threeEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip tiltedEngines, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip twoDoorimage, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip water, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sdown, an instance of Movieclip wordCards, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sfocus, an instance of Movieclip disabled up, Quality, Knockout and Inner glow of Glow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sfocus, an instance of Movieclip itemFocus, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip TiresThin, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip TiresWide, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip ageOlder, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip ageYoung, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip alone, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip clockNoon, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip clockSix, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip clockThree, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip curvedBody, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip dimBulb, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip downEngines, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip drinkLemon, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip drinkTea, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip fiveMinute, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip fourDoorimage, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip fourWindow, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip friend, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip hardTopOver, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip honey, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip house, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip iconCards, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip itemOver, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip library, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip liteBulb, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip oneEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip oneMinute, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip oneWindow, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip soda, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip softTopOver, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip straightBody, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip sugar, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip temp200, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip temp350, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip temp500, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip threeEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip tiltedEngines, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip twoDoorimage, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip water, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sover, an instance of Movieclip wordCards, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sup, an instance of Movieclip itemUp, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For Sup, an instance of Movieclip oneEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Sup, an instance of Movieclip threeEgg, Quality, Knockout, Inner Shadow and Hide object of DropShadow Filter is not supported in HTML5 Canvas document, and has been removed.
+* For Text Slabel, AntiAlias is not supported in HTML5 Canvas document, and will be converted to CanvasFonts.
+* For Text SsubLabel, AntiAlias is not supported in HTML5 Canvas document, and will be converted to CanvasFonts.
+* For Text StabLabel, AntiAlias is not supported in HTML5 Canvas document, and will be converted to CanvasFonts.
+* For Text StopLabel, AntiAlias is not supported in HTML5 Canvas document, and will be converted to CanvasFonts.
+* For Text StxtField, InputText is not supported in HTML5 Canvas document, and will be converted to DynamicText.
+* For Text label, AntiAlias is not supported in HTML5 Canvas document, and will be converted to CanvasFonts.
+* For q1IFrame1, an instance of Movieclip CInfoFrame, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+* For q1QFrame1, an instance of Movieclip CQuestionFrame, 9Slice is not supported in HTML5 Canvas document, and has been removed.
+

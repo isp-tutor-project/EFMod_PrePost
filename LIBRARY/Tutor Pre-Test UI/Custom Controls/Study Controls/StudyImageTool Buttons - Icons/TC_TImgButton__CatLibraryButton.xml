@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CatLibraryButton" itemID="5b00915c-000016d6" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CatLibraryButton" lastModified="1526763868">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CatLibraryButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" name="Sup" selected="true" centerPoint3DX="51.15" centerPoint3DY="122.05">
+                  <matrix>
+                    <Matrix a="0.684463500976563" d="0.684967041015625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" name="Sover" selected="true" centerPoint3DX="51.1" centerPoint3DY="122.05">
+                  <matrix>
+                    <Matrix a="0.684600830078125" d="0.6849365234375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" name="Sdown" selected="true" centerPoint3DX="51.1" centerPoint3DY="122.05">
+                  <matrix>
+                    <Matrix a="0.684600830078125" d="0.6849365234375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" name="Sdisabled" selected="true" centerPoint3DX="51.1" centerPoint3DY="122.05">
+                  <matrix>
+                    <Matrix a="0.684600830078125" d="0.6849365234375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" name="Sfocus" selected="true" centerPoint3DX="51.1" centerPoint3DY="122.05">
+                  <matrix>
+                    <Matrix a="0.684600830078125" d="0.6849365234375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

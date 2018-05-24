@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title2" itemID="5b008456-000015c2" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p1Title2" lastModified="1526760534">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Ci1p1Title2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="634" height="77.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-69" ty="-8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click the buttons above to build a house. Choose a chimney location, a paint color and a type of door.  When you are finished click Next.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

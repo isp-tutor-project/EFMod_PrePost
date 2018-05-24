@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyLeftButton" itemID="5b009028-000016b8" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CChimneyLeftButton" lastModified="1526763560" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CChimneyLeftButton">
+      <layers>
+        <DOMLayer name="(up) leftChimney" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney" name="Sup">
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over) leftChimney" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney" name="Sover" selected="true" centerPoint3DX="116" centerPoint3DY="62.45">
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down) leftChimney" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney" name="Sdown" selected="true" centerPoint3DX="116" centerPoint3DY="62.45">
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled) leftChimney" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney" name="Sdisabled">
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus) leftChimney" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney" name="Sfocus">
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

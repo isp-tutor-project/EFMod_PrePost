@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/CminutesOneButton" itemID="519a5985-00000514" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CminutesOneButton" lastModified="1369070013">
+  <timeline>
+    <DOMTimeline name="CminutesOneButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute" name="Sup" selected="true" centerPoint3DX="167.75" centerPoint3DY="400.3">
+                  <matrix>
+                    <Matrix a="2.24603271484375" d="2.24729919433594"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute" name="Sover" selected="true" centerPoint3DX="168.2" centerPoint3DY="401.65">
+                  <matrix>
+                    <Matrix a="2.25286865234375" d="2.25480651855469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute" name="Sdown" selected="true" centerPoint3DX="167.65" centerPoint3DY="400.3">
+                  <matrix>
+                    <Matrix a="2.24577331542969" d="2.247314453125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute" name="Sdisabled" selected="true" centerPoint3DX="167.65" centerPoint3DY="400.3">
+                  <matrix>
+                    <Matrix a="2.24577331542969" d="2.247314453125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute" name="Sfocus" centerPoint3DX="167.65" centerPoint3DY="400.3">
+                  <matrix>
+                    <Matrix a="2.24578857421875" d="2.24713134765625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

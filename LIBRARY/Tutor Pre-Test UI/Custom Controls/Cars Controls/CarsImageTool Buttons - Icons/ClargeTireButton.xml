@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/ClargeTireButton" itemID="519a57b8-000004e0" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ClargeTireButton" lastModified="1369069496">
+  <timeline>
+    <DOMTimeline name="ClargeTireButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide" name="Sup" centerPoint3DX="133.9" centerPoint3DY="240.75">
+                  <matrix>
+                    <Matrix a="0.82867431640625" d="0.829147338867188" tx="72" ty="93"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide" name="Sover" centerPoint3DX="133.85" centerPoint3DY="240.6">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="72" ty="92.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide" name="Sdown" centerPoint3DX="133.85" centerPoint3DY="240.6">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="72" ty="92.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide" name="Sdisabled" centerPoint3DX="133.85" centerPoint3DY="240.6">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="72" ty="92.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide" name="Sfocus" centerPoint3DX="133.85" centerPoint3DY="240.6">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="72" ty="92.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

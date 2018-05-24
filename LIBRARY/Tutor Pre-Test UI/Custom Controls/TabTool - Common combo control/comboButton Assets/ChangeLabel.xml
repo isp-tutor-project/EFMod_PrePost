@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/ChangeLabel" itemID="482ca2c7-00003a61" lastModified="1210890263">
+  <timeline>
+    <DOMTimeline name="ChangeLabel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="99" objectHeight="22" x="12" y="85" lockFlag="true" topLeftRadius="9" topRightRadius="9" bottomLeftRadius="9" bottomRightRadius="9">
+                  <matrix>
+                    <Matrix a="0.774887084960938" d="0.774887084960938" tx="-8.4" ty="-64.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.5" y="96.1"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#666666"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2" pixelHinting="true">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="100" height="22.65" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.715377807617188" d="0.715377807617188" tx="3.5" ty="2.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>changed</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="22.65" size="20" face="Courier" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__ClightDimButton" itemID="5b009080-000016bf" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ClightDimButton" lastModified="1526763648">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__ClightDimButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" name="Sup" selected="true" centerPoint3DX="386.35" centerPoint3DY="922.15">
+                  <matrix>
+                    <Matrix a="5.17385864257813" d="5.17694091796875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" name="Sover" selected="true" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" name="Sdown" selected="true" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" name="Sdisabled" selected="true" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" name="Sfocus" selected="true" centerPoint3DX="386.2" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17424011230469" d="5.17816162109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

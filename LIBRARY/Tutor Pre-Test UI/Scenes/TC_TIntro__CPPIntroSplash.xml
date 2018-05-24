@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroSplash" itemID="5b0082cf-000015b2" linkageExportForAS="true" linkageClassName="CPPIntroSplash" lastModified="1526760143" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TIntro__CPPIntroSplash">
+      <layers>
+        <DOMLayer name="Title" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="637.9" height="263.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="182.05" ty="210"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We will now ask you six questions.&#xD;&#xD;This is not a test and it will not be graded. You will not be told whether or not your answers are correct while you are answering the questions.&#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QFrame1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="512" centerPoint3DY="352.8">
+                  <matrix>
+                    <Matrix d="2.16117858886719" tx="130.1" ty="187.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="370.1">
+                  <matrix>
+                    <Matrix d="2.16117858886719" tx="138.1" ty="204.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

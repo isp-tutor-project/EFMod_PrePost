@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title2" itemID="5b008464-000015c5" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p2Title2" lastModified="1526760548">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Ci1p2Title2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="708.95" height="77.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-69" ty="-13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Change the house in any way you like; there are no right or wrong answers.  Make sure you know how to make changes to the image and then click Next when you are ready to continue.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

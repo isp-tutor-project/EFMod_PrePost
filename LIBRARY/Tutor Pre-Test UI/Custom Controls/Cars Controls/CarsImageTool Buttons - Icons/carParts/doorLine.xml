@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/doorLine" itemID="4d348ef6-00000e35" lastModified="1295290102">
+  <timeline>
+    <DOMTimeline name="doorLine">
+      <layers>
+        <DOMLayer name="Body" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Path" color="#FF800A" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#221E1F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#000066"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!7353 1400[7280 1827 7226 2267!7226 2267[7140 2978 7200 3080"/>
+                    <Edge fillStyle0="1" edges="!7200 3080|7353 1400"/>
+                    <Edge cubics="!7353 1400(;7313,1633 7106,2920 7200,3080q7353 1400Q7280 1827q7226 2267Q7140 2978q7200 3080);"/>
+                    <Edge cubics="!7200 3080(;7200,3080 7353,1400 7353,1400q7200 3080 7353 1400)7353,1400;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

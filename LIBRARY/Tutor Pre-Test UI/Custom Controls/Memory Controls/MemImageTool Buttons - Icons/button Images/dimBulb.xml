@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb" itemID="4d372cf1-00000c91" lastModified="1296141095">
+  <timeline>
+    <DOMTimeline name="dimBulb">
+      <layers>
+        <DOMLayer name="Copy 8" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-155" ty="-77"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333" alpha="0.705882352941177"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3347 1540|3668 1540!3668 1540|3668 1779!3668 1779|3347 1779!3347 1779|3347 1540"/>
+                    <Edge cubics="!3347 1540(;3347,1540 3668,1540 3668,1540q3347 1540 3668 1540);"/>
+                    <Edge cubics="!3668 1540(;3668,1540 3668,1779 3668,1779q3668 1540 3668 1779);"/>
+                    <Edge cubics="!3668 1779(;3668,1779 3347,1779 3347,1779q3668 1779 3347 1779);"/>
+                    <Edge cubics="!3347 1779(;3347,1779 3347,1540 3347,1540q3347 1779 3347 1540);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0250244140625" d="0.0250244140625" tx="20.5" ty="34.95"/>
+                        </matrix>
+                        <GradientEntry color="#CCCC7A" ratio="0.576470588235294"/>
+                        <GradientEntry color="#757500" ratio="0.96078431372549"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#E2E21F" alpha="0.627450980392157"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!247 239|236 295!236 295[216 363 172 427!172 427[59 593 58 595!58 595[-3 700 0 783!0 783[4 913 89 1022!89 1022[199 1165 391 1159!391 1159[601 1153 714 1042!714 1042[820 938 820 761!820 761[820 696 754 594!754 594[666 471 624 398!624 398
+[575 312 562 267!562 267|559 239!559 239|247 239"/>
+                    <Edge cubics="!247 239(;247,239 242,325 172,427q247 239Q247 239q236 295Q216 363q172 427);"/>
+                    <Edge cubics="!172 427(;102,530 -5,654 0,783q172 427Q59 593q58 595Q-3 700q0 783);"/>
+                    <Edge cubics="!0 783(0,783;4,911 102,1168 391,1159q0 783Q4 913q89 1022Q199 1165q391 1159);"/>
+                    <Edge cubics="!391 1159(;680,1151 820,988 820,761q391 1159Q601 1153q714 1042Q820 938q820 761);"/>
+                    <Edge cubics="!820 761(;820,654 708,543 624,398q820 761Q820 696q754 594Q666 471q624 398);"/>
+                    <Edge cubics="!624 398(;545,261 559,239 559,239q624 398Q575 312q562 267Q559 239q559 239);"/>
+                    <Edge cubics="!559 239(;559,239 247,239 247,239q559 239 247 239);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

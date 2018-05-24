@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/frontDoor" itemID="4d34a5d2-00000efb" lastModified="1296079016">
+  <timeline>
+    <DOMTimeline name="frontDoor">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-195.65" ty="-72.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0107421875" d="0.0107421875" tx="276.65" ty="96.35"/>
+                        </matrix>
+                        <GradientEntry color="#D4D4D4" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#A1A1A1" ratio="0.988235294117647"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!5533 1967[5467 1967 5420 1955!5420 1955[5373 1944 5373 1927!5373 1927[5373 1910 5420 1898!5420 1898[5467 1887 5533 1887!5533 1887[5599 1887 5646 1898!5646 1898[5693 1910 5693 1927!5693 1927[5693 1944 5646 1955!5646 1955[5599 1967 5533
+ 1967"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-210.65" ty="-459.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#221E1F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#000099"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!6230 9410[6197 9604 6199 9981!6199 9981[6201 10395 6250 10640"/>
+                    <Edge fillStyle0="1" edges="
+!6250 10640|6230 9410"/>
+                    <Edge cubics="!6230 9410(;6190,9643 6180,10290 6250,10640q6230 9410Q6197 9604q6199 9981Q6201 10395q6250 10640);"/>
+                    <Edge cubics="!6250 10640(;6250,10640 6230,9410 6230,9410q6250 10640 6230 9410);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-192.65" ty="-459.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#221E1F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#000099"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!3853 9193|3874 9787!3874 9787[3916 10425 4020 10646"/>
+                    <Edge fillStyle0="1" edges="
+!4020 10646|3853 9193"/>
+                    <Edge cubics="!3853 9193(;3853,9193 3853,10293 4020,10646q3853 9193Q3853 9193q3874 9787Q3916 10425q4020 10646);"/>
+                    <Edge cubics="!4020 10646(;4020,10646 3853,9193 3853,9193q4020 10646 3853 9193);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

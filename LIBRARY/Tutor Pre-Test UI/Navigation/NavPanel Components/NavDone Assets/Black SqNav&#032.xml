@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/Black SqNav&amp;#032" itemID="48344920-0000613b" scaleGridLeft="21.6" scaleGridRight="68.4" scaleGridTop="21.6" scaleGridBottom="68.4" lastModified="1211391487">
+  <timeline>
+    <DOMTimeline name="Black SqNav&amp;#032">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="184" objectHeight="90" x="0" y="0" lockFlag="true" topLeftRadius="9" topRightRadius="9" bottomLeftRadius="9" bottomRightRadius="9">
+                  <fill>
+                    <SolidColor color="#000099"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.5">
+                      <fill>
+                        <LinearGradient>
+                          <matrix>
+                            <Matrix a="0.0501861572265625" b="0.027008056640625" c="-0.027008056640625" d="0.0501861572265625" tx="45" ty="45"/>
+                          </matrix>
+                          <GradientEntry color="#0066FF" ratio="0.0235294117647059"/>
+                          <GradientEntry color="#010265" ratio="1"/>
+                        </LinearGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

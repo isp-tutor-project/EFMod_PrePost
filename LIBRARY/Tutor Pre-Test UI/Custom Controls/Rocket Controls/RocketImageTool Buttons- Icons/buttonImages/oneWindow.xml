@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/oneWindow" itemID="481885fd-00001b60" lastModified="1209998603">
+  <timeline>
+    <DOMTimeline name="oneWindow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-29.4" ty="-43.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.029296875" d="0.029296875" tx="130" ty="148"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#CCCCCC" ratio="0.568627450980392"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3080 2960[3080 3159 2939 3299!2939 3299[2799 3440 2600 3440!2600 3440[2401 3440 2260 3299!2260 3299[2120 3159 2120 2960!2120 2960[2120 2761 2260 2620!2260 2620[2401 2480 2600 2480!2600 2480[2799 2480 2939 2620!2939 2620[3080 2761 3080
+ 2960"/>
+                    <Edge cubics="!2120 2960(;2120,2694 2334,2480 2600,2480q2120 2960Q2120 2761q2260 2620Q2401 2480q2600 2480);"/>
+                    <Edge cubics="!2600 2480(;2865,2480 3080,2694 3080,2960q2600 2480Q2799 2480q2939 2620Q3080 2761q3080 2960);"/>
+                    <Edge cubics="!3080 2960(;3080,3225 2865,3440 2600,3440q3080 2960Q3080 3159q2939 3299Q2799 3440q2600 3440);"/>
+                    <Edge cubics="!2600 3440(;2334,3440 2120,3225 2120,2960q2600 3440Q2401 3440q2260 3299Q2120 3159q2120 2960);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

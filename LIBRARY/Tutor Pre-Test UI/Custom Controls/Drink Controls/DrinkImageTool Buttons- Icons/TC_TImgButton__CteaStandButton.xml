@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CteaStandButton" itemID="5b008fdd-000016a4" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CteaStandButton" lastModified="1526763485">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CteaStandButton">
+      <layers>
+        <DOMLayer name="(up) singleDoor" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea" name="Sup" selected="true">
+                  <matrix>
+                    <Matrix a="0.82867431640625" d="0.829147338867188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over) singleDoor" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea" name="Sover" selected="true">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down) singleDoor" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea" name="Sdown" selected="true">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled) singleDoor" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea" name="Sdisabled">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus) singleDoor" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea" name="Sfocus">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

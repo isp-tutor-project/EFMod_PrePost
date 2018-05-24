@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Prompts/Icons/CYellowArrow" itemID="48ff7fdf-000011f0" lastModified="1273800718">
+  <timeline>
+    <DOMTimeline name="CYellowArrow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="147.35" ty="1.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0718994140625" b="-0.0348968505859375" c="0.023651123046875" d="0.048675537109375" tx="-89.65" ty="42.8"/>
+                        </matrix>
+                        <GradientEntry color="#5C5B01" ratio="0.0352941176470588"/>
+                        <GradientEntry color="#FFFF00" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-915 325/-910 323!-910 323[-927 164 -1059 -31!-1059 -31/1 4!1 4/-615 915!-615 915[#FFFD55.FD 702 -792 562!-792 562[-1423 1248 -2947 866!-2947 866[-2084 841 -2126 335!-2126 335[-2083 353 -2035 377!-2035 377[-1411 719 -925 329"/>
+                    <Edge fillStyle1="1" edges="!-925 329/-915 325"/>
+                    <Edge cubics="!-925 329(;-925,329 -915,325 -915,325q-925 329 -915 325);"/>
+                    <Edge cubics="!-915 325(;-915,325 -910,323 -910,323q-915 325 -910 323);"/>
+                    <Edge cubics="!-2126 335(;-2095,348 -2065,362 -2035,377q-2126 335Q-2083 353q-2035 377);"/>
+                    <Edge cubics="!-2947 866(;-2372,849 -2098,672 -2126,335q-2947 866Q-2084 841q-2126 335);"/>
+                    <Edge cubics="!-792 562(;-1212,1019 -1930,1121 -2947,866q-792 562Q-1423 1248q-2947 866);"/>
+                    <Edge cubics="!-2035 377(;-1619,605 -1249,589 -925,329q-2035 377Q-1411 719q-925 329);"/>
+                    <Edge cubics="!-910 323(;-921,218 -970,100 -1059,-31q-910 323Q-927 164q-1059 -31);"/>
+                    <Edge cubics="!-1059 -31(;-1059,-31 1,4 1,4q-1059 -31 1 4);"/>
+                    <Edge cubics="!1 4(;1,4 -615,915 -615,915q1 4 -615 915);"/>
+                    <Edge cubics="!-615 915(;-660,773 -719,655 -792,562q-615 915Q-682 702q-792 562);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CArrowNext" itemID="5b008435-000015b9" linkageExportForAS="true" linkageClassName="CArrowNext" lastModified="1526760501">
+  <timeline>
+    <DOMTimeline name="TC_TObject__CArrowNext">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.069732666015625" b="0.0386962890625" c="-0.02618408203125" d="0.0472412109375" tx="-69.2" ty="-15.9"/>
+                        </matrix>
+                        <GradientEntry color="#5F5FFE" ratio="0.0509803921568627"/>
+                        <GradientEntry color="#0000FF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!606 763/611 766!611 766/710 360!710 360/1600 1080!1600 1080/450 1430!450 1430/530 1000!530 1000[265 911 21 820!21 820[-447 646 -854 447!-854 447[-2108 -165 -2720 -960!-2720 -960[-1931 -754 -1525 -955!-1525 -955[-1346 -1044 -1187 -1230
+!-1187 -1230[-1075 -1361 -900 -1640!-900 -1640[-913 -487 -308 182!-308 182[73 605 597 756"/>
+                    <Edge fillStyle1="1" edges="
+!597 756/606 763"/>
+                    <Edge cubics="!597 756(;597,756 606,763 606,763q597 756 606 763);"/>
+                    <Edge cubics="!606 763(;606,763 611,766 611,766q606 763 611 766);"/>
+                    <Edge cubics="!-2720 -960(;-1570,-660 -1290,-1020 -900,-1640q-2720 -960Q-1931 -754q-1525 -955Q-1346 -1044q-1187 -1230Q-1075 -1361q-900 -1640);"/>
+                    <Edge cubics="!710 360(;710,360 1600,1080 1600,1080q710 360 1600 1080);"/>
+                    <Edge cubics="!1600 1080(;1600,1080 450,1430 450,1430q1600 1080 450 1430);"/>
+                    <Edge cubics="!-900 -1640(;-920,140 199,641 597,756q-900 -1640Q-913 -487q-308 182Q73 605q597 756);"/>
+                    <Edge cubics="!611 766(;611,766 710,360 710,360q611 766 710 360);"/>
+                    <Edge cubics="!450 1430(;450,1430 530,1000 530,1000q450 1430 530 1000);"/>
+                    <Edge cubics="!-2720 -960(;-1750,300 203,879 530,1000q-2720 -960Q-2108 -165q-854 447Q-447 646q21 820Q265 911q530 1000);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

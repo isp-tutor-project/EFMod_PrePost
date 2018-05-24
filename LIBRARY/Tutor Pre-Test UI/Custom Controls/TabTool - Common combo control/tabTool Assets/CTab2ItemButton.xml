@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton" itemID="5193cf08-00001325" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorItemButton" linkageClassName="CTab2ItemButton" lastModified="1368647443" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="CTab2ItemButton">
+      <layers>
+        <DOMLayer name="Icons" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab2SelectorIcons" name="Sicons" selected="true" centerPoint3DX="72.85" centerPoint3DY="121.05">
+                  <matrix>
+                    <Matrix tx="16" ty="81.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.55" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="up" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemUp" name="Sup" selected="true" centerPoint3DX="71.9" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.991729736328125" d="1.18212890625" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="over" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemOver" name="Sover" selected="true" centerPoint3DX="71.9" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.991729736328125" d="1.18212890625" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="down" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemDown" name="Sdown" selected="true" centerPoint3DX="71.9" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.991729736328125" d="1.18212890625" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disabled" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemDisabled" name="Sdisabled" selected="true" centerPoint3DX="71.9" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.991729736328125" d="1.18212890625" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="focus" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemFocus" name="Sfocus" selected="true" centerPoint3DX="71.9" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.991729736328125" d="1.18212890625" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="checkbox" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TRadioButton__CRadioControl" name="Scheckbox" centerPoint3DX="72.4" centerPoint3DY="232.95">
+                  <matrix>
+                    <Matrix a="0.17486572265625" d="0.17486572265625" tx="60.25" ty="220.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="102.35" y="53.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

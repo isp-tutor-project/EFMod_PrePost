@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/downEngines" itemID="4818879f-00002096" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/downEngines" sourceLastModified="1209998504" lastModified="1209998504" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="downEngines">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-17.4" ty="-289.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0689697265625" d="0.0689697265625" tx="77.5" ty="585"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#999999" ratio="0.486274509803922"/>
+                        <GradientEntry ratio="0.87843137254902"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!989 11546[611 12094 580 12500!580 12500|580 12700!580 12700|2580 12700!2580 12700|2580 12460!2580 12460[2575 12328 2475 12090!2475 12090[2275 11615 1800 11090!1800 11090|1820 9640!1820 9640|1360 9640!1360 9640|1360 11080!1360 11080|1245
+ 11210!1245 11210[1106 11376 989 11546"/>
+                    <Edge cubics="!1360 9640(;1360,9640 1360,11080 1360,11080q1360 9640 1360 11080);"/>
+                    <Edge cubics="!1360 11080(;1360,11080 630,11850 580,12500q1360 11080Q1360 11080q1245 11210Q1106 11376q989 11546Q611 12094q580 12500);"/>
+                    <Edge cubics="!580 12500(;580,12500 580,12700 580,12700q580 12500 580 12700);"/>
+                    <Edge cubics="!580 12700(;580,12700 2580,12700 2580,12700q580 12700 2580 12700);"/>
+                    <Edge cubics="!2580 12700(;2580,12700 2580,12460 2580,12460q2580 12700 2580 12460);"/>
+                    <Edge cubics="!2580 12460(;2580,12460 2560,11930 1800,11090q2580 12460Q2575 12328q2475 12090Q2275 11615q1800 11090);"/>
+                    <Edge cubics="!1800 11090(;1800,11090 1820,9640 1820,9640q1800 11090 1820 9640);"/>
+                    <Edge cubics="!1820 9640(;1820,9640 1360,9640 1360,9640q1820 9640 1360 9640);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-17.4" ty="-289.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0610198974609375" d="0.0610198974609375" tx="79" ty="636.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.282352941176471"/>
+                        <GradientEntry color="#F5F5F5" ratio="0.431372549019608"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!2287 12836[1993 12880 1580 12880!1580 12880[1166 12880 873 12836!873 12836[580 12792 580 12730!580 12730[580 12668 873 12624!873 12624[1165 12580 1580 12580!1580 12580[1994 12580 2287 12624!2287 12624[2580 12668 2580 12730!2580 12730
+[2580 12792 2287 12836"/>
+                    <Edge cubics="!580 12730(;580,12647 1027,12580 1580,12580q580 12730Q580 12668q873 12624Q1165 12580q1580 12580);"/>
+                    <Edge cubics="!1580 12580(;2132,12580 2580,12647 2580,12730q1580 12580Q1994 12580q2287 12624Q2580 12668q2580 12730);"/>
+                    <Edge cubics="!2580 12730(;2580,12812 2132,12880 1580,12880q2580 12730Q2580 12792q2287 12836Q1993 12880q1580 12880);"/>
+                    <Edge cubics="!1580 12880(;1027,12880 580,12812 580,12730q1580 12880Q1166 12880q873 12836Q580 12792q580 12730);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-17.4" ty="-289.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0689697265625" d="0.0689697265625" tx="186.5" ty="585"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#999999" ratio="0.486274509803922"/>
+                        <GradientEntry ratio="0.87843137254902"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!3540 9640|3540 11080!3540 11080|3425 11210!3425 11210[3286 11376 3169 11546!3169 11546[2791 12094 2760 12500!2760 12500|2760 12700!2760 12700|4760 12700!4760 12700|4760 12460!4760 12460[4755 12328 4655 12090!4655 12090[4455 11615 3980
+ 11090!3980 11090|4000 9640!4000 9640|3540 9640"/>
+                    <Edge cubics="!3540 9640(;3540,9640 3540,11080 3540,11080q3540 9640 3540 11080);"/>
+                    <Edge cubics="!3540 11080(;3540,11080 2810,11850 2760,12500q3540 11080Q3540 11080q3425 11210Q3286 11376q3169 11546Q2791 12094q2760 12500);"/>
+                    <Edge cubics="!2760 12500(;2760,12500 2760,12700 2760,12700q2760 12500 2760 12700);"/>
+                    <Edge cubics="!2760 12700(;2760,12700 4760,12700 4760,12700q2760 12700 4760 12700);"/>
+                    <Edge cubics="!4760 12700(;4760,12700 4760,12460 4760,12460q4760 12700 4760 12460);"/>
+                    <Edge cubics="!4760 12460(;4760,12460 4740,11930 3980,11090q4760 12460Q4755 12328q4655 12090Q4455 11615q3980 11090);"/>
+                    <Edge cubics="!3980 11090(;3980,11090 4000,9640 4000,9640q3980 11090 4000 9640);"/>
+                    <Edge cubics="!4000 9640(;4000,9640 3540,9640 3540,9640q4000 9640 3540 9640);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-17.4" ty="-289.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0610198974609375" d="0.0610198974609375" tx="188" ty="636.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.282352941176471"/>
+                        <GradientEntry color="#F5F5F5" ratio="0.431372549019608"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!2760 12730[2760 12668 3053 12624!3053 12624[3345 12580 3760 12580!3760 12580[4174 12580 4467 12624!4467 12624[4760 12668 4760 12730!4760 12730[4760 12792 4467 12836!4467 12836[4173 12880 3760 12880!3760 12880[3346 12880 3053 12836!3053
+ 12836[2760 12792 2760 12730"/>
+                    <Edge cubics="!2760 12730(;2760,12647 3207,12580 3760,12580q2760 12730Q2760 12668q3053 12624Q3345 12580q3760 12580);"/>
+                    <Edge cubics="!3760 12580(;4312,12580 4760,12647 4760,12730q3760 12580Q4174 12580q4467 12624Q4760 12668q4760 12730);"/>
+                    <Edge cubics="!4760 12730(;4760,12812 4312,12880 3760,12880q4760 12730Q4760 12792q4467 12836Q4173 12880q3760 12880);"/>
+                    <Edge cubics="!3760 12880(;3207,12880 2760,12812 2760,12730q3760 12880Q3346 12880q3053 12836Q2760 12792q2760 12730);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/radioTabOver" itemID="481a2f5b-000010af" scaleGridLeft="27" scaleGridRight="85" scaleGridTop="27.25" scaleGridBottom="85.75" lastModified="1209679683">
+  <timeline>
+    <DOMTimeline name="radioTabOver">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="112" objectHeight="113" x="13" y="13" selected="true" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix tx="-13" ty="-13"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#CCCCCC" alpha="0.298039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#666666" alpha="0.498039215686275"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

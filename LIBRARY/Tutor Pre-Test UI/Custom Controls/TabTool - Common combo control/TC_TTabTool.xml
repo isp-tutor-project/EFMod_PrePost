@@ -1,0 +1,168 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TTabTool" itemID="5b0074cb-0000106f" linkageExportForAS="true" linkageClassName="CtabTool" lastModified="1526756555" lastUniqueIdentifier="13">
+  <timeline>
+    <DOMTimeline name="TC_TTabTool">
+      <layers>
+        <DOMLayer name="2ItemButton1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab2ItemButton" name="Sitem1" centerPoint3DX="251.35" centerPoint3DY="149.65">
+                  <matrix>
+                    <Matrix tx="179.45" ty="15.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="2ItemButton2" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab2ItemButton" name="Sitem2" centerPoint3DX="406.35" centerPoint3DY="149.65">
+                  <matrix>
+                    <Matrix tx="334.45" ty="15.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="3ItemButton1" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem3" centerPoint3DX="229.15" centerPoint3DY="152.65">
+                  <matrix>
+                    <Matrix tx="156.5" ty="16.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="3itemButton2" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem4" centerPoint3DX="323.15" centerPoint3DY="152.65">
+                  <matrix>
+                    <Matrix tx="250.5" ty="16.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="3itemButton3" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem5" centerPoint3DX="417.15" centerPoint3DY="152.65">
+                  <matrix>
+                    <Matrix tx="344.5" ty="16.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="135.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="dismiss Button" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TButton__CDismissButton" name="SdismissButton" centerPoint3DX="282.45" centerPoint3DY="148.95">
+                  <matrix>
+                    <Matrix a="0.118896484375" d="0.122695922851563" tx="238.4" ty="114.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="370.5" y="282"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="topTab" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" name="StopTab" centerPoint3DX="89" centerPoint3DY="27.05">
+                  <matrix>
+                    <Matrix ty="-5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.25" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="centerTab" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" name="ScenterTab" centerPoint3DX="89" centerPoint3DY="149.05">
+                  <matrix>
+                    <Matrix ty="116.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.25" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bottomTab" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" name="SbottomTab" centerPoint3DX="89" centerPoint3DY="271.05">
+                  <matrix>
+                    <Matrix ty="238.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.25" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Frame" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrame" name="Sframe" centerPoint3DX="326" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix a="0.621627807617188" d="1.05770874023438" tx="165" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259" y="165.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

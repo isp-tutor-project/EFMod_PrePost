@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__Ctemp350Button" itemID="5b008f9e-00001693" linkageExportForAS="true" linkageClassName="Ctemp350Button" lastModified="1526763422">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__Ctemp350Button">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350" name="Sup" centerPoint3DX="74.45" centerPoint3DY="87.5">
+                  <matrix>
+                    <Matrix a="0.82867431640625" d="0.829147338867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350" name="Sover" centerPoint3DX="74.4" centerPoint3DY="87.45">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350" name="Sdown" centerPoint3DX="74.4" centerPoint3DY="87.45">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350" name="Sdisabled" centerPoint3DX="74.4" centerPoint3DY="87.45">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350" name="Sfocus" centerPoint3DX="74.4" centerPoint3DY="87.45">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

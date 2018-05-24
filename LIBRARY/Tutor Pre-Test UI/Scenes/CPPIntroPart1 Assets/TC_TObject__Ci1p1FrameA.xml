@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1FrameA" itemID="5b008451-000015c0" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p1FrameA" lastModified="1526760529">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Ci1p1FrameA">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrame">
+                  <matrix>
+                    <Matrix a="0.70269775390625" d="0.812637329101563" ty="24.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259" y="165.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

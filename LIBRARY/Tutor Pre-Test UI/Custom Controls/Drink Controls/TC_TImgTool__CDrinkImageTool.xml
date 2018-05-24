@@ -1,0 +1,121 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" itemID="5b007464-00001069" linkageExportForAS="true" linkageClassName="CDrinkImageTool" lastModified="1526756452" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TImgTool__CDrinkImageTool">
+      <layers>
+        <DOMLayer name="Background" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="drinkLemon" color="#808080" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ClemonStandButton" name="drinkLemon" centerPoint3DX="197" centerPoint3DY="266.8">
+                  <matrix>
+                    <Matrix tx="1.9" ty="-1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.5" y="143.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drinkTea" color="#FF4F4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CteaStandButton" name="drinkTea" centerPoint3DX="197.05" centerPoint3DY="266.75">
+                  <matrix>
+                    <Matrix tx="1.95" ty="-1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.5" y="143.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ageYoung" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CyoungGirlButton" name="ageYoung" centerPoint3DX="218.7" centerPoint3DY="167.15">
+                  <matrix>
+                    <Matrix tx="124.4" ty="86.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.6" y="204.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ageOlder" color="#4FFFFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ColderGirlButton" name="ageOlder" selected="true" centerPoint3DX="230.55" centerPoint3DY="134.5">
+                  <matrix>
+                    <Matrix tx="106.95" ty="62.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.05" y="202.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockNoon" color="#4F80FF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CnoonClockButton" name="clockNoon" centerPoint3DX="83" centerPoint3DY="54.9">
+                  <matrix>
+                    <Matrix tx="82.65" ty="54.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="66.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockThree" color="#4FFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CthreeClockButton" name="clockThree" centerPoint3DX="83" centerPoint3DY="54.9">
+                  <matrix>
+                    <Matrix tx="82.65" ty="54.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockSix" color="#9933CC" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CsixClockButton" name="clockSix" centerPoint3DX="83" centerPoint3DY="54.9">
+                  <matrix>
+                    <Matrix tx="82.65" ty="54.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/softTop" itemID="4d3b1f06-00001083" lastModified="1296597866" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="softTop">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC9933"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000066" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3496 -92/3064 1026!3064 1026/2976 1081!2976 1081/3396 -182!3396 -182[3496 -95 3496 -92"/>
+                    <Edge cubics="!3396 -182(;3396,-182 3496,-95 3496,-92q3396 -182Q3496 -95q3496 -92);"/>
+                    <Edge cubics="!3496 -92(;3496,-92 3064,1026 3064,1026q3496 -92 3064 1026);"/>
+                    <Edge cubics="!3064 1026(;3064,1026 2976,1081 2976,1081q3064 1026 2976 1081);"/>
+                    <Edge cubics="!2976 1081(;2976,1081 3396,-182 3396,-182q2976 1081 3396 -182);"/>
+                  </edges>
+                </DOMShape>
+                <DOMOvalObject objectWidth="2.4" objectHeight="3" x="156.2" y="44.9" endAngle="0">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-139.95" ty="-95.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor alpha="0.980392156862745"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+                <DOMOvalObject objectWidth="2.4" objectHeight="3" x="156.2" y="44.9" endAngle="0">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-149.5" ty="-52.9"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor alpha="0.980392156862745"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC9933"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000068" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3120 978/3515 -27!3515 -27|3585 83!3585 83/3208 916!3208 916/3120 978"/>
+                    <Edge cubics="!3208 916(;3208,916 3120,978 3120,978q3208 916 3120 978);"/>
+                    <Edge cubics="!3515 -27(;3515,-27 3585,83 3585,83q3515 -27 3585 83);"/>
+                    <Edge cubics="!3585 83(;3585,83 3208,916 3208,916q3585 83 3208 916);"/>
+                    <Edge cubics="!3120 978(;3120,978 3515,-27 3515,-27q3120 978 3515 -27);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="structure" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC9933"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000068" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3609 129|3666 199!3666 199|3414 684!3414 684/3272 845!3272 845/3609 129"/>
+                    <Edge cubics="!3414 684(;3414,684 3272,845 3272,845q3414 684 3272 845);"/>
+                    <Edge cubics="!3609 129(;3609,129 3664,197 3666,199q3609 129 3666 199);"/>
+                    <Edge cubics="!3666 199(;3666,199 3414,684 3414,684q3666 199 3414 684);"/>
+                    <Edge cubics="!3272 845(;3272,845 3609,129 3609,129q3272 845 3609 129);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hitMask" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="183" objectHeight="65" x="0" y="-2" lockFlag="true">
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" centerPoint3DX="55.35" centerPoint3DY="68">
+                  <matrix>
+                    <Matrix tx="-170.6" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225.95" y="59.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/Rim" itemID="4d34aa4d-0000111c" lastModified="1295297101">
+  <timeline>
+    <DOMTimeline name="Rim">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-94.75" ty="-120.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.03192138671875" d="0.03192138671875" tx="120.9" ty="146.25"/>
+                        </matrix>
+                        <GradientEntry color="#D4D4D4" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#A1A1A1" ratio="0.988235294117647"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#221E1F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2941 2925[2941 3142 2788 3295!2788 3295[2635 3448 2418 3448!2418 3448[2201 3448 2048 3295!2048 3295[1895 3142 1895 2925!1895 2925[1895 2708 2048 2555!2048 2555[2201 2402 2418 2402!2418 2402[2635 2402 2788 2555!2788 2555[2941 2708 2941
+ 2925"/>
+                    <Edge cubics="!2941 2925(;2941,3214 2707,3448 2418,3448q2941 2925Q2941 3142q2788 3295Q2635 3448q2418 3448);"/>
+                    <Edge cubics="!2418 3448(;2129,3448 1895,3214 1895,2925q2418 3448Q2201 3448q2048 3295Q1895 3142q1895 2925);"/>
+                    <Edge cubics="!1895 2925(;1895,2636 2129,2402 2418,2402q1895 2925Q1895 2708q2048 2555Q2201 2402q2418 2402);"/>
+                    <Edge cubics="!2418 2402(;2707,2402 2941,2636 2941,2925q2418 2402Q2635 2402q2788 2555Q2941 2708q2941 2925);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

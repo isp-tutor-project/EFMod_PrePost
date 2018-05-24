@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/WheelThin" itemID="4d39d427-000019a0" lastModified="1295635495" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="WheelThin">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/lowProfile" centerPoint3DX="0.55" centerPoint3DY="0.55">
+                  <matrix>
+                    <Matrix tx="-31" ty="-31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.55" y="31.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/Rim" centerPoint3DX="0.55" centerPoint3DY="0.55">
+                  <matrix>
+                    <Matrix tx="-25.6" ty="-25.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.15" y="26.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

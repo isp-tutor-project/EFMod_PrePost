@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/RightSideChimney" itemID="481b66e6-00005e59" lastModified="1209758966" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="RightSideChimney">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/redRoof" selected="true">
+                  <matrix>
+                    <Matrix ty="18.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="57"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyRightButton Components/up rightChimney" name="up" selected="true">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="125.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.65" y="246.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

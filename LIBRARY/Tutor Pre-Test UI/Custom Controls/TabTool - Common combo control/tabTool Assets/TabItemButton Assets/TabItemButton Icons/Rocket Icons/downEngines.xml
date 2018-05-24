@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/downEngines" itemID="481e453d-000005ab" lastModified="1209998872" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="downEngines">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="24.45" width="60.1" height="24.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix d="0.999542236328125" tx="9" ty="109.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Down</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/downEngines">
+                  <matrix>
+                    <Matrix a="0.7177734375" d="0.717880249023438" tx="18.5" ty="7.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.7" y="48.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

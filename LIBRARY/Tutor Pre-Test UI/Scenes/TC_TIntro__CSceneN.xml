@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CSceneN" itemID="5b0082f1-000015b7" linkageExportForAS="true" linkageClassName="CPPEndCloak" lastModified="1526760177" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TIntro__CSceneN">
+      <layers>
+        <DOMLayer name="THANKS" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__Cthankyou" centerPoint3DX="512" centerPoint3DY="377.75">
+                  <matrix>
+                    <Matrix tx="375.45" ty="349.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136.55" y="29"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix tx="1" ty="-1"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="-0.474853515625" c="0.46875" d="0" tx="511" ty="385"/>
+                      </matrix>
+                      <GradientEntry color="#DFEFFE" ratio="0"/>
+                      <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2.5" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#000066"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

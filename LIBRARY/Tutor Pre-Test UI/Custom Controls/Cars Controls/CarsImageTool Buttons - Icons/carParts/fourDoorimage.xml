@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/fourDoorimage" itemID="4d3b1f51-00001093" lastModified="1295722060" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="fourDoorimage">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/frontDoor" centerPoint3DX="209" centerPoint3DY="81.35">
+                  <matrix>
+                    <Matrix tx="158.1" ty="45.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.9" y="36.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/backDoor" centerPoint3DX="326" centerPoint3DY="75">
+                  <matrix>
+                    <Matrix tx="313.15" ty="33"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-157.6" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" centerPoint3DX="226.35" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="0.4" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225.95" y="59.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/curvedBody" itemID="48187cff-00000878" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/curvedBody" sourceLastModified="1209998460" lastModified="1209998460" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="curvedBody">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.217529296875" d="-0.217529296875" tx="73.4" ty="148.8"/>
+                        </matrix>
+                        <GradientEntry ratio="0.0980392156862745"/>
+                        <GradientEntry color="#FF0000" ratio="0.498039215686275"/>
+                        <GradientEntry color="#C20000" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1028 358[500 854 235 1548!235 1548[-135 2519 77 3746!77 3746[341 5280 1504 7128!1504 7128[1713 6827 1973 6338!1973 6338[2495 5362 2755 4428!2755 4428[3120 3121 2912 2086!2912 2086[2651 792 1504 0!1504 0[1451 28 1365 86!1365 86[1193 203
+ 1028 358"/>
+                    <Edge cubics="!1504 0(;1504,0 -1880,1752 1504,7128q1504 0Q1451 28q1365 86Q1193 203q1028 358Q500 854q235 1548Q-135 2519q77 3746Q341 5280q1504 7128);"/>
+                    <Edge cubics="!1504 7128(;1504,7128 4840,2304 1504,0q1504 7128Q1713 6827q1973 6338Q2495 5362q2755 4428Q3120 3121q2912 2086Q2651 792q1504 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

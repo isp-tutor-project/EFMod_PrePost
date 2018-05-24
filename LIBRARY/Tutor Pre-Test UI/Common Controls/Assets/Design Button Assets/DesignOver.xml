@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignOver" itemID="4820a9cb-00001c22" lastModified="1210103771">
+  <timeline>
+    <DOMTimeline name="DesignOver">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="397.95" objectHeight="33" x="-9" y="-6" selected="true" lockFlag="true" topLeftRadius="9" topRightRadius="9" bottomLeftRadius="9" bottomRightRadius="9">
+                  <matrix>
+                    <Matrix a="0.989959716796875" d="1.21214294433594" tx="8.9" ty="7.25"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

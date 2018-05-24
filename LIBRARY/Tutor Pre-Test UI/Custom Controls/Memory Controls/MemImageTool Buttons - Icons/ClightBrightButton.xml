@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/ClightBrightButton" itemID="519a595f-00000511" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ClightBrightButton" lastModified="1369069998">
+  <timeline>
+    <DOMTimeline name="ClightBrightButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" name="Sup" centerPoint3DX="386.35" centerPoint3DY="922.15">
+                  <matrix>
+                    <Matrix a="5.17385864257813" d="5.17694091796875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" name="Sover" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" name="Sdown" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" name="Sdisabled" centerPoint3DX="386.3" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17510986328125" d="5.17840576171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" name="Sfocus" centerPoint3DX="386.2" centerPoint3DY="922.25">
+                  <matrix>
+                    <Matrix a="5.17424011230469" d="5.17816162109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

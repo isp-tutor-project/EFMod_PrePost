@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrameTitle" itemID="481cf3f6-00003b39" lastModified="1209917505">
+  <timeline>
+    <DOMTimeline name="TabFrameTitle">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="364" objectHeight="35" x="-5" y="-24" topLeftRadius="10" topRightRadius="10">
+                  <matrix>
+                    <Matrix tx="5" ty="24"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#000099"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4.25">
+                      <fill>
+                        <LinearGradient>
+                          <matrix>
+                            <Matrix a="0.3192138671875" d="0.0286865234375" tx="255.5" ty="-1.5"/>
+                          </matrix>
+                          <GradientEntry color="#0A2BAB" ratio="0"/>
+                          <GradientEntry color="#0512F4" ratio="0.290196078431373"/>
+                          <GradientEntry color="#111E91" ratio="0.32156862745098"/>
+                          <GradientEntry color="#030B9A" ratio="0.964705882352941"/>
+                        </LinearGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

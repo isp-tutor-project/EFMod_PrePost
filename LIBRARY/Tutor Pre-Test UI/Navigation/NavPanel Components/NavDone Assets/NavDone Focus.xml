@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Focus" itemID="48344879-000054c4" lastModified="1211390594">
+  <timeline>
+    <DOMTimeline name="NavDone Focus">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="98" objectHeight="98" x="501" y="351" startAngle="270" endAngle="0">
+                  <matrix>
+                    <Matrix a="1.83671569824219" d="1.83671569824219" tx="-1010.2" ty="-644.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#000066"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

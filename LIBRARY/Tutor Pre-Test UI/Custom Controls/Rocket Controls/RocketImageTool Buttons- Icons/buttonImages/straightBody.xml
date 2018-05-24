@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/straightBody" itemID="48187d09-0000088a" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/straightBody" sourceLastModified="1209998634" lastModified="1209998634" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="straightBody">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599395751953125" d="0.599990844726563" tx="-238.9" ty="-1.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.362548828125" d="-0.362548828125" tx="527" ty="250"/>
+                        </matrix>
+                        <GradientEntry ratio="0.125490196078431"/>
+                        <GradientEntry color="#FF0000" ratio="0.529411764705882"/>
+                        <GradientEntry color="#C20000" ratio="0.831372549019608"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!13048 4311[12931 3569 12716 2892!12716 2892[12413 1945 11956 1266!11956 1266[11384 418 10600 40!10600 40[10452 106 10228 266!10228 266[9779 584 9395 1049!9395 1049[8858 1699 8528 2547!8528 2547[8116 3607 8052 4919!8052 4919[8000 5995
+ 8015 8365!8015 8365[8022 9550 8040 10520!8040 10520/13120 10520!13120 10520/13121 4919!13121 4919[13106 4683 13048 4311"/>
+                    <Edge cubics="!10600 40(;10600,40 8237,1103 8052,4919q10600 40Q10452 106q10228 266Q9779 584q9395 1049Q8858 1699q8528 2547Q8116 3607q8052 4919);"/>
+                    <Edge cubics="!8052 4919(;7968,6641 8040,10520 8040,10520q8052 4919Q8000 5995q8015 8365Q8022 9550q8040 10520);"/>
+                    <Edge cubics="!8040 10520(;8040,10520 13120,10520 13120,10520q8040 10520 13120 10520);"/>
+                    <Edge cubics="!13120 10520(;13120,10520 13121,4919 13121,4919q13120 10520 13121 4919);"/>
+                    <Edge cubics="!13121 4919(;13121,4919 12880,1140 10600,40q13121 4919Q13106 4683q13048 4311Q12931 3569q12716 2892Q12413 1945q11956 1266Q11384 418q10600 40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

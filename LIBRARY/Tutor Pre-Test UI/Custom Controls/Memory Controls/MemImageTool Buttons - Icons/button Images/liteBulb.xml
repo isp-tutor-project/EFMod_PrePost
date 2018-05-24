@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb" itemID="4d372ce2-00000c8f" lastModified="1295552228">
+  <timeline>
+    <DOMTimeline name="liteBulb">
+      <layers>
+        <DOMLayer name="Copy 7" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-103" ty="-216"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#333333"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!2628 4559|2307 4559!2307 4559|2307 4320!2307 4320|2628 4320!2628 4320|2628 4559"/>
+                        <Edge cubics="!2307 4320(;2307,4320 2628,4320 2628,4320q2307 4320 2628 4320);"/>
+                        <Edge cubics="!2628 4320(;2628,4320 2628,4559 2628,4559q2628 4320 2628 4559);"/>
+                        <Edge cubics="!2628 4559(;2628,4559 2307,4559 2307,4559q2628 4559 2307 4559);"/>
+                        <Edge cubics="!2307 4559(;2307,4559 2307,4320 2307,4320q2307 4559 2307 4320);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-103" ty="-216"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0250244140625" d="0.0250244140625" tx="123.5" ty="250.95"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0.654901960784314"/>
+                            <GradientEntry color="#FFFF00" ratio="0.980392156862745"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#CCCC00"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2619 4559|2307 4559!2307 4559|2296 4615!2296 4615[2276 4683 2232 4747!2232 4747[2119 4913 2118 4915!2118 4915[2057 5020 2060 5103!2060 5103[2064 5233 2149 5342!2149 5342[2259 5485 2451 5479!2451 5479[2661 5473 2774 5362!2774 5362[2880
+ 5258 2880 5081!2880 5081[2880 5016 2814 4914!2814 4914[2726 4791 2684 4718!2684 4718[2635 4632 2622 4587!2622 4587|2619 4559"/>
+                        <Edge cubics="!2307 4559(;2307,4559 2302,4645 2232,4747q2307 4559Q2307 4559q2296 4615Q2276 4683q2232 4747);"/>
+                        <Edge cubics="!2232 4747(;2162,4850 2055,4974 2060,5103q2232 4747Q2119 4913q2118 4915Q2057 5020q2060 5103);"/>
+                        <Edge cubics="!2060 5103(2060,5103;2064,5231 2162,5488 2451,5479q2060 5103Q2064 5233q2149 5342Q2259 5485q2451 5479)2451,5479;"/>
+                        <Edge cubics="!2451 5479(;2740,5471 2880,5308 2880,5081q2451 5479Q2661 5473q2774 5362Q2880 5258q2880 5081);"/>
+                        <Edge cubics="!2880 5081(;2880,4974 2768,4863 2684,4718q2880 5081Q2880 5016q2814 4914Q2726 4791q2684 4718);"/>
+                        <Edge cubics="!2684 4718(;2605,4581 2619,4559 2619,4559q2684 4718Q2635 4632q2622 4587Q2619 4559q2619 4559);"/>
+                        <Edge cubics="!2619 4559(;2619,4559 2307,4559 2307,4559q2619 4559 2307 4559);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

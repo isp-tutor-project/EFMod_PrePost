@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/oneEgg" itemID="48188c9d-00005d2f" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/oneEgg" sourceLastModified="1209572013" lastModified="1209572013" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="oneEgg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-24" ty="-16.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.037078857421875" d="0.037078857421875" tx="58.1" ty="35.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.513725490196078"/>
+                        <GradientEntry color="#E2E2E2" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1031 353[896 379 759 462!759 462[486 629 480 916!480 916|488 968!488 968[505 1030 555 1080!555 1080[713 1240 1134 1217!1134 1217[1281 1201 1417 1127!1417 1127[1688 979 1629 691!1629 691[1613 583 1530 487!1530 487[1364 294 1031 353"/>
+                    <Edge cubics="!1031 353(;1031,353 489,456 480,916q1031 353Q896 379q759 462Q486 629q480 916);"/>
+                    <Edge cubics="!480 916(;480,916 461,1254 1134,1217q480 916Q480 916q488 968Q505 1030q555 1080Q713 1240q1134 1217);"/>
+                    <Edge cubics="!1134 1217(;1134,1217 1723,1151 1629,691q1134 1217Q1281 1201q1417 1127Q1688 979q1629 691);"/>
+                    <Edge cubics="!1629 691(;1629,691 1564,259 1031,353q1629 691Q1613 583q1530 487Q1364 294q1031 353);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

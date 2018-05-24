@@ -1,0 +1,97 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Common Components/CIMarkLeft" itemID="51952682-00000625" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="CIMarkLeft" lastModified="1368729247">
+  <timeline>
+    <DOMTimeline name="CIMarkLeft">
+      <layers>
+        <DOMLayer name="Mask" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="31" objectHeight="136.95" x="448" y="341" lockFlag="true">
+                  <matrix>
+                    <Matrix d="0.510772705078125" tx="2.4" ty="174.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="463.5" y="409.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="40.3" height="26.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="393.55" ty="393"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Info</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" lineHeight="26.8" size="19" face="Arial-Black" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="63.25" width="17.5" height="73.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="340.05" ty="336.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" lineHeight="73.35" size="52" face="Arial-Black" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7621 7000[7903 6719 8300 6719!8300 6719[8698 6719 8979 7000!8979 7000[9260 7281 9260 7679!9260 7679[9260 8077 8979 8359!8979 8359[8698 8640 8300 8640!8300 8640[7903 8640 7621 8359!7621 8359[7339 8077 7339 7679!7339 7679[7339 7281 7621
+ 7000"/>
+                    <Edge cubics="!9260 7679(;9260,7944 9168,8171 8979,8359q9260 7679Q9260 8077q8979 8359);"/>
+                    <Edge cubics="!8979 7000(;9168,7188 9260,7414 9260,7679q8979 7000Q9260 7281q9260 7679);"/>
+                    <Edge cubics="!7621 8359(;7434,8171 7339,7944 7339,7679q7621 8359Q7339 8077q7339 7679);"/>
+                    <Edge cubics="!7339 7679(;7339,7414 7434,7188 7621,7000q7339 7679Q7339 7281q7621 7000);"/>
+                    <Edge cubics="!8300 8640(;8035,8640 7809,8547 7621,8359q8300 8640Q7903 8640q7621 8359);"/>
+                    <Edge cubics="!8979 8359(;8792,8547 8566,8640 8300,8640q8979 8359Q8698 8640q8300 8640);"/>
+                    <Edge cubics="!8300 6719(;8566,6719 8792,6812 8979,7000q8300 6719Q8698 6719q8979 7000);"/>
+                    <Edge cubics="!7621 7000(7621,7000;7809,6812 8035,6719 8300,6719q7621 7000Q7903 6719q8300 6719)8300,6719;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

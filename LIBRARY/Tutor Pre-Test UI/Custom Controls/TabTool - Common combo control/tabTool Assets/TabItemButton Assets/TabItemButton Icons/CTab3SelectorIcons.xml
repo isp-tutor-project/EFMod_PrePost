@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab3SelectorIcons" itemID="5193d952-00001a74" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorIcons" linkageClassName="CTab3SelectorIcons" lastModified="1368647325">
+  <timeline>
+    <DOMTimeline name="CTab3SelectorIcons">
+      <layers>
+        <DOMLayer name="temp500" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp500" name="temp500" selected="true" centerPoint3DX="55.25" centerPoint3DY="44.8">
+                  <matrix>
+                    <Matrix tx="-1.05" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="65.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="temp350" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp350" name="temp350">
+                  <matrix>
+                    <Matrix tx="-1.05" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="65.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="temp200" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp200" name="temp200">
+                  <matrix>
+                    <Matrix tx="-1.05" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="65.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockNoon" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockNoon" name="clockNoon" centerPoint3DX="56.05" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix a="0.660003662109375" d="0.660003662109375" tx="17.9" ty="-8.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="277.05" y="246.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockThree" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockThree" name="clockThree" centerPoint3DX="56.05" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix a="0.660003662109375" d="0.660003662109375" tx="17.9" ty="-8.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="277.05" y="246.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clockSix" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockSix" name="clockSix" selected="true" centerPoint3DX="56.05" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix a="0.660003662109375" d="0.660003662109375" tx="17.9" ty="-8.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="277.05" y="246.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

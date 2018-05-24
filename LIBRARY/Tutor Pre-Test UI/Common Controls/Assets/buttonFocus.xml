@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/buttonFocus" itemID="481a2a4f-00000e50" scaleGridLeft="32.05" scaleGridRight="106.95" scaleGridTop="32.05" scaleGridBottom="106.95" lastModified="1209681331">
+  <timeline>
+    <DOMTimeline name="buttonFocus">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="139" objectHeight="139" x="-43" y="-50" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix a="1.2508544921875" d="1.2508544921875" tx="36.35" ty="45.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="19.5"/>
+                  </transformationPoint>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4.5" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#666666"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

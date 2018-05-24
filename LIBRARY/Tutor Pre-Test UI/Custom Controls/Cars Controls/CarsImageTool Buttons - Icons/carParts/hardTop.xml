@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/hardTop" itemID="4d348b74-00000e00" lastModified="1296598493" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="hardTop">
+      <layers>
+        <DOMLayer name="structure" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#CC9933"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor color="#221E1F"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!47 155|390 98!390 98[821 36 1263 13!1263 13[2679 -61 3673 282!3673 282|3586 394!3586 394[3316 271 2733 190!2733 190[1567 29 0 243"/>
+                        <Edge fillStyle1="1" edges="!0 243|47 155"/>
+                        <Edge cubics="!47 155(;47,155 2082,-267 3673,282q47 155Q47 155q390 98Q821 36q1263 13Q2679 -61q3673 282);"/>
+                        <Edge cubics="!3673 282(;3673,282 3586,394 3586,394q3673 282 3586 394);"/>
+                        <Edge cubics="!3586 394(;3586,394 2507,-99 0,243q3586 394Q3316 271q2733 190Q1567 29q0 243);"/>
+                        <Edge cubics="!0 243(;0,243 47,155 47,155q0 243p47 155);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/centerPost" centerPoint3DX="89.3" centerPoint3DY="34.5">
+                      <matrix>
+                        <Matrix tx="-193.95" ty="-26.25"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hitMask" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="183" objectHeight="65" x="0" y="-2" lockFlag="true">
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" centerPoint3DX="55.35" centerPoint3DY="68">
+                  <matrix>
+                    <Matrix tx="-170.6" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225.95" y="59.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

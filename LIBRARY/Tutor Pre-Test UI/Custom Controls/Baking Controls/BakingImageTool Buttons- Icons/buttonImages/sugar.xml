@@ -1,0 +1,273 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/sugar" itemID="4818931d-00006429" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/sugar" sourceLastModified="1209578132" lastModified="1209578132" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="sugar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Path" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0000FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1900 1085/765 1335!765 1335/765 1455!765 1455/1900 1200!1900 1200/1900 1085"/>
+                    <Edge cubics="!765 1335(;765,1335 765,1455 765,1455q765 1335 765 1455);"/>
+                    <Edge cubics="!765 1455(;765,1455 1900,1200 1900,1200q765 1455 1900 1200);"/>
+                    <Edge cubics="!1900 1200(;1900,1200 1900,1085 1900,1085q1900 1200 1900 1085);"/>
+                    <Edge cubics="!1900 1085(;1900,1085 765,1335 765,1335q1900 1085 765 1335);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="54" height="21.25" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.813873291015625" b="-0.17327880859375" c="-0.0633392333984375" d="0.764007568359375" tx="27.7" ty="31.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24" y="9.9"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sugar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="21.25" size="19" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SUGAR" color="#4FFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#FF4F4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1300 40|1240 120"/>
+                    <Edge cubics="!1300 40(;1300,40 1240,120 1240,120q1300 40 1240 120)1240,120;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#4F80FF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.08203125" b="0.001434326171875" c="-0.001434326171875" d="-0.08203125" tx="51.75" ty="54.15"/>
+                        </matrix>
+                        <GradientEntry color="#000066" ratio="0"/>
+                        <GradientEntry color="#000099" ratio="0.443137254901961"/>
+                        <GradientEntry color="#000033" ratio="0.972549019607843"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1940.5 572.5[#7A1.11 #4B0.31 1960 1220!1960 1220[1966 1240 1920 1300!1920 1300|813 1560!813 1560[777 1569 715 1556!715 1556|660 1540!660 1540|20 1220!20 1220|20 540!20 540[620 766 680 780!680 780[711 787 707 797!707 797[704 803 733 800
+!733 800[796 793 1296 707!1296 707[1822 617 1880 600!1880 600[#789.47 #248.7D 1940.5 572.5!1940.5 572.5[#794.2 #236.2F 1940 560!1940 560[1947 563 1942 570!1942 570[#795.4D #23B.23 1940.5 572.5"/>
+                    <Edge cubics="!1940 560(;1940,560 1948,564 1941,573q1940 560Q1947 563q1942 570 1941 573);"/>
+                    <Edge cubics="!1941 573(;1934,579 1918,588 1880,600q1941 573 1880 600);"/>
+                    <Edge cubics="!1880 600(;1793,626 793,793 733,800q1880 600Q1822 617q1296 707Q796 793q733 800);"/>
+                    <Edge cubics="!733 800(;673,806 740,793 680,780q733 800Q704 803q707 797Q711 787q680 780);"/>
+                    <Edge cubics="!680 780(;620,766 20,540 20,540q680 780Q620 766q20 540);"/>
+                    <Edge cubics="!20 540(;20,540 20,1220 20,1220q20 540 20 1220);"/>
+                    <Edge cubics="!20 1220(;20,1220 660,1540 660,1540q20 1220 660 1540);"/>
+                    <Edge cubics="!660 1540(;660,1540 755,1575 813,1560q660 1540Q660 1540q715 1556Q777 1569q813 1560);"/>
+                    <Edge cubics="!813 1560(;868,1546 1920,1300 1920,1300q813 1560Q1920 1300q1920 1300);"/>
+                    <Edge cubics="!1920 1300(;1920,1300 1966,1240 1960,1220q1920 1300Q1966 1240q1960 1220);"/>
+                    <Edge cubics="!1941 573(;1940,568 1940,564 1940,560q1941 573Q1940 566q1940 560);"/>
+                    <Edge cubics="!1960 1220(;1955,1207 1949,991 1941,573q1960 1220Q1953 1200q1941 573);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#808080" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!120 160[165 152 285 157!285 157[525 169 900 240"/>
+                    <Edge cubics="!120 160(120,160;120,160 300,126 900,240q120 160Q165 152q285 157Q525 169q900 240);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#4FFFFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!1940 320[1920 315 1878 315!1878 315[1793 315 1680 340!1680 340[1568 365 1233 415!1233 415|920 460!920 460[863 462 807 482!807 482[696 524 700 620"/>
+                    <Edge cubics="!1940 320(;1940,320 1860,300 1680,340q1940 320Q1920 315q1878 315Q1793 315q1680 340);"/>
+                    <Edge cubics="!1680 340(1680,340;1500,380 920,460 920,460q1680 340Q1568 365q1233 415Q920 460q920 460)920,460;"/>
+                    <Edge cubics="!920 460(;920,460 693,466 700,620q920 460Q863 462q807 482Q696 524q700 620)700,620;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!1640 200[1606 180 1000 140!1000 140|720 480!720 480|695 532!695 532[671 601 680 680!680 680|660 2280!660 2280|685 2322!685 2322[718 2364 760 2360!760 2360[801 2356 1365 2197!1365 2197[1647 2118 1920 2040!1920 2040[1930 2045 1940 2025
+!1940 2025[1960 1985 1960 1860!1960 1860[1960 1735 1950 1005!1950 1005[1945 640 1940 300!1940 300[1673 220 1640 200"/>
+                    <Edge cubics="!680 680(680,680;680,680 660,2280 660,2280q680 680 660 2280);"/>
+                    <Edge cubics="!660 2280(660,2280;660,2280 693,2366 760,2360q660 2280Q660 2280q685 2322Q718 2364q760 2360);"/>
+                    <Edge cubics="!760 2360(760,2360;826,2353 1920,2040 1920,2040q760 2360Q801 2356q1365 2197Q1647 2118q1920 2040)1920,2040;"/>
+                    <Edge cubics="!1920 2040(;1920,2040 1960,2060 1960,1860q1920 2040Q1930 2045q1940 2025Q1960 1985q1960 1860);"/>
+                    <Edge cubics="!1960 1860(;1960,1660 1940,300 1940,300q1960 1860Q1960 1735q1950 1005Q1945 640q1940 300);"/>
+                    <Edge cubics="!1940 300(;1940,300 1673,220 1640,200q1940 300Q1673 220q1640 200);"/>
+                    <Edge cubics="!1640 200(1640,200;1606,180 1000,140 1000,140q1640 200Q1606 180q1000 140)1000,140;"/>
+                    <Edge cubics="!1000 140(;1000,140 720,480 720,480q1000 140 720 480);"/>
+                    <Edge cubics="!720 480(;720,480 666,553 680,680q720 480Q720 480q695 532Q671 601q680 680);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.7528076171875" d="0.75384521484375" tx="-0.75" ty="-1.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.070831298828125" c="-0.070831298828125" d="0" tx="49.75" ty="60"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.188235294117647"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.670588235294118"/>
+                        <GradientEntry color="#B0B0B0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!1830 190[1653 56 1320 40!1320 40[1065 55 793 78!793 78[248 123 160 160!160 160[135 163 108 185!108 185[53 228 40 320!40 320[28 411 33 1205!33 1205[35 1602 40 1980!40 1980|115 2043!115 2043[207 2118 297 2180!297 2180[586 2376 740 2360
+!740 2360|1900 2060!1900 2060[1912 2058 1925 2045!1925 2045[1951 2018 1960 1960!1960 1960|1940 320!1940 320[1918 257 1830 190"/>
+                    <Edge cubics="!160 160(;160,160 60,173 40,320q160 160Q135 163q108 185Q53 228q40 320);"/>
+                    <Edge cubics="!40 320(;20,466 40,1980 40,1980q40 320Q28 411q33 1205Q35 1602q40 1980);"/>
+                    <Edge cubics="!40 1980(;40,1980 493,2386 740,2360q40 1980Q40 1980q115 2043Q207 2118q297 2180Q586 2376q740 2360);"/>
+                    <Edge cubics="!740 2360(;740,2360 1900,2060 1900,2060q740 2360 1900 2060);"/>
+                    <Edge cubics="!1900 2060(1900,2060;1900,2060 1946,2053 1960,1960q1900 2060Q1912 2058q1925 2045Q1951 2018q1960 1960);"/>
+                    <Edge cubics="!1960 1960(1960,1960;1960,1960 1940,320 1940,320q1960 1960 1940 320);"/>
+                    <Edge cubics="!1940 320(;1940,320 1853,66 1320,40q1940 320Q1918 257q1830 190Q1653 56q1320 40)1320,40;"/>
+                    <Edge cubics="!1320 40(1320,40;1320,40 300,100 160,160q1320 40Q1065 55q793 78Q248 123q160 160);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

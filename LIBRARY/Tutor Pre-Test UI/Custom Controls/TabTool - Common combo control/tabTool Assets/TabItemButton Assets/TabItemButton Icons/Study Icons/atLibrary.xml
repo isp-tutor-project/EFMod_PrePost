@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/atLibrary" itemID="4d39e8b5-00002cb2" lastModified="1295640876" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="atLibrary">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="17.1" width="74.8" height="24.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix d="0.999542236328125" tx="1.4" ty="109.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Library</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library" selected="true" centerPoint3DX="164.65" centerPoint3DY="130.8">
+                  <matrix>
+                    <Matrix a="0.256210327148438" d="0.255844116210938" tx="1" ty="-20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="638.75" y="589.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

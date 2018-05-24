@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Common Components/CQMarkRight" itemID="5195268e-00000628" linkageExportForAS="true" linkageClassName="CQMarkRight" lastModified="1368729264">
+  <timeline>
+    <DOMTimeline name="CQMarkRight">
+      <layers>
+        <DOMLayer name="Mask" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="31" objectHeight="136.95" x="448" y="341" lockFlag="true">
+                  <matrix>
+                    <Matrix d="0.510772705078125" tx="-103.6" ty="174.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="463.5" y="409.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="44.8" height="102.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.812698364257813" d="0.812698364257813" tx="385.9" ty="340.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineHeight="102.95" size="73" face="Arial-Black" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7548 7122[7777 6894 8099 6894!8099 6894[8423 6894 8651 7122!8651 7122[8880 7350 8880 7674!8880 7674[8880 7997 8651 8226!8651 8226[8423 8455 8099 8455!8099 8455[7777 8455 7548 8226!7548 8226[7318 7997 7318 7674!7318 7674[7318 7350 7548
+ 7122"/>
+                    <Edge cubics="!8880 7674(;8880,7889 8805,8074 8651,8226q8880 7674Q8880 7997q8651 8226);"/>
+                    <Edge cubics="!8651 7122(;8805,7275 8880,7458 8880,7674q8651 7122Q8880 7350q8880 7674);"/>
+                    <Edge cubics="!7548 8226(;7396,8074 7318,7889 7318,7674q7548 8226Q7318 7997q7318 7674);"/>
+                    <Edge cubics="!7318 7674(;7318,7458 7396,7275 7548,7122q7318 7674Q7318 7350q7548 7122);"/>
+                    <Edge cubics="!8099 8455(;7884,8455 7700,8379 7548,8226q8099 8455Q7777 8455q7548 8226);"/>
+                    <Edge cubics="!8651 8226(;8499,8379 8316,8455 8099,8455q8651 8226Q8423 8455q8099 8455);"/>
+                    <Edge cubics="!8099 6894(;8316,6894 8499,6969 8651,7122q8099 6894Q8423 6894q8651 7122);"/>
+                    <Edge cubics="!7548 7122(7548,7122;7700,6969 7884,6894 8099,6894q7548 7122Q7777 6894q8099 6894)8099,6894;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

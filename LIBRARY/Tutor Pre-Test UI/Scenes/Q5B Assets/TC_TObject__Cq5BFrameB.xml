@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BFrameB" itemID="5b00879b-00001653" linkageExportForAS="true" linkageClassName="q5BFrameB" lastModified="1526761371">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Cq5BFrameB">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrameTitle">
+                  <matrix>
+                    <Matrix ty="0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" left="21.4" width="10.3" height="15.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="156.95" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="15.6" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrame">
+                  <matrix>
+                    <Matrix a="0.70269775390625" d="0.812637329101563" ty="24.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259" y="165.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

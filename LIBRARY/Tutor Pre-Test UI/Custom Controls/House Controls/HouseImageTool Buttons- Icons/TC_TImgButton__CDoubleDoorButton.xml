@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CDoubleDoorButton" itemID="5b00901f-000016b2" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CDoubleDoorButton" lastModified="1526763551" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CDoubleDoorButton">
+      <layers>
+        <DOMLayer name="(up) double Door" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor" name="Sup">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="71.8" ty="179.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.95" y="168.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over) double Door" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor" name="Sover" selected="true">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="71.8" ty="179.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.95" y="168.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter color="#FFFF00" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down) double Door" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor" name="Sdown">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="71.8" ty="179.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.95" y="168.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled) double Door" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor" name="Sdisabled">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="71.8" ty="179.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.95" y="168.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus) double Door" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor" name="Sfocus">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="71.8" ty="179.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.95" y="168.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/tabBar" itemID="4818b472-0000c366" scaleGridLeft="21" scaleGridRight="231" scaleGridTop="101.95" scaleGridBottom="163" lastModified="1209582633">
+  <timeline>
+    <DOMTimeline name="tabBar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4680 3760[4960 3760 4960 3480!4960 3480|4960 1680!4960 1680[4960 1400 4680 1400"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!4680 1400|280 1400!280 1400[0 1400 0 1680!0 1680|0 3480!0 3480[0 3760 280 3760!280 3760|4680 3760"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

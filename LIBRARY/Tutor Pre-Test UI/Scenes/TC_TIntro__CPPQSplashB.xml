@@ -1,0 +1,144 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplashB" itemID="5b0082dd-000015b5" linkageExportForAS="true" linkageClassName="CPPQSplashB" lastModified="1526760157">
+  <timeline>
+    <DOMTimeline name="TC_TIntro__CPPQSplashB">
+      <layers>
+        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="StitleText" fontRenderingMode="standard" width="469.95" height="60" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="277.05" ty="353"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Question 1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.05" size="52" bitmapSize="1040" face="Arial-BoldMT" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="22" blurY="22" color="#0000CC" distance="20" quality="2" strength="0.27"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Prompt" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="202.65" height="16.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="410.7" ty="430"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PRESS NEXT TO CONTINUE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.8" size="15" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QMark" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplash" centerPoint3DX="919.95" centerPoint3DY="345.95">
+                  <matrix>
+                    <Matrix tx="516.25" ty="-36.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="404.7" y="382.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QFrame1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="512" centerPoint3DY="384">
+                  <matrix>
+                    <Matrix tx="130.1" ty="307.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="392">
+                  <matrix>
+                    <Matrix tx="138.1" ty="315.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplashShadow" centerPoint3DX="926.95" centerPoint3DY="353.95">
+                  <matrix>
+                    <Matrix tx="523.25" ty="-28.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="404.7" y="382.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" selected="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="-120" bottomRightRadius="-120">
+                  <matrix>
+                    <Matrix tx="1" ty="-1"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#D5E9FD"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2.5" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#AAAAAA"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

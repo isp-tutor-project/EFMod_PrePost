@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" itemID="4d348e2e-00000e22" lastModified="1295289902">
+  <timeline>
+    <DOMTimeline name="carBody">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-33.7" ty="-34.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.294097900390625" d="0.058868408203125" tx="261.95" ty="105"/>
+                        </matrix>
+                        <GradientEntry color="#0066FF" ratio="0.698039215686274"/>
+                        <GradientEntry color="#003399" ratio="0.976470588235294"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#221E1F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!9411 1716[9693 1998 9711 2250!9711 2250[9723 2423 9606 2594!9606 2594[9470 2793 9059 2893!9059 2893[8915 2928 8671 2967!8671 2967[8276 3030 8256 3033!8256 3033[7914 3094 5523 3070!5523 3070[4296 3058 2813 3033!2813 3033[2375 3033 1845
+ 2986!1845 2986[1247 2934 975 2854!975 2854[700 2774 676 2551!676 2551[655 2353 829 2139!829 2139[1047 1870 1844 1661!1844 1661[2243 1556 2598 1505!2598 1505[2863 1329 3519 988!3519 988[3847 818 4122 683!4122 683[3935 969 3906 1251!3906
+ 1251[3848 1815 4640 1797!4640 1797[4907 1791 5620 1805!5620 1805[6127 1814 6480 1780!6480 1780[6917 1737 7235 1495!7235 1495[7531 1270 7687 903!7687 903[7737 787 7956 832!7956 832[8149 871 8443 1028!8443 1028[8710 1169 8983 1364!8983
+ 1364[9250 1555 9411 1716"/>
+                    <Edge cubics="!7687 903(;7828,574 8988,1293 9411,1716q7687 903Q7737 787q7956 832Q8149 871q8443 1028Q8710 1169q8983 1364Q9250 1555q9411 1716);"/>
+                    <Edge cubics="!9411 1716(;9834,2139 9722,2424 9606,2594q9411 1716Q9693 1998q9711 2250Q9723 2423q9606 2594);"/>
+                    <Edge cubics="!9606 2594(;9395,2903 8809,2936 8256,3033q9606 2594Q9470 2793q9059 2893Q8915 2928q8671 2967Q8276 3030q8256 3033);"/>
+                    <Edge cubics="!8256 3033(;7704,3131 3333,3033 2813,3033q8256 3033Q7914 3094q5523 3070Q4296 3058q2813 3033);"/>
+                    <Edge cubics="!2813 3033(;2292,3033 1365,2968 975,2854q2813 3033Q2375 3033q1845 2986Q1247 2934q975 2854);"/>
+                    <Edge cubics="!975 2854(;585,2740 617,2399 829,2139q975 2854Q700 2774q676 2551Q655 2353q829 2139);"/>
+                    <Edge cubics="!829 2139(;1178,1709 2598,1505 2598,1505q829 2139Q1047 1870q1844 1661Q2243 1556q2598 1505);"/>
+                    <Edge cubics="!2598 1505(;3022,1223 4122,683 4122,683q2598 1505Q2863 1329q3519 988Q3847 818q4122 683);"/>
+                    <Edge cubics="!4122 683(;4122,683 3372,1826 4640,1797q4122 683Q3935 969q3906 1251Q3848 1815q4640 1797);"/>
+                    <Edge cubics="!4640 1797(;5420,1780 5860,1840 6480,1780q4640 1797Q4907 1791q5620 1805Q6127 1814q6480 1780);"/>
+                    <Edge cubics="!6480 1780(;7084,1721 7488,1372 7687,903q6480 1780Q6917 1737q7235 1495Q7531 1270q7687 903);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-33.7" ty="-34.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0339508056640625" d="0.0339508056640625" tx="167.3" ty="59"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#DEDEDE" ratio="0.988235294117647"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#221E1F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!3830 1367[3809 1060 4020 773!4020 773|2673 1526!2673 1526|3137 1531!3137 1531[3640 1545 3840 1586!3840 1586[3866 1592 3855 1534!3855 1534[3833 1407 3830 1367"/>
+                    <Edge cubics="!4020 773(;4020,773 2673,1526 2673,1526q4020 773 2673 1526);"/>
+                    <Edge cubics="!2673 1526(;2673,1526 3520,1520 3840,1586q2673 1526Q2673 1526q3137 1531Q3640 1545q3840 1586);"/>
+                    <Edge cubics="!3840 1586(;3928,1605 3666,1253 4020,773q3840 1586Q3866 1592q3855 1534Q3833 1407q3830 1367Q3809 1060q4020 773);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

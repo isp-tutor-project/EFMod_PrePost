@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessmentB" itemID="5b008c89-00001676" linkageExportForAS="true" linkageClassName="CPPAssessmentB" lastModified="1526762633" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="TC_TScene__CPPAssessmentB">
+      <layers>
+        <DOMLayer name="QFrame1" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB" name="Sassess" selected="true" centerPoint3DX="400.1" centerPoint3DY="242.85">
+                  <matrix>
+                    <Matrix a="0.8470458984375" d="0.8470458984375" tx="76.6" ty="71.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="165.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

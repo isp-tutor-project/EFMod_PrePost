@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" itemID="4d40627a-00000462" lastModified="1296065466" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="panelDark">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-206" ty="-175"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.2545166015625" d="0.2545166015625" tx="415.7" ty="417.85"/>
+                        </matrix>
+                        <GradientEntry color="#CCCCCC" alpha="0.619607843137255" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="6">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!12460 3875S2|12460 12604!12460 12604[12460 12759 12350 12870!12350 12870[12239 12980 12084 12980!12084 12980|4495 12980!4495 12980[4340 12980 4230 12870!4230 12870[4120 12759 4120 12604!4120 12604|4120 3875!4120 3875[4120 3720 4230 3610
+!4230 3610[4340 3500 4495 3500!4495 3500|12084 3500!12084 3500[12239 3500 12350 3610!12350 3610[12460 3720 12460 3875"/>
+                    <Edge cubics="!4495 3500(;4495,3500 12084,3500 12084,3500q4495 3500 12084 3500)12084,3500;"/>
+                    <Edge cubics="!12084 3500(12084,3500;12291,3500 12460,3668 12460,3875q12084 3500Q12239 3500q12350 3610Q12460 3720q12460 3875);"/>
+                    <Edge cubics="!12460 3875(;12460,3875 12460,12604 12460,12604q12460 3875 12460 12604)12460,12604;"/>
+                    <Edge cubics="!12460 12604(12460,12604;12460,12811 12291,12980 12084,12980q12460 12604Q12460 12759q12350 12870Q12239 12980q12084 12980)12084,12980;"/>
+                    <Edge cubics="!12084 12980(12084,12980;12084,12980 4495,12980 4495,12980q12084 12980 4495 12980)4495,12980;"/>
+                    <Edge cubics="!4495 12980(;4288,12980 4120,12811 4120,12604q4495 12980Q4340 12980q4230 12870Q4120 12759q4120 12604);"/>
+                    <Edge cubics="!4120 12604(;4120,12604 4120,3875 4120,3875q4120 12604 4120 3875);"/>
+                    <Edge cubics="!4120 3875(;4120,3668 4288,3500 4495,3500q4120 3875Q4120 3720q4230 3610Q4340 3500q4495 3500);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

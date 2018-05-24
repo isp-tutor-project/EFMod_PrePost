@@ -1,0 +1,162 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/softTopOver" itemID="4d3b29c0-00001088" lastModified="1296597886" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="softTopOver">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC9933"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000068" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000066" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!3496 -92/3078 1019!3078 1019/2990 1074!2990 1074/3396 -182!3396 -182[3496 -95 3496 -92"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3286 838/3609 129!3609 129|3666 199!3666 199/3372 768!3372 768/3286 838!3134 971/3515 -27!3515 -27|3585 83!3585 83/3222 909!3222 909/3134 971"/>
+                    <Edge cubics="!3372 768(;3372,768 3286,838 3286,838q3372 768 3286 838);"/>
+                    <Edge cubics="!3609 129(;3609,129 3664,197 3666,199q3609 129 3666 199);"/>
+                    <Edge cubics="!3666 199(;3666,199 3372,768 3372,768q3666 199 3372 768);"/>
+                    <Edge cubics="!3286 838(;3286,838 3609,129 3609,129q3286 838 3609 129);"/>
+                    <Edge cubics="!3222 909(;3222,909 3134,971 3134,971q3222 909 3134 971);"/>
+                    <Edge cubics="!3515 -27(;3515,-27 3585,83 3585,83q3515 -27 3585 83);"/>
+                    <Edge cubics="!3585 83(;3585,83 3222,909 3222,909q3585 83 3222 909);"/>
+                    <Edge cubics="!3134 971(;3134,971 3515,-27 3515,-27q3134 971 3515 -27);"/>
+                    <Edge cubics="!3396 -182(;3396,-182 3496,-95 3496,-92q3396 -182Q3496 -95q3496 -92);"/>
+                    <Edge cubics="!3496 -92(;3496,-92 3078,1019 3078,1019q3496 -92 3078 1019);"/>
+                    <Edge cubics="!3078 1019(;3078,1019 2990,1074 2990,1074q3078 1019 2990 1074);"/>
+                    <Edge cubics="!2990 1074(;2990,1074 3396,-182 3396,-182q2990 1074 3396 -182);"/>
+                  </edges>
+                </DOMShape>
+                <DOMOvalObject objectWidth="2.4" objectHeight="3" x="156.2" y="44.9" endAngle="0">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-139.95" ty="-95.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor alpha="0.980392156862745"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3340 840[3326 858 3306 858!3306 858[3286 858 3272 840!3272 840[3258 822 3258 798!3258 798[3258 774 3272 756!3272 756[3286 738 3306 738!3306 738[3326 738 3340 756!3340 756[3354 774 3354 798!3354 798[3354 822 3340 840"/>
+                    <Edge cubics="!3340 756(3340,756;3350,768 3354,782 3354,798q3340 756Q3354 774q3354 798)3354,798;"/>
+                    <Edge cubics="!3306 738(;3320,738 3330,744 3340,756q3306 738Q3326 738q3340 756)3340,756;"/>
+                    <Edge cubics="!3272 756(3272,756;3282,744 3292,738 3306,738q3272 756Q3286 738q3306 738)3306,738;"/>
+                    <Edge cubics="!3258 798(;3258,782 3262,768 3272,756q3258 798Q3258 774q3272 756);"/>
+                    <Edge cubics="!3272 840(;3262,828 3258,814 3258,798q3272 840Q3258 822q3258 798);"/>
+                    <Edge cubics="!3306 858(;3292,858 3282,852 3272,840q3306 858Q3286 858q3272 840);"/>
+                    <Edge cubics="!3340 840(;3330,852 3320,858 3306,858q3340 840Q3326 858q3306 858);"/>
+                    <Edge cubics="!3354 798(;3354,814 3350,828 3340,840q3354 798Q3354 822q3340 840);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hitMask" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="183" objectHeight="65" x="0" y="-2" lockFlag="true">
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody" centerPoint3DX="55.35" centerPoint3DY="68">
+                  <matrix>
+                    <Matrix tx="-170.6" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="225.95" y="59.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0.980392156862745"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!3361 200[3033 98 2646 39!2646 39[1404 -148 19 169!19 169[-102 290 -180 460!-180 460[-338 798 -127 1039!-127 1039[-90 1112 55 1178!55 1178[345 1311 887 1280!887 1280[1429 1250 2016 1250!2016 1250[2315 1250 2550 1256!2550 1256[2599 1256
+ 2709 1221!2709 1221[2863 1171 3007 1081!3007 1081[3442 810 3610 290!3610 290[3524 251 3361 200"/>
+                    <Edge cubics="!3610 290(;3610,290 2235,-339 19,169q3610 290Q3524 251q3361 200Q3033 98q2646 39Q1404 -148q19 169);"/>
+                    <Edge cubics="!19 169(;19,169 -464,654 -127,1039q19 169Q-102 290q-180 460Q-338 798q-127 1039);"/>
+                    <Edge cubics="!-127 1039(;-127,1039 20,1329 887,1280q-127 1039Q-90 1112q55 1178Q345 1311q887 1280);"/>
+                    <Edge cubics="!887 1280(;1754,1232 2477,1256 2550,1256q887 1280Q1429 1250q2016 1250Q2315 1250q2550 1256);"/>
+                    <Edge cubics="!2550 1256(;2622,1256 3344,1111 3610,290q2550 1256Q2599 1256q2709 1221Q2863 1171q3007 1081Q3442 810q3610 290);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

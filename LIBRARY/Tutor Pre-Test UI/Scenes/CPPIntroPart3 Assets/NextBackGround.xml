@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/NextBackGround" itemID="482d8987-00000dc1" symbolType="graphic" lastModified="1210947479">
+  <timeline>
+    <DOMTimeline name="NextBackGround">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="-100" bottomRightRadius="-100">
+                  <matrix>
+                    <Matrix tx="-511" ty="-385"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#CCCCCC" alpha="0.298039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2.5" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

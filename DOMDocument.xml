@@ -1,0 +1,763 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="BE45CD6DC1516F4682D0D973A778851E">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5b05ec75-0000044e"/>
+          <DOMFolderItem name="Common Controls" itemID="536eeb34-00001d33"/>
+          <DOMFolderItem name="Common Controls/Assessment Assets" itemID="538ddcd7-00001318"/>
+          <DOMFolderItem name="Common Prompts" itemID="48ff6e5f-0000028d"/>
+          <DOMFolderItem name="Common Prompts/Icons" itemID="48ff73ee-00000a02" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Global Assets" itemID="536eeb34-00001d51"/>
+          <DOMFolderItem name="Tutor Global Assets/Global Assets" itemID="48c16bbe-00000db3" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI" itemID="4817410f-00001d29" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls" itemID="4817761b-0000586c"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets" itemID="4818ab50-0000b842" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets" itemID="4819d670-00001e81"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets" itemID="4820a93e-00001ab2"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls" itemID="48178561-000069fb"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Baking Controls" itemID="4818b7df-0000d01a"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons" itemID="4818a4dc-00007222"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages" itemID="48187c92-00000652"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Cars Controls" itemID="4d346f24-00000ae7"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons" itemID="4d346f9d-00000baf" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages" itemID="4d39c469-000009e4"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts" itemID="4d34a3de-00000e84"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Drink Controls" itemID="4818d5ca-00000ca4"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons" itemID="4818d60d-00000e02"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages" itemID="48178edf-00008ebb"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls" itemID="4818b7d9-0000d005"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons" itemID="4818a4e3-0000722b"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/BluePaintButton Components" itemID="4815e5f2-0000127a"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages" itemID="481b64b3-000051ff"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components" itemID="4815e607-00001296"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyRightButton Components" itemID="4815e627-000012b2"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components" itemID="4815e637-000012d7"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/PinkPaintButton Components" itemID="4815e640-00001310"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components" itemID="4815e650-0000135b"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Memory Controls" itemID="4d346f1f-00000ae6"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons" itemID="4d35ebe1-0000044e" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images" itemID="4d372eff-00000cac"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Rocket Controls" itemID="4818b7e6-0000d02f"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons" itemID="4818a4e7-0000722c" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages" itemID="48187c80-00000613"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Study Controls" itemID="4d35fc60-0000055e"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons" itemID="4d35fd81-00000562"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images" itemID="4d3741bf-0000060e"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control" itemID="481f1b57-00003050"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets" itemID="481f1aeb-00002f07"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets" itemID="481f1759-00001f0b"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame" itemID="481f1775-00001f63"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets" itemID="481f178b-00001fbc"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons" itemID="481f1526-00001b55"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons" itemID="48190f66-00001d0b"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons" itemID="4d34b15b-00002090"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons" itemID="4d34b17c-00002096"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons" itemID="48175eeb-00002853"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons" itemID="4d34b19b-00002098"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons" itemID="48190f6c-00001d44"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons" itemID="4d39ddd7-00002017"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Navigation" itemID="480cef3c-00001229"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Navigation/NavPanel Components" itemID="480f5e74-000015f0"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets" itemID="483448a8-000054f3"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes" itemID="5afde786-00000920" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Common Components" itemID="481f9a47-0000066a"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets" itemID="51967c62-00000d54"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets" itemID="51967c6f-00000d55"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets" itemID="51967c96-00000d62"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/CQSplash Assets" itemID="48205df0-00000c8d"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q1A Assets" itemID="4d30c041-000003a3"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q1B Assets" itemID="4d30c199-0000058b"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q2A Assets" itemID="4d30c0b3-000003d6"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q2B Assets" itemID="4d30c1be-00000595"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q3A Assets" itemID="4d30c0e7-00000414"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q3B Assets" itemID="4d3f2059-00000848"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q4A Assets" itemID="4d30c102-00000438"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q4B Assets" itemID="4d3f2060-0000084c"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q5A Assets" itemID="4d30c1a0-00000590"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q5B Assets" itemID="4d3f2067-00000850"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q6A Assets" itemID="4d30c1c5-00000596"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Scenes/Q6B Assets" itemID="4d3f2070-00000854"/>
+          <DOMFolderItem name="Tutor Std Scenes" itemID="5b008137-00001482" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 1 1527114869.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1523901913"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="Common Controls/Assessment Assets/CplaceHolder.xml" itemID="536646c4-000008cc" lastModified="1399211716"/>
+          <Include href="Common Prompts/Icons/CYellowArrow.xml" loadImmediate="false" itemID="48ff7fdf-000011f0" lastModified="1273800718"/>
+          <Include href="Tutor Global Assets/Global Assets/IntroBackgroundNewB.xml" loadImmediate="false" itemID="538dd44e-00000e2e" lastModified="1401803872"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/BigButton.xml" loadImmediate="false" itemID="48220e0e-00006eda" lastModified="1210194974"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/BigButtonGrey.xml" loadImmediate="false" itemID="515c4cdf-000020ba" lastModified="1365003499"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/buttonBox.xml" loadImmediate="false" itemID="4818ab2f-0000b7ed" lastModified="1209682121"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/buttonFocus.xml" loadImmediate="false" itemID="481a2a4f-00000e50" lastModified="1209681331"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/checked.xml" loadImmediate="false" itemID="4819d689-00001e93" lastModified="1210611753"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/disabled dn.xml" loadImmediate="false" itemID="48286bcb-00000f94" lastModified="1210612187"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/disabled up.xml" loadImmediate="false" itemID="48286bd1-00000fa9" lastModified="1210612368"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/down.xml" loadImmediate="false" itemID="4819d6f0-00001fc9" lastModified="1209656577"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/hit.xml" loadImmediate="false" itemID="4819e5e2-00003eba" lastModified="1209660581"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/over.xml" loadImmediate="false" itemID="4819d6cd-00001f7b" lastModified="1209656541"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/up.xml" loadImmediate="false" itemID="4819d6a5-00001edd" lastModified="1209660649"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/CircleLabel.xml" loadImmediate="false" itemID="519a6efa-00001a35" lastModified="1369075469"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignDisabled.xml" loadImmediate="false" itemID="4820a978-00001b2a" lastModified="1210103688"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignDown.xml" loadImmediate="false" itemID="4820a967-00001b08" lastModified="1210103671"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignFocus.xml" loadImmediate="false" itemID="4820a98b-00001b54" lastModified="1210103707"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignOver.xml" loadImmediate="false" itemID="4820a9cb-00001c22" lastModified="1210103771"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignUp.xml" loadImmediate="false" itemID="4820a9c4-00001c19" lastModified="1210103764"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/radioTab.xml" loadImmediate="false" itemID="4818ab42-0000b809" lastModified="1209677644"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/radioTabOver.xml" loadImmediate="false" itemID="481a2f5b-000010af" lastModified="1209679683"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/radioTabUp&amp;#032.xml" loadImmediate="false" itemID="481a2c98-00001093" lastModified="1209679419"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/TC_TAssessIcon__CStar.xml" itemID="5b008d70-00001682" lastModified="1526762864"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__starRight.xml" itemID="5b008d87-00001683" lastModified="1526762887"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__wrong.xml" itemID="5b008d8c-00001684" lastModified="1526762892"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/textFocusBox.xml" loadImmediate="false" itemID="481cb4d7-0000254a" lastModified="1209844618"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/Assets/xparentFace.xml" loadImmediate="false" itemID="481b37e0-000024ae" lastModified="1210261371"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/DoneButton.xml" loadImmediate="false" itemID="48220e51-000070ec" lastModified="1368637313"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment.xml" itemID="5b008c8e-00001677" lastModified="1526762638"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentA.xml" itemID="5b008c93-00001679" lastModified="1526762643"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB.xml" itemID="5b008c98-0000167b" lastModified="1526762648"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TButton__CDesignButton.xml" itemID="5b008cc4-0000167d" lastModified="1526762692"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TButton__CDismissButton.xml" itemID="5b008cd4-0000167e" lastModified="1526762708"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton.xml" itemID="5b008d24-00001681" lastModified="1526762788"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TRadioButton__CRadioControl.xml" itemID="5b008ceb-0000167f" lastModified="1526762731"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TText__CTextControl.xml" itemID="5b008d05-00001680" lastModified="1526762757"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/honey.xml" loadImmediate="false" itemID="48189320-00006432" lastModified="1209573680"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/oneEgg.xml" loadImmediate="false" itemID="48188c9d-00005d2f" lastModified="1209572013"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/sugar.xml" loadImmediate="false" itemID="4818931d-00006429" lastModified="1209578132"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp200.xml" loadImmediate="false" itemID="4818925c-000063ec" lastModified="1209578390"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp350.xml" loadImmediate="false" itemID="48189268-000063fa" lastModified="1209578381"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/temp500.xml" loadImmediate="false" itemID="48189274-00006408" lastModified="1209578445"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/therm200.xml" loadImmediate="false" itemID="4818a53e-000072e3" lastModified="1209578318"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/therm350.xml" loadImmediate="false" itemID="4818a569-00007325" lastModified="1209578362"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/therm500.xml" loadImmediate="false" itemID="4818a591-0000739f" lastModified="1209578401"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/threeEgg.xml" loadImmediate="false" itemID="48188ca1-00005d44" lastModified="1209572017"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ChoneyButton.xml" itemID="5b008f85-0000168e" lastModified="1526763397"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ConeEggButton.xml" itemID="5b008f92-00001691" lastModified="1526763410"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CsugarButton.xml" itemID="5b008fa3-00001694" lastModified="1526763427"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__Ctemp200Button.xml" itemID="5b008fa9-00001696" lastModified="1526763433"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__Ctemp350Button.xml" itemID="5b008f9e-00001693" lastModified="1526763422"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__Ctemp500Button.xml" itemID="5b008f99-00001692" lastModified="1526763417"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CthreeEggButton.xml" itemID="5b008f8a-0000168f" lastModified="1526763402"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgController__CBakingController.xml" itemID="5b0073ed-00001062" lastModified="1526756368"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool.xml" itemID="5b007421-00001063" lastModified="1526756572"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/fourDoor.xml" loadImmediate="false" itemID="4d39cd84-00000caa" lastModified="1295633796"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/topClosed.xml" loadImmediate="false" itemID="4d39cd8f-00000cab" lastModified="1295633807"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/topOpen.xml" loadImmediate="false" itemID="4d39cdfb-00000cbe" lastModified="1295633941"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/twoDoor.xml" loadImmediate="false" itemID="4d39c7dd-00000a4c" lastModified="1295632898"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/WheelThin.xml" loadImmediate="false" itemID="4d39d427-000019a0" lastModified="1295635495"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/buttonImages/WheelWide.xml" loadImmediate="false" itemID="4d39d41d-0000199e" lastModified="1296078903"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/backDoor.xml" loadImmediate="false" itemID="4d34a5e8-00000efe" lastModified="1296078967"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/carBody.xml" loadImmediate="false" itemID="4d348e2e-00000e22" lastModified="1295289902"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/centerPost.xml" loadImmediate="false" itemID="4d348ee3-00000e33" lastModified="1296597924"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/doorLine.xml" loadImmediate="false" itemID="4d348ef6-00000e35" lastModified="1295290102"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/fourDoorimage.xml" loadImmediate="false" itemID="4d3b1f51-00001093" lastModified="1295722060"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/frontDoor.xml" loadImmediate="false" itemID="4d34a5d2-00000efb" lastModified="1296079016"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/hardTop.xml" loadImmediate="false" itemID="4d348b74-00000e00" lastModified="1296598493"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/hardTopOver.xml" loadImmediate="false" itemID="4d3b2901-00001074" lastModified="1296598207"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/highProfile.xml" loadImmediate="false" itemID="4d39d194-00000f5f" lastModified="1295634865"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/lowProfile.xml" loadImmediate="false" itemID="4d39d081-00000f01" lastModified="1295634836"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/Rim.xml" loadImmediate="false" itemID="4d34aa4d-0000111c" lastModified="1295297101"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/roof.xml" loadImmediate="false" itemID="4d3b2976-00001076" lastModified="1296597895"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/softTop.xml" loadImmediate="false" itemID="4d3b1f06-00001083" lastModified="1296597866"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/softTopOver.xml" loadImmediate="false" itemID="4d3b29c0-00001088" lastModified="1296597886"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresThin.xml" loadImmediate="false" itemID="4d39d4b5-000019f8" lastModified="1295722376"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/TiresWide.xml" loadImmediate="false" itemID="4d39d4ba-000019f9" lastModified="1295722388"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/twoDoorimage.xml" loadImmediate="false" itemID="4d3b1f59-00001094" lastModified="1295722132"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CfourDoorButton.xml" itemID="5b008fc0-0000169d" lastModified="1526763456"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ChardTopButton.xml" itemID="5b008fbe-0000169c" lastModified="1526763454"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ClargeTireButton.xml" itemID="5b008fbd-0000169b" lastModified="1526763453"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CsmallTireButton.xml" itemID="5b008fbb-0000169a" lastModified="1526763451"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CsoftTopButton.xml" itemID="5b008fba-00001699" lastModified="1526763450"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CtwoDoorButton.xml" itemID="5b008fb8-00001698" lastModified="1526763448"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController.xml" itemID="5b0073e2-00001061" lastModified="1526756322"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool.xml" itemID="5b00742a-00001064" lastModified="1526756394"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder.xml" loadImmediate="false" itemID="48191b1f-00003ca8" lastModified="1209608495"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageYoung.xml" loadImmediate="false" itemID="48191b22-00003cb1" lastModified="1209845923"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/clockNoon.xml" loadImmediate="false" itemID="48179784-0000d78d" lastModified="1209509268"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/clockSix.xml" loadImmediate="false" itemID="4d3081bb-000003c7" lastModified="1295024651"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/clockThree.xml" loadImmediate="false" itemID="4d3081ad-000003b9" lastModified="1295024557"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkLemon.xml" loadImmediate="false" itemID="4817972d-0000d6d2" lastModified="1210628593"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/drinkTea.xml" loadImmediate="false" itemID="48179731-0000d6e3" lastModified="1210628614"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ClemonStandButton.xml" itemID="5b008fe7-000016a8" lastModified="1526763495"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CnoonClockButton.xml" itemID="5b008fe2-000016a7" lastModified="1526763490"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ColderGirlButton.xml" itemID="5b008fe1-000016a6" lastModified="1526763489"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CsixClockButton.xml" itemID="5b008fdf-000016a5" lastModified="1526763487"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CteaStandButton.xml" itemID="5b008fdd-000016a4" lastModified="1526763485"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CthreeClockButton.xml" itemID="5b008fd9-000016a2" lastModified="1526763481"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CyoungGirlButton.xml" itemID="5b008fd7-000016a1" lastModified="1526763479"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController.xml" itemID="5b00746f-0000106a" lastModified="1526756463"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool.xml" itemID="5b007464-00001069" lastModified="1526756452"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/BluePaintButton Components/over bluePaint.xml" loadImmediate="false" itemID="4815e6cf-0000166e" lastModified="1209398495"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/bluePaint.xml" loadImmediate="false" itemID="481b64b9-00005254" lastModified="1209758409"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/LeftSideChimney.xml" loadImmediate="false" itemID="481b6576-00005456" lastModified="1209758684"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/RightSideChimney.xml" loadImmediate="false" itemID="481b66e6-00005e59" lastModified="1209758966"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/over LeftChimney.xml" loadImmediate="false" itemID="4815ebe0-000027b5" lastModified="1209399792"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/redRoof.xml" loadImmediate="false" itemID="4815eb6b-00002576" lastModified="1209400052"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/up LeftChimney.xml" loadImmediate="false" itemID="4815ebb7-0000278b" lastModified="1209758570"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyRightButton Components/up rightChimney.xml" loadImmediate="false" itemID="4815ec13-0000296b" lastModified="1209399843"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/over doubleDoor.xml" loadImmediate="false" itemID="4815ef2a-00003b06" lastModified="1209400634"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/DoubleDoorButton Components/up doubleDoor.xml" loadImmediate="false" itemID="4815f031-00003fda" lastModified="1209400897"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/PinkPaintButton Components/down pinkPaint.xml" loadImmediate="false" itemID="4815ea74-000020e7" lastModified="1209400293"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/PinkPaintButton Components/over pinkPaint.xml" loadImmediate="false" itemID="4815e6d8-000016bb" lastModified="1209398504"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/PinkPaintButton Components/up pinkPaint.xml" loadImmediate="false" itemID="4815ea5f-00002011" lastModified="1209399407"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/over singleDoor.xml" loadImmediate="false" itemID="4815f0c3-00004209" lastModified="1209401043"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/up singleDoor.xml" loadImmediate="false" itemID="4815f0bd-000041f8" lastModified="1209401037"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton.xml" itemID="5b00900c-000016ac" lastModified="1526763532"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyLeftButton.xml" itemID="5b009028-000016b8" lastModified="1526763560"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyRightButton.xml" itemID="5b009024-000016b5" lastModified="1526763556"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CDoubleDoorButton.xml" itemID="5b00901f-000016b2" lastModified="1526763551"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CPinkPaintButton.xml" itemID="5b00901c-000016b0" lastModified="1526763548"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CSingleDoorButton.xml" itemID="5b009019-000016ae" lastModified="1526763545"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController.xml" itemID="5b009054-000016ba" lastModified="1526764264"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool.xml" itemID="5b00904b-000016b9" lastModified="1526764212"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/cardFan.xml" loadImmediate="false" itemID="4d372de7-00000c9c" lastModified="1295547812"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/catIcon.xml" loadImmediate="false" itemID="4d372e59-00000ca0" lastModified="1295462066"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/catWord.xml" loadImmediate="false" itemID="4d372eb2-00000ca4" lastModified="1295462170"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/dimBulb.xml" loadImmediate="false" itemID="4d372cf1-00000c91" lastModified="1296141095"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/fiveMinute.xml" loadImmediate="false" itemID="4d372cc3-00000c8d" lastModified="1296075021"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/iconCards.xml" loadImmediate="false" itemID="4d387da4-0000353a" lastModified="1295547854"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/liteBulb.xml" loadImmediate="false" itemID="4d372ce2-00000c8f" lastModified="1295552228"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/oneMinute.xml" loadImmediate="false" itemID="4d372cbc-00000c8c" lastModified="1296074747"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark.xml" loadImmediate="false" itemID="4d40627a-00000462" lastModified="1296065466"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelLight.xml" loadImmediate="false" itemID="4d406271-00000461" lastModified="1296065473"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards.xml" loadImmediate="false" itemID="4d387dce-00003556" lastModified="1295547927"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CcardIconsButton.xml" itemID="5b009085-000016c2" lastModified="1526763653"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CcardWordsButton.xml" itemID="5b009084-000016c1" lastModified="1526763652"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__ClightBrightButton.xml" itemID="5b009082-000016c0" lastModified="1526763650"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__ClightDimButton.xml" itemID="5b009080-000016bf" lastModified="1526763648"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CminutesFiveButton.xml" itemID="5b00907e-000016be" lastModified="1526763646"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CminutesOneButton.xml" itemID="5b00907c-000016bd" lastModified="1526763644"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelDarkButton.xml" itemID="5b00907b-000016bc" lastModified="1526763643"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelLightButton.xml" itemID="5b009079-000016bb" lastModified="1526763641"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgController__CMemController.xml" itemID="5b007474-0000106b" lastModified="1526756468"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgTool__CMemImageTool.xml" itemID="5b007456-00001068" lastModified="1526756438"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/curvedBody.xml" loadImmediate="false" itemID="48187cff-00000878" lastModified="1209998460"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/downEngines.xml" loadImmediate="false" itemID="4818879f-00002096" lastModified="1209998504"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/fourWindow.xml" loadImmediate="false" itemID="481885ff-00001b61" lastModified="1209998572"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/fourWindowPanel.xml" loadImmediate="false" itemID="4818855d-00001b02" lastModified="1209570254"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/oneWindow.xml" loadImmediate="false" itemID="481885fd-00001b60" lastModified="1209998603"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/oneWindowPanel.xml" loadImmediate="false" itemID="48188562-00001b17" lastModified="1209570264"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/straightBody.xml" loadImmediate="false" itemID="48187d09-0000088a" lastModified="1209998634"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/buttonImages/tiltedEngines.xml" loadImmediate="false" itemID="48188796-00002081" lastModified="1209998675"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CcurvedBodyButton.xml" itemID="5b009097-000016c8" lastModified="1526763671"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CdownEnginesButton.xml" itemID="5b009096-000016c7" lastModified="1526763670"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CfourWindowButton.xml" itemID="5b009095-000016c6" lastModified="1526763669"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__ConeWindowButton.xml" itemID="5b009093-000016c5" lastModified="1526763667"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CstraightBodyButton.xml" itemID="5b009092-000016c4" lastModified="1526763666"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CtiltedEnginesButton.xml" itemID="5b009090-000016c3" lastModified="1526763664"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgController__CRocketController.xml" itemID="5b007477-0000106c" lastModified="1526756471"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgTool__CRocketImageTool.xml" itemID="5b007452-00001067" lastModified="1526756434"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/alone.xml" loadImmediate="false" itemID="4d37535f-000003fa" lastModified="1295538131"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/friend.xml" loadImmediate="false" itemID="4d37535c-000003f9" lastModified="1295540296"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house.xml" loadImmediate="false" itemID="4d37415c-00000605" lastModified="1295539522"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/library.xml" loadImmediate="false" itemID="4d37400d-000005ff" lastModified="1295466844"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/soda.xml" loadImmediate="false" itemID="4d374e4b-000003ed" lastModified="1295637783"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/water.xml" loadImmediate="false" itemID="4d374e14-000003e6" lastModified="1295637196"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CatHomeButton.xml" itemID="5b009159-000016d4" lastModified="1526763865"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CatLibraryButton.xml" itemID="5b00915c-000016d6" lastModified="1526763868"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CdrinkSodaButton.xml" itemID="5b0090a7-000016cc" lastModified="1526763687"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CdrinkWaterButton.xml" itemID="5b0090a6-000016cb" lastModified="1526763686"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CstudyAloneButton.xml" itemID="5b0090a4-000016ca" lastModified="1526763684"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CstudyFriendButton.xml" itemID="5b0090a2-000016c9" lastModified="1526763682"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController.xml" itemID="5b00747b-0000106d" lastModified="1526756475"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool.xml" itemID="5b00744d-00001066" lastModified="1526756429"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/ChangeLabel.xml" loadImmediate="false" itemID="482ca2c7-00003a61" lastModified="1210890263"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/SelectorButton Disabled.xml" loadImmediate="false" itemID="481373f2-000030ad" lastModified="1209677432"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/SelectorButton Down.xml" loadImmediate="false" itemID="481373de-00003077" lastModified="1209331362"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/SelectorButton Focus.xml" loadImmediate="false" itemID="48137402-000030db" lastModified="1209331488"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/SelectorButton Over.xml" loadImmediate="false" itemID="481373c1-00003041" lastModified="1209997658"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/comboButton Assets/SelectorButton Up.xml" loadImmediate="false" itemID="48137425-0000312a" lastModified="1209653873"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton.xml" itemID="5193cf08-00001325" lastModified="1368647443"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton.xml" itemID="5193cf1f-00001326" lastModified="1368650705"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab.xml" itemID="5193d143-000015a0" lastModified="1368647588"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/tabBar.xml" loadImmediate="false" itemID="4818b472-0000c366" lastModified="1209582633"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrame.xml" loadImmediate="false" itemID="48152a87-00003811" lastModified="1209860030"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrameTitle.xml" loadImmediate="false" itemID="481cf3f6-00003b39" lastModified="1209917505"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemDisabled.xml" loadImmediate="false" itemID="4818b3d4-0000c1ea" lastModified="1209851610"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemDown.xml" loadImmediate="false" itemID="4818b3de-0000c21b" lastModified="1209861213"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemFocus.xml" loadImmediate="false" itemID="4818b3e7-0000c24c" lastModified="1209851634"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemOver.xml" loadImmediate="false" itemID="4818b3ee-0000c27d" lastModified="1209861054"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemUp.xml" loadImmediate="false" itemID="4818b3ca-0000c1b1" lastModified="1209851692"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/honey.xml" loadImmediate="false" itemID="481e4481-000003cb" lastModified="1295299933"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/oneEgg.xml" loadImmediate="false" itemID="481e4774-00001354" lastModified="1209960588"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/sugar.xml" loadImmediate="false" itemID="481e4748-00001155" lastModified="1296588761"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp200.xml" loadImmediate="false" itemID="481e47e0-00001809" lastModified="1210002079"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp350.xml" loadImmediate="false" itemID="481e4821-00001a37" lastModified="1210002049"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/temp500.xml" loadImmediate="false" itemID="481e483a-00001bee" lastModified="1210002015"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/threeEgg.xml" loadImmediate="false" itemID="481e47a2-000015f8" lastModified="1209960572"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/doorsFour.xml" loadImmediate="false" itemID="4d39ed64-0000480f" lastModified="1295641967"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/doorsTwo.xml" loadImmediate="false" itemID="4d39ed6c-00004810" lastModified="1295641998"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/tireLarge.xml" loadImmediate="false" itemID="4d39ed7e-00004811" lastModified="1295643139"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/tireSmall.xml" loadImmediate="false" itemID="4d39ed85-00004812" lastModified="1295642018"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/topClosed.xml" loadImmediate="false" itemID="4d39df31-0000245b" lastModified="1295642013"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/topOpen.xml" loadImmediate="false" itemID="4d39df53-00002670" lastModified="1296597794"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab2SelectorIcons.xml" itemID="5193d947-00001a73" lastModified="1368647335"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab3SelectorIcons.xml" itemID="5193d952-00001a74" lastModified="1368647325"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/ageOlder.xml" loadImmediate="false" itemID="48191220-00002ec4" lastModified="1209845872"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/ageYoung.xml" loadImmediate="false" itemID="4819106e-000024a1" lastModified="1209845923"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockNoon.xml" loadImmediate="false" itemID="4819123b-00002f0b" lastModified="1209606237"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockSix.xml" loadImmediate="false" itemID="4d3095cc-00000fcc" lastModified="1295029862"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/clockThree.xml" loadImmediate="false" itemID="4819122b-00002edd" lastModified="1209606264"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/drinkLemon.xml" loadImmediate="false" itemID="48190f89-00001db2" lastModified="1210628593"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/drinkTea.xml" loadImmediate="false" itemID="48191042-000022e1" lastModified="1210628614"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/BluePaint.xml" loadImmediate="false" itemID="48153aba-000054ee" lastModified="1295640492"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/ChimneyLeft.xml" loadImmediate="false" itemID="48151353-0000144f" lastModified="1295638223"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/ChimneyRight.xml" loadImmediate="false" itemID="4815135b-0000145d" lastModified="1209760456"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/DoubleDoor.xml" loadImmediate="false" itemID="48153aa4-0000549a" lastModified="1209405959"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/PinkPaint.xml" loadImmediate="false" itemID="48153ab0-000054c4" lastModified="1209398504"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/SingleDoor.xml" loadImmediate="false" itemID="48153a99-00005470" lastModified="1209405919"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/cardIcons.xml" loadImmediate="false" itemID="4d39eb84-00003d8a" lastModified="1295641478"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/cardWords.xml" loadImmediate="false" itemID="4d39eb80-00003d89" lastModified="1295641617"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/lightBright.xml" loadImmediate="false" itemID="4d39ecf9-00004600" lastModified="1295641849"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/lightDim.xml" loadImmediate="false" itemID="4d39ed00-00004601" lastModified="1295641943"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/minutesFive.xml" loadImmediate="false" itemID="4d39ed1f-00004808" lastModified="1296663502"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/minutesOne.xml" loadImmediate="false" itemID="4d39ed27-0000480a" lastModified="1296663830"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/curvedBody.xml" loadImmediate="false" itemID="481e4469-000003b5" lastModified="1209998891"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/downEngines.xml" loadImmediate="false" itemID="481e453d-000005ab" lastModified="1209998872"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/fourWindow.xml" loadImmediate="false" itemID="481e46c9-00000dbb" lastModified="1209998854"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/oneWindow.xml" loadImmediate="false" itemID="481e4561-000005ef" lastModified="1209998840"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/straightBody.xml" loadImmediate="false" itemID="481e4529-00000575" lastModified="1209998881"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/tiltEngines.xml" loadImmediate="false" itemID="481e454d-000005e1" lastModified="1209998862"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/atHome.xml" loadImmediate="false" itemID="4d39e928-00002ec6" lastModified="1295640965"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/atLibrary.xml" loadImmediate="false" itemID="4d39e8b5-00002cb2" lastModified="1295640876"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/drinkSoda.xml" loadImmediate="false" itemID="4d39ea85-00003b50" lastModified="1295641221"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/drinkWater.xml" loadImmediate="false" itemID="4d39ea81-00003b4f" lastModified="1296010059"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/studyAlone.xml" loadImmediate="false" itemID="4d39ea97-00003b52" lastModified="1295641239"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/studyFriend.xml" loadImmediate="false" itemID="4d39ea9d-00003b53" lastModified="1295641245"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab2ItemButton.xml" itemID="5b0074f5-00001070" lastModified="1526756602"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton.xml" itemID="5b007500-00001071" lastModified="1526756608"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TComboButton.xml" itemID="5b00750f-00001072" lastModified="1526756623"/>
+          <Include href="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TTabTool.xml" itemID="5b0074cb-0000106f" lastModified="1526756555"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/CNavDone.xml" itemID="5193f414-00000776" lastModified="1368650808"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/Black SqNav&amp;#032.xml" loadImmediate="false" itemID="48344920-0000613b" lastModified="1211391487"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/Blue SqNav.xml" loadImmediate="false" itemID="48344916-0000612d" lastModified="1211391245"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Disabled.xml" loadImmediate="false" itemID="48344864-000054a8" lastModified="1211472608"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Down.xml" loadImmediate="false" itemID="4834486f-000054b6" lastModified="1211391454"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Focus.xml" loadImmediate="false" itemID="48344879-000054c4" lastModified="1211390594"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Over.xml" loadImmediate="false" itemID="48344885-000054d2" lastModified="1211391369"/>
+          <Include href="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/NavDone Up.xml" loadImmediate="false" itemID="48344895-000054e0" lastModified="1211391404"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/Prompt1 - That'sRIght.xml" itemIcon="1" loadImmediate="false" itemID="482471fd-0000325a" lastModified="1210627171"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CArrowGoodBad.xml" itemID="5b008432-000015b8" lastModified="1526760498"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CArrowNext.xml" itemID="5b008435-000015b9" lastModified="1526760501"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CExpFrame.xml" itemID="5b008438-000015ba" lastModified="1526760504"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CIMarkLeft.xml" itemID="5b00843b-000015bb" lastModified="1526760507"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CInfoFrame.xml" itemID="5b00843e-000015bc" lastModified="1526760510"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft.xml" itemID="5b008440-000015bd" lastModified="1526760512"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight.xml" itemID="5b008442-000015be" lastModified="1526760514"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame.xml" itemID="5b008445-000015bf" lastModified="1526760517"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1.xml" loadImmediate="false" itemID="4821b84a-00000929" lastModified="1210173018"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1.xml" loadImmediate="false" itemID="481dccab-000007eb" lastModified="1209916091"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1FrameA.xml" itemID="5b008451-000015c0" lastModified="1526760529"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title1.xml" itemID="5b008453-000015c1" lastModified="1526760531"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title2.xml" itemID="5b008456-000015c2" lastModified="1526760534"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA.xml" itemID="5b00845f-000015c3" lastModified="1526760543"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title1.xml" itemID="5b008461-000015c4" lastModified="1526760545"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title2.xml" itemID="5b008464-000015c5" lastModified="1526760548"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/NextBackGround.xml" itemIcon="1" loadImmediate="false" itemID="482d8987-00000dc1" lastModified="1210947479"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__Ci1p3Title1.xml" itemID="5b008469-000015c6" lastModified="1526760553"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__Ci1p3Title2.xml" itemID="5b00846b-000015c7" lastModified="1526760555"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__CNextPrompt.xml" itemID="5b00846e-000015c8" lastModified="1526760558"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash.xml" itemID="5b00848f-000015ca" lastModified="1526760591"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1.xml" itemID="5b008491-000015cb" lastModified="1526760593"/>
+          <Include href="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__Cthankyou.xml" itemID="5b008494-000015cc" lastModified="1526760596"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1AFrameA.xml" itemID="5b0084b7-000015ce" lastModified="1526760631"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1AFrameB.xml" itemID="5b0084bb-000015cf" lastModified="1526760635"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle1.xml" itemID="5b0084c0-000015d0" lastModified="1526760640"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle2.xml" itemID="5b0084c3-000015d1" lastModified="1526760643"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3.xml" itemID="5b0084c5-000015d2" lastModified="1526760645"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3A.xml" itemID="5b0084c7-000015d3" lastModified="1526760647"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle4.xml" itemID="5b0084c9-000015d4" lastModified="1526760649"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle5.xml" itemID="5b0084cb-000015d5" lastModified="1526760651"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle6.xml" itemID="5b0084ce-000015d6" lastModified="1526760654"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle7.xml" itemID="5b0084d0-000015d7" lastModified="1526760656"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__CQ1ATitle8.xml" itemID="5b0084d2-000015d8" lastModified="1526760658"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BFrameA.xml" itemID="5b0084d9-000015d9" lastModified="1526760665"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BFrameB.xml" itemID="5b0084dc-000015da" lastModified="1526760668"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle1.xml" itemID="5b0084de-000015db" lastModified="1526760670"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle2.xml" itemID="5b0084fa-000015e2" lastModified="1526760698"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle3.xml" itemID="5b0084fd-000015e4" lastModified="1526760701"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle3A.xml" itemID="5b0084f7-000015e1" lastModified="1526760695"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle4.xml" itemID="5b0084f0-000015df" lastModified="1526760688"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle5.xml" itemID="5b0084f4-000015e0" lastModified="1526760692"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle6.xml" itemID="5b0084ee-000015de" lastModified="1526760686"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle7.xml" itemID="5b0084ea-000015dd" lastModified="1526760682"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__CQ1BTitle8.xml" itemID="5b0084e5-000015dc" lastModified="1526760677"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameC.xml" itemID="5b008504-000015e6" lastModified="1526760708"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameD.xml" itemID="5b00851d-000015f1" lastModified="1526760733"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameE.xml" itemID="5b00851b-000015f0" lastModified="1526760731"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameF.xml" itemID="5b008519-000015ef" lastModified="1526760729"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle1.xml" itemID="5b008518-000015ee" lastModified="1526760728"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle2.xml" itemID="5b008516-000015ed" lastModified="1526760726"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle3.xml" itemID="5b008514-000015ec" lastModified="1526760724"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle3A.xml" itemID="5b008512-000015eb" lastModified="1526760722"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle4.xml" itemID="5b008510-000015ea" lastModified="1526760720"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle5.xml" itemID="5b00850c-000015e9" lastModified="1526760716"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle6.xml" itemID="5b00850a-000015e8" lastModified="1526760714"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle7.xml" itemID="5b008507-000015e7" lastModified="1526760711"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__ Cq2BTitle7.xml" itemID="5b008527-000015f4" lastModified="1526760743"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BFrameC.xml" itemID="5b00853f-000015ff" lastModified="1526760767"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BFrameD.xml" itemID="5b00853d-000015fe" lastModified="1526760765"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BFrameE.xml" itemID="5b00853c-000015fd" lastModified="1526760764"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BFrameF.xml" itemID="5b00853a-000015fc" lastModified="1526760762"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle1.xml" itemID="5b008538-000015fb" lastModified="1526760760"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle2.xml" itemID="5b008537-000015fa" lastModified="1526760759"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle3.xml" itemID="5b008535-000015f9" lastModified="1526760757"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle3A.xml" itemID="5b008533-000015f8" lastModified="1526760755"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle4.xml" itemID="5b008531-000015f7" lastModified="1526760753"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle5.xml" itemID="5b00852e-000015f6" lastModified="1526760750"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q2B Assets/TC_TObject__Cq2BTitle6.xml" itemID="5b008529-000015f5" lastModified="1526760745"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3AFrameA.xml" itemID="5b008556-0000160b" lastModified="1526760790"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3AFrameB.xml" itemID="5b008555-0000160a" lastModified="1526760789"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle1.xml" itemID="5b008553-00001609" lastModified="1526760787"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle2.xml" itemID="5b008552-00001608" lastModified="1526760786"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle3.xml" itemID="5b008551-00001607" lastModified="1526760785"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle3A.xml" itemID="5b00854f-00001606" lastModified="1526760783"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle4.xml" itemID="5b00854e-00001605" lastModified="1526760782"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle5.xml" itemID="5b00854c-00001604" lastModified="1526760780"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle6.xml" itemID="5b00854a-00001603" lastModified="1526760778"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__Cq3ATitle7.xml" itemID="5b008548-00001602" lastModified="1526760776"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3A Assets/TC_TObject__CQ3ATitle8.xml" itemID="5b008546-00001601" lastModified="1526760774"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BFrameA.xml" itemID="5b00859c-0000161d" lastModified="1526760860"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BFrameB.xml" itemID="5b008597-0000161b" lastModified="1526760855"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle1.xml" itemID="5b008595-0000161a" lastModified="1526760853"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle2.xml" itemID="5b00858e-00001618" lastModified="1526760846"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle3.xml" itemID="5b00858c-00001617" lastModified="1526760844"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle3A.xml" itemID="5b008584-00001615" lastModified="1526760836"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle4.xml" itemID="5b008583-00001614" lastModified="1526760835"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle5.xml" itemID="5b00856d-00001613" lastModified="1526760813"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle6.xml" itemID="5b00856c-00001612" lastModified="1526760812"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle7.xml" itemID="5b00855e-0000160f" lastModified="1526760798"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle8.xml" itemID="5b00855d-0000160e" lastModified="1526760797"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4AFrameC.xml" itemID="5b0085c0-0000162a" lastModified="1526760896"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4AFrameD.xml" itemID="5b0085bf-00001629" lastModified="1526760895"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4AFrameE.xml" itemID="5b0085bd-00001628" lastModified="1526760893"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4AFrameF.xml" itemID="5b0085bb-00001627" lastModified="1526760891"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle1.xml" itemID="5b0085b9-00001626" lastModified="1526760889"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle2.xml" itemID="5b0085b7-00001625" lastModified="1526760887"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle3.xml" itemID="5b0085b5-00001624" lastModified="1526760885"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle3A.xml" itemID="5b0085b2-00001623" lastModified="1526760882"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle4.xml" itemID="5b0085ae-00001622" lastModified="1526760878"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle5.xml" itemID="5b0085ac-00001621" lastModified="1526760876"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle6.xml" itemID="5b0085aa-00001620" lastModified="1526760874"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4A Assets/TC_TObject__Cq4ATitle7.xml" itemID="5b0085a8-0000161f" lastModified="1526760872"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameC.xml" itemID="5b008714-00001638" lastModified="1526761236"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameD.xml" itemID="5b008712-00001637" lastModified="1526761234"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameE.xml" itemID="5b008710-00001636" lastModified="1526761232"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameF.xml" itemID="5b00870e-00001635" lastModified="1526761230"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle1.xml" itemID="5b00870d-00001634" lastModified="1526761229"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle2.xml" itemID="5b00870b-00001633" lastModified="1526761227"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle3.xml" itemID="5b00870a-00001632" lastModified="1526761226"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle3A.xml" itemID="5b008708-00001631" lastModified="1526761224"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle4.xml" itemID="5b008706-00001630" lastModified="1526761222"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle5.xml" itemID="5b008704-0000162f" lastModified="1526761220"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle6.xml" itemID="5b008701-0000162e" lastModified="1526761217"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle7.xml" itemID="5b0086ff-0000162d" lastModified="1526761215"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5AFrameA.xml" itemID="5b008734-00001646" lastModified="1526761268"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5AFrameB.xml" itemID="5b008732-00001645" lastModified="1526761266"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle1.xml" itemID="5b00872f-00001644" lastModified="1526761263"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle2.xml" itemID="5b00872e-00001643" lastModified="1526761262"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle3.xml" itemID="5b00872c-00001642" lastModified="1526761260"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle3A.xml" itemID="5b00872a-00001641" lastModified="1526761258"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle4.xml" itemID="5b008729-00001640" lastModified="1526761257"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle5.xml" itemID="5b008728-0000163f" lastModified="1526761256"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle6.xml" itemID="5b008726-0000163e" lastModified="1526761254"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle7.xml" itemID="5b00871e-0000163c" lastModified="1526761246"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5A Assets/TC_TObject__Cq5ATitle8.xml" itemID="5b00871c-0000163b" lastModified="1526761244"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BFrameA.xml" itemID="5b00879d-00001654" lastModified="1526761373"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BFrameB.xml" itemID="5b00879b-00001653" lastModified="1526761371"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle1.xml" itemID="5b008799-00001652" lastModified="1526761369"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle2.xml" itemID="5b008798-00001651" lastModified="1526761368"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle3.xml" itemID="5b008796-00001650" lastModified="1526761366"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle3A.xml" itemID="5b008795-0000164f" lastModified="1526761365"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle4.xml" itemID="5b008792-0000164e" lastModified="1526761362"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle5.xml" itemID="5b008791-0000164d" lastModified="1526761361"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle6.xml" itemID="5b00878f-0000164c" lastModified="1526761359"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle7.xml" itemID="5b00878e-0000164b" lastModified="1526761358"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q5B Assets/TC_TObject__Cq5BTitle8.xml" itemID="5b00878c-0000164a" lastModified="1526761356"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6AFrameC.xml" itemID="5b0087d6-00001663" lastModified="1526761430"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6AFrameD.xml" itemID="5b0087d4-00001662" lastModified="1526761428"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6AFrameE.xml" itemID="5b0087d3-00001661" lastModified="1526761427"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6AFrameF.xml" itemID="5b0087d1-00001660" lastModified="1526761425"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle1.xml" itemID="5b0087d0-0000165f" lastModified="1526761424"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle2.xml" itemID="5b0087cf-0000165e" lastModified="1526761423"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle3.xml" itemID="5b0087cd-0000165d" lastModified="1526761421"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle3A.xml" itemID="5b0087cc-0000165c" lastModified="1526761420"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle4.xml" itemID="5b0087cb-0000165b" lastModified="1526761419"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle5.xml" itemID="5b0087c9-0000165a" lastModified="1526761417"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle6.xml" itemID="5b0087c8-00001659" lastModified="1526761416"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle7.xml" itemID="5b0087c1-00001657" lastModified="1526761409"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameC.xml" itemID="5b0087ef-00001670" lastModified="1526761455"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameD.xml" itemID="5b0087ed-0000166f" lastModified="1526761453"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameE.xml" itemID="5b0087ec-0000166e" lastModified="1526761452"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameF.xml" itemID="5b0087ea-0000166d" lastModified="1526761450"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle1.xml" itemID="5b0087e9-0000166c" lastModified="1526761449"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle2.xml" itemID="5b0087e7-0000166b" lastModified="1526761447"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle3.xml" itemID="5b0087e5-0000166a" lastModified="1526761445"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle3A.xml" itemID="5b0087e4-00001669" lastModified="1526761444"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle4.xml" itemID="5b0087e3-00001668" lastModified="1526761443"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle5.xml" itemID="5b0087e1-00001667" lastModified="1526761441"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle6.xml" itemID="5b0087e0-00001666" lastModified="1526761440"/>
+          <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle7.xml" itemID="5b0087de-00001665" lastModified="1526761438"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart1.xml" itemID="5b0082c4-000015af" lastModified="1527115604"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart2.xml" itemID="5b0082c7-000015b0" lastModified="1526760135"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart3.xml" itemID="5b0082cb-000015b1" lastModified="1526760139"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroSplash.xml" itemID="5b0082cf-000015b2" lastModified="1526760143"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPPostIntroSplash.xml" itemID="5b0082d4-000015b3" lastModified="1526760148"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplash.xml" itemID="5b0082d9-000015b4" lastModified="1526760153"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplashB.xml" itemID="5b0082dd-000015b5" lastModified="1526760157"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPWelcomeSplash.xml" itemID="5b0082e1-000015b6" lastModified="1526760161"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CSceneN.xml" itemID="5b0082f1-000015b7" lastModified="1526760177"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessment.xml" itemID="5b008c7b-00001674" lastModified="1526762619"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessmentA.xml" itemID="5b008c83-00001675" lastModified="1526762627"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessmentB.xml" itemID="5b008c89-00001676" lastModified="1526762633"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart1.xml" itemID="5b00757f-00001073" lastModified="1527118564"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart1B.xml" itemID="5b0076b4-000010a0" lastModified="1527117573"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart2.xml" itemID="5b007741-000010b1" lastModified="1526757185"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart1.xml" itemID="5b007746-000010b2" lastModified="1526757190"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart1B.xml" itemID="5b00774a-000010b3" lastModified="1526757194"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart2.xml" itemID="5b00774f-000010b4" lastModified="1526757199"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart1.xml" itemID="5b0076c0-000010a1" lastModified="1526757056"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart2.xml" itemID="5b0076c6-000010a2" lastModified="1526757062"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart3.xml" itemID="5b0076cb-000010a3" lastModified="1526757067"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart1.xml" itemID="5b0076d0-000010a4" lastModified="1526757072"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart2.xml" itemID="5b0076d5-000010a5" lastModified="1526757077"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart3.xml" itemID="5b0076d9-000010a6" lastModified="1526757081"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart1.xml" itemID="5b007754-000010b5" lastModified="1526757204"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart1B.xml" itemID="5b007757-000010b6" lastModified="1526757207"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart2.xml" itemID="5b00775d-000010b7" lastModified="1526757213"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart1.xml" itemID="5b007762-000010b8" lastModified="1526757218"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart1B.xml" itemID="5b007766-000010b9" lastModified="1526757222"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart2.xml" itemID="5b007769-000010ba" lastModified="1526757225"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart1.xml" itemID="5b0076de-000010a7" lastModified="1526757086"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart2.xml" itemID="5b0076e4-000010a8" lastModified="1526757092"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart3.xml" itemID="5b0076e9-000010a9" lastModified="1526757097"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart1.xml" itemID="5b0076ef-000010aa" lastModified="1526757103"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart2.xml" itemID="5b00769e-0000109f" lastModified="1526757022"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart3.xml" itemID="5b008819-00001672" lastModified="1526761497"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart1.xml" itemID="5b00776d-000010bb" lastModified="1526757229"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart1B.xml" itemID="5b007772-000010bc" lastModified="1526757234"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart2.xml" itemID="5b007779-000010bd" lastModified="1526757241"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart1.xml" itemID="5b00777e-000010be" lastModified="1526757246"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart1B.xml" itemID="5b007789-000010bf" lastModified="1526757257"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart2.xml" itemID="5b00778d-000010c0" lastModified="1526757261"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart1.xml" itemID="5b007727-000010ab" lastModified="1526757159"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart2.xml" itemID="5b00772c-000010ac" lastModified="1526757164"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart3.xml" itemID="5b007730-000010ad" lastModified="1526757168"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart1.xml" itemID="5b007733-000010ae" lastModified="1526757171"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart2.xml" itemID="5b007737-000010af" lastModified="1526757175"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart3.xml" itemID="5b00773c-000010b0" lastModified="1526757180"/>
+          <Include href="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash.xml" itemID="5b008125-0000147c" lastModified="1526759717"/>
+          <Include href="Tutor Std Scenes/TC_TStartScene__CStartScenePP.xml" itemID="5b008153-0000148d" lastModified="1526759763"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" duration="50" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="50" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="32" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="33" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="34" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="35" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="36" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="37" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="39" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="40" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="41" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="42" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="44" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="45" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="46" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="47" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="48" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="49" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="E09D928104EEB04563B110E22F660BDA" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

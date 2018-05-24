@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q4B Assets/Cq4BFrameE" itemID="51964e19-00000cd6" linkageExportForAS="true" linkageBaseClass="cmu.woz.controls.CWOZLabelControl" linkageClassName="Cq4BFrameE" lastModified="1368804948">
+  <timeline>
+    <DOMTimeline name="Cq4BFrameE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrameTitle">
+                  <matrix>
+                    <Matrix ty="0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Slabel" fontRenderingMode="standard" width="185.95" height="16" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="89.05" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/TabFrame">
+                  <matrix>
+                    <Matrix a="0.70269775390625" d="0.812637329101563" ty="24.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259" y="165.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

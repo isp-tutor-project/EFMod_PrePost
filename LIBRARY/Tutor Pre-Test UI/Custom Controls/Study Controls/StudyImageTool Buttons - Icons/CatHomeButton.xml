@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/CatHomeButton" itemID="519a5af5-00000531" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CatHomeButton" lastModified="1369070372">
+  <timeline>
+    <DOMTimeline name="CatHomeButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house" name="Sup" centerPoint3DX="56.9" centerPoint3DY="135.85">
+                  <matrix>
+                    <Matrix a="0.76190185546875" d="0.762435913085938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house" name="Sover" centerPoint3DX="56.9" centerPoint3DY="135.85">
+                  <matrix>
+                    <Matrix a="0.762039184570313" d="0.762344360351563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house" name="Sdown" centerPoint3DX="56.9" centerPoint3DY="135.85">
+                  <matrix>
+                    <Matrix a="0.762039184570313" d="0.762344360351563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house" name="Sdisabled" centerPoint3DX="56.9" centerPoint3DY="135.85">
+                  <matrix>
+                    <Matrix a="0.762039184570313" d="0.762344360351563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/button Images/house" name="Sfocus" centerPoint3DX="56.9" centerPoint3DY="135.85">
+                  <matrix>
+                    <Matrix a="0.762039184570313" d="0.762344360351563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

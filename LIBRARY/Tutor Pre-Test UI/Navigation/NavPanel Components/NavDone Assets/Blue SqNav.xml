@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Navigation/NavPanel Components/NavDone Assets/Blue SqNav" itemID="48344916-0000612d" lastModified="1211391245">
+  <timeline>
+    <DOMTimeline name="Blue SqNav" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;-1&lt;/guideline&gt;&lt;guideline direction="v"&gt;91&lt;/guideline&gt;&lt;guideline direction="h"&gt;90&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="184" objectHeight="90.95" x="-1" y="0" selected="true" lockFlag="true" topLeftRadius="9.9" topRightRadius="9.9" bottomLeftRadius="9.9" bottomRightRadius="9.9">
+                  <matrix>
+                    <Matrix a="-1" d="0.99945068359375" tx="183"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0.00909423828125" b="0.0553741455078125" c="-0.05474853515625" d="0.009002685546875" tx="45" ty="45.45"/>
+                      </matrix>
+                      <GradientEntry color="#0066FF" ratio="0.0235294117647059"/>
+                      <GradientEntry color="#000099" ratio="0.470588235294118"/>
+                      <GradientEntry color="#000099" ratio="0.501960784313725"/>
+                      <GradientEntry color="#0000FF" ratio="0.964705882352941"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

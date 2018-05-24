@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/threeEgg" itemID="48188ca1-00005d44" sourceFlashFilepath="E:\Projects\Projects FlashBuilder\TED2.1.0\Module_PrePost\PreTest_FLA\PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/threeEgg" sourceLastModified="1209572017" lastModified="1209572017" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="threeEgg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Path" color="#4FFFFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-5" ty="-5.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.037078857421875" d="0.037078857421875" tx="58.1" ty="35.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.513725490196078"/>
+                        <GradientEntry color="#E2E2E2" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1031 353[896 379 759 462!759 462[486 629 480 916!480 916|488 968!488 968[505 1030 555 1080!555 1080[713 1240 1134 1217!1134 1217[1281 1201 1417 1127!1417 1127[1688 979 1629 691!1629 691[1613 583 1530 487!1530 487[1364 294 1031 353"/>
+                    <Edge cubics="!1031 353(;1031,353 489,456 480,916q1031 353Q896 379q759 462Q486 629q480 916);"/>
+                    <Edge cubics="!480 916(;480,916 461,1254 1134,1217q480 916Q480 916q488 968Q505 1030q555 1080Q713 1240q1134 1217);"/>
+                    <Edge cubics="!1134 1217(;1134,1217 1723,1151 1629,691q1134 1217Q1281 1201q1417 1127Q1688 979q1629 691);"/>
+                    <Edge cubics="!1629 691(;1629,691 1564,259 1031,353q1629 691Q1613 583q1530 487Q1364 294q1031 353);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-2.55" ty="-3.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.037078857421875" d="0.037078857421875" tx="82.1" ty="23.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.513725490196078"/>
+                        <GradientEntry color="#E2E2E2" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2109 451[2093 343 2010 247!2010 247[1844 54 1511 113!1511 113[1376 139 1239 222!1239 222[966 389 960 676!960 676|968 728!968 728[985 790 1035 840!1035 840[1193 1000 1614 977!1614 977|1705 960!1705 960[1812 933 1897 887!1897 887[2168
+ 739 2109 451"/>
+                    <Edge cubics="!1511 113(;1511,113 969,216 960,676q1511 113Q1376 139q1239 222Q966 389q960 676);"/>
+                    <Edge cubics="!960 676(;960,676 941,1014 1614,977q960 676Q960 676q968 728Q985 790q1035 840Q1193 1000q1614 977);"/>
+                    <Edge cubics="!1614 977(;1614,977 2203,911 2109,451q1614 977Q1614 977q1705 960Q1812 933q1897 887Q2168 739q2109 451);"/>
+                    <Edge cubics="!2109 451(;2109,451 2044,19 1511,113q2109 451Q2093 343q2010 247Q1844 54q1511 113);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Path" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.037078857421875" d="0.037078857421875" tx="35.1" ty="19.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.513725490196078"/>
+                        <GradientEntry color="#E2E2E2" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!1070 167[904 -25 571 33!571 33[436 59 299 142!299 142[26 309 20 596!20 596[15 681 95 760!95 760[253 920 674 897!674 897[821 881 957 807!957 807[1228 659 1169 371!1169 371[1153 263 1070 167"/>
+                    <Edge cubics="!571 33(;571,33 29,136 20,596q571 33Q436 59q299 142Q26 309q20 596);"/>
+                    <Edge cubics="!20 596(20,596;20,596 1,934 674,897q20 596Q15 681q95 760Q253 920q674 897)674,897;"/>
+                    <Edge cubics="!674 897(;674,897 1263,831 1169,371q674 897Q821 881q957 807Q1228 659q1169 371);"/>
+                    <Edge cubics="!1169 371(;1169,371 1104,-60 571,33q1169 371Q1153 263q1070 167Q904 -25q571 33);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

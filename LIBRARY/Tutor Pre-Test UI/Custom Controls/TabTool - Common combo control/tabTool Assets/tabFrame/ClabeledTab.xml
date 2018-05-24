@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" itemID="5193d143-000015a0" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZLabeledTab" linkageClassName="ClabeledTab" lastModified="1368647588" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="ClabeledTab">
+      <layers>
+        <DOMLayer name="StabLabel" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="StabLabel" fontRenderingMode="standard" width="154.95" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="10" ty="21.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Chimney</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" bitmapSize="440" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SselTab" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/tabBar" name="SselTab" selected="true" centerPoint3DX="89" centerPoint3DY="33">
+                  <matrix>
+                    <Matrix a="0.717742919921875" d="0.559326171875" ty="-39.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="122.95" y="129"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

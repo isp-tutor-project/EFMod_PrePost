@@ -1,0 +1,161 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" itemID="5b008d24-00001681" linkageExportForAS="true" linkageClassName="CCircleControl" lastModified="1526762788" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="TC_TCircleControl__CCircleButton">
+      <layers>
+        <DOMLayer name="hit" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/hit" centerPoint3DX="79.85" centerPoint3DY="29.6">
+                  <matrix>
+                    <Matrix tx="0.2" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.65" y="29.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txtLabel" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/CircleLabel" name="Slabel" selected="true" centerPoint3DX="79.9" centerPoint3DY="32.5">
+                  <matrix>
+                    <Matrix tx="-16.45" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.35" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="checked" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/checked" name="Schecked" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="focus" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/disabled up" name="Sfocus" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#0066FF" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="up" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/up" name="Sup" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="over" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/over" name="Sover" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="down" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/down" name="Sdown" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disabled up" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/disabled up" name="SdisabledUp" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disabled down" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/disabled dn" name="SdisabledDown" centerPoint3DX="79.95" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix d="1.00067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.95" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

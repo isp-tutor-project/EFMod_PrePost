@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgController__CRocketController" itemID="5b007477-0000106c" linkageExportForAS="true" linkageClassName="CRocketController" lastModified="1526756471">
+  <timeline>
+    <DOMTimeline name="TC_TImgController__CRocketController">
+      <layers>
+        <DOMLayer name="tabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TTabTool" name="StabTool" selected="true">
+                  <transformationPoint>
+                    <Point x="243.4" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tabButtons" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TComboButton" name="StopButton">
+                  <matrix>
+                    <Matrix ty="-5.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TComboButton" name="ScenterButton">
+                  <matrix>
+                    <Matrix ty="116.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TComboButton" name="SbottomButton">
+                  <matrix>
+                    <Matrix ty="238.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

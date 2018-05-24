@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CcardWordsButton" itemID="5b009084-000016c1" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CcardWordsButton" lastModified="1526763652">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CcardWordsButton">
+      <layers>
+        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards" name="Sup" centerPoint3DX="217" centerPoint3DY="517.8">
+                  <matrix>
+                    <Matrix a="2.9052734375" d="2.9068603515625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards" name="Sover" centerPoint3DX="217" centerPoint3DY="518">
+                  <matrix>
+                    <Matrix a="2.906494140625" d="2.90805053710938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards" name="Sdown" centerPoint3DX="217" centerPoint3DY="518">
+                  <matrix>
+                    <Matrix a="2.906494140625" d="2.90805053710938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards" name="Sdisabled" centerPoint3DX="217" centerPoint3DY="518">
+                  <matrix>
+                    <Matrix a="2.906494140625" d="2.90805053710938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/wordCards" name="Sfocus" centerPoint3DX="216.9" centerPoint3DY="517.85">
+                  <matrix>
+                    <Matrix a="2.90548706054688" d="2.90707397460938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

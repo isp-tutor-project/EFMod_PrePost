@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/catWord" itemID="4d372eb2-00000ca4" lastModified="1295462170">
+  <timeline>
+    <DOMTimeline name="catWord">
+      <layers>
+        <DOMLayer name="Copy 11" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="50.05" height="18.55" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.992599487304688" b="0.121902465820313" c="-0.121856689453125" d="0.9925537109375" tx="4.5" ty="2.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CAT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" lineSpacing="1.55" lineHeight="18.55" size="16" bitmapSize="320" face="ArialRoundedMTBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

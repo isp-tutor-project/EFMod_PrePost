@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__wrong" itemID="5b008d8c-00001684" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="wrong" lastModified="1526762892">
+  <timeline>
+    <DOMTimeline name="TC_TObject__wrong">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2478 0|1485 1190!1485 1190[560 469 368 205!368 205[313 288 175 447!175 447[32 605 0 643!0 643|1142 1600!1142 1600[312 2575 223 2613!223 2613|421 2803!421 2803[630 3010 675 3100!675 3100[720 3191 732 3157!732 3157|790 3241!790 3241[1125
+ 2553 1598 1990!1598 1990[2568 2816 2607 2906!2607 2906|2798 2707!2798 2707[3005 2499 3095 2455!3095 2455[3186 2410 3152 2398!3152 2398|3099 2395!3099 2395[2526 1986 1911 1573!1911 1573[2649 564 2917 366!2917 366[2834 312 2675 174!2675
+ 174[2516 32 2478 0"/>
+                    <Edge cubics="!368 205(;279,340 64,567 0,643q368 205Q313 288q175 447Q32 605q0 643);"/>
+                    <Edge cubics="!0 643(;0,643 551,1100 1142,1600q0 643 1142 1600);"/>
+                    <Edge cubics="!1571 1963(;2108,2423 2577,2837 2607,2906q1571 1963Q2568 2816q2607 2906);"/>
+                    <Edge cubics="!2607 2906(;2607,2906 2951,2526 3095,2455q2607 2906Q2607 2906q2798 2707Q3005 2499q3095 2455);"/>
+                    <Edge cubics="!3095 2455(;3240,2383 3099,2395 3099,2395q3095 2455Q3186 2410q3152 2398Q3099 2395q3099 2395);"/>
+                    <Edge cubics="!1485 1190(;985,800 516,408 368,205q1485 1190Q560 469q368 205);"/>
+                    <Edge cubics="!2917 366(;2782,278 2554,65 2478,0q2917 366Q2834 312q2675 174Q2516 32q2478 0);"/>
+                    <Edge cubics="!2478 0(;2478,0 2003,578 1485,1190q2478 0 1485 1190);"/>
+                    <Edge cubics="!1142 1600(;695,2125 291,2584 223,2613q1142 1600Q312 2575q223 2613);"/>
+                    <Edge cubics="!223 2613(;223,2613 604,2955 675,3100q223 2613Q223 2613q421 2803Q630 3010q675 3100);"/>
+                    <Edge cubics="!675 3100(;747,3245 735,3104 735,3104q675 3100Q720 3191q732 3157Q735 3104q735 3104);"/>
+                    <Edge cubics="!735 3104(;735,3104 1116,2567 1571,1963q735 3104Q1125 2553q1571 1963);"/>
+                    <Edge cubics="!1911 1518(;2309,1004 2711,518 2917,366q1911 1518Q2649 564q2917 366);"/>
+                    <Edge cubics="!3099 2395(;2718,2122 2321,1830 1911,1518q3099 2395Q2526 1986q1911 1518);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

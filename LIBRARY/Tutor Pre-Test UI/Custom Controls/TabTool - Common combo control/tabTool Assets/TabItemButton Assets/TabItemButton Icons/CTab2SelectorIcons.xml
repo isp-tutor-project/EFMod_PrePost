@@ -1,0 +1,652 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab2SelectorIcons" itemID="5193d947-00001a73" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorIcons" linkageClassName="CTab2SelectorIcons" lastModified="1368647335" lastUniqueIdentifier="93">
+  <timeline>
+    <DOMTimeline name="CTab2SelectorIcons">
+      <layers>
+        <DOMLayer name="minutesOne" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/minutesOne" name="minutesOne" centerPoint3DX="44" centerPoint3DY="15.35">
+                  <matrix>
+                    <Matrix tx="-14.35" ty="-8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.8" y="26.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="minutesFive" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/minutesFive" name="minutesFive" centerPoint3DX="44" centerPoint3DY="15.35">
+                  <matrix>
+                    <Matrix tx="-14.35" ty="-8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.8" y="26.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lightBright" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/lightBright" name="lightBright" centerPoint3DX="47.35" centerPoint3DY="15.35">
+                  <matrix>
+                    <Matrix tx="-9.65" ty="-8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="153.4" y="163.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lightDim" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/lightDim" name="lightDim" centerPoint3DX="47.35" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="-9.65" ty="-9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="153.4" y="163.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cardWords" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/cardWords" name="cardWords" centerPoint3DX="44.35" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="-12.75" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.5" y="55.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cardIcons" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Memory Icons/cardIcons" name="cardIcons" centerPoint3DX="44.35" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="-12.75" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.5" y="55.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="studyAlone" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/studyAlone" name="studyAlone" centerPoint3DX="48.35" centerPoint3DY="22">
+                  <matrix>
+                    <Matrix tx="-7.55" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.45" y="110.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="studyFriend" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/studyFriend" name="studyFriend" centerPoint3DX="53.35" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix tx="-3.65" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="176.7" y="100.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drinkSoda" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/drinkSoda" name="drinkSoda" centerPoint3DX="47.35" centerPoint3DY="21">
+                  <matrix>
+                    <Matrix tx="-5.75" ty="-22.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="190.7" y="110.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drinkWater" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/drinkWater" name="drinkWater" centerPoint3DX="47.35" centerPoint3DY="-9">
+                  <matrix>
+                    <Matrix tx="-8.55" ty="-22.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="198.95" y="50.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="atLibrary" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/atLibrary" name="atLibrary" centerPoint3DX="49.35" centerPoint3DY="37">
+                  <matrix>
+                    <Matrix tx="-6.65" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="82.3" y="57.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="atHome" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Study Icons/atHome" name="atHome" centerPoint3DX="47.35" centerPoint3DY="37">
+                  <matrix>
+                    <Matrix tx="-8.65" ty="-21.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="83.5" y="58"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tiresSmall" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/tireSmall" name="tiresSmall" centerPoint3DX="50.35" centerPoint3DY="42">
+                  <matrix>
+                    <Matrix tx="-5.25" ty="-23.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.25" y="148.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tiresLarge" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/tireLarge" name="tiresLarge" centerPoint3DX="50.35" centerPoint3DY="38.35">
+                  <matrix>
+                    <Matrix tx="-5.2" ty="-23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.85" y="144.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="topClosed" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/topClosed" name="topClosed" centerPoint3DX="53" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-10.25" ty="-22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.2" y="74.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="topOpen" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/topOpen" name="topOpen" centerPoint3DX="52" centerPoint3DY="62">
+                  <matrix>
+                    <Matrix tx="-11.25" ty="-22.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46.15" y="80.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="doorsFour" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/doorsFour" name="doorsFour" centerPoint3DX="49.35" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-6.6" ty="-20.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.95" y="59.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="doorsTwo" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Car Icons/doorsTwo" name="doorsTwo" centerPoint3DX="49.35" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-6.6" ty="-20.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.15" y="69.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="threeEgg" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/threeEgg" name="threeEgg" centerPoint3DX="54.85" centerPoint3DY="60.8">
+                  <matrix>
+                    <Matrix tx="-8.9" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="82.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="oneEgg" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/oneEgg" name="oneEgg">
+                  <matrix>
+                    <Matrix tx="-5.7" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="82.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sugar" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/sugar" name="sugar">
+                  <matrix>
+                    <Matrix tx="-2.4" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.3" y="70.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="honey" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Baker Icons/honey" name="honey">
+                  <matrix>
+                    <Matrix tx="-1.75" ty="-21.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.6" y="68.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="oneWindow" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/oneWindow" name="oneWindow">
+                  <matrix>
+                    <Matrix tx="-1" ty="-24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="71.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fourWindow" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/fourWindow" name="fourWindow">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="71.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tiltEngines" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/tiltEngines" name="tiltEngines" centerPoint3DX="56.4" centerPoint3DY="47.8">
+                  <matrix>
+                    <Matrix tx="-6.5" ty="-24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="71.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="downEngines" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/downEngines" name="downEngines">
+                  <matrix>
+                    <Matrix tx="-7.1" ty="-24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="71.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="StraightBody" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/straightBody" name="straightBody">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="62.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="curvedBody" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Rocket Icons/curvedBody" name="curvedBody">
+                  <matrix>
+                    <Matrix d="0.999664306640625" tx="0.5" ty="-24.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.9" y="62.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name=" " color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ageYoung" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/ageYoung" name="ageYoung">
+                  <matrix>
+                    <Matrix tx="0.8" ty="-30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="155.25" y="152.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ageOlder" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/ageOlder" name="ageOlder">
+                  <matrix>
+                    <Matrix tx="1.8" ty="-30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.25" y="142.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drinkLemon" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/drinkLemon" name="drinkLemon">
+                  <matrix>
+                    <Matrix tx="-1.65" ty="-30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.25" y="132.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drinkTea" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/Drink Icons/drinkTea" name="drinkTea">
+                  <matrix>
+                    <Matrix tx="-1.65" ty="-30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.25" y="132.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name=" " color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bluePaint" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/BluePaint" name="bluePaint" centerPoint3DX="60.6" centerPoint3DY="38.8">
+                  <matrix>
+                    <Matrix tx="0.6" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="68.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pinkPaint" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/PinkPaint" name="pinkPaint" centerPoint3DX="60.9" centerPoint3DY="38.8">
+                  <matrix>
+                    <Matrix tx="1.25" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.65" y="68.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DoubleDoor" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/DoubleDoor" name="doubleDoor">
+                  <matrix>
+                    <Matrix tx="-11.6" ty="-6.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="68.1" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="singleDoor" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/SingleDoor" name="singleDoor">
+                  <matrix>
+                    <Matrix tx="-7.3" ty="-6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.95" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="chimneyRight" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/ChimneyRight" name="chimneyRight">
+                  <transformationPoint>
+                    <Point x="56.5" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="chimneyLeft" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/ChimneyLeft" name="chimneyLeft">
+                  <transformationPoint>
+                    <Point x="56.55" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

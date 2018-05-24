@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/carParts/roof" itemID="4d3b2976-00001076" lastModified="1296597895">
+  <timeline>
+    <DOMTimeline name="roof">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-204.65" ty="-25.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC9933"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#221E1F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4140 674|4483 617!4483 617[4914 555 5356 532!5356 532[6772 458 7766 801!7766 801|7679 913!7679 913[7409 790 6826 709!6826 709[5660 548 4093 762"/>
+                    <Edge fillStyle1="1" edges="!4093 762|4140 674"/>
+                    <Edge cubics="!4140 674(;4140,674 6175,252 7766,801q4140 674Q4140 674q4483 617Q4914 555q5356 532Q6772 458q7766 801);"/>
+                    <Edge cubics="!7766 801(;7766,801 7679,913 7679,913q7766 801 7679 913);"/>
+                    <Edge cubics="!7679 913(;7679,913 6600,420 4093,762q7679 913Q7409 790q6826 709Q5660 548q4093 762);"/>
+                    <Edge cubics="!4093 762(;4093,762 4140,674 4140,674q4093 762p4140 674);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

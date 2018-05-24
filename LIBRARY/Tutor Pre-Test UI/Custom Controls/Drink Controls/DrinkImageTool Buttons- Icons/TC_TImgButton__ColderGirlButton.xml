@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ColderGirlButton" itemID="5b008fe1-000016a6" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ColderGirlButton" lastModified="1526763489">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__ColderGirlButton">
+      <layers>
+        <DOMLayer name="(up) singleDoor" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder" name="Sup" selected="true">
+                  <matrix>
+                    <Matrix a="0.931350708007813" d="0.93109130859375" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over) singleDoor" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder" name="Sover">
+                  <matrix>
+                    <Matrix a="0.929931640625" d="0.930267333984375" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down) singleDoor" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder" name="Sdown" selected="true">
+                  <matrix>
+                    <Matrix a="0.929931640625" d="0.930267333984375" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled) singleDoor" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder" name="Sdisabled">
+                  <matrix>
+                    <Matrix a="0.929931640625" d="0.930267333984375" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus) singleDoor" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/buttonImages/ageOlder" name="Sfocus">
+                  <matrix>
+                    <Matrix a="0.929931640625" d="0.930267333984375" ty="-20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

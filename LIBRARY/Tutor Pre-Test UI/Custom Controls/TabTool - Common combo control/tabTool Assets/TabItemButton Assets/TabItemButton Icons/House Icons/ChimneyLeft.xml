@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/House Icons/ChimneyLeft" itemID="48151353-0000144f" lastModified="1295638223" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="ChimneyLeft">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="93.15" height="24.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="9.95" ty="80.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Left Side</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/redRoof" selected="true">
+                      <matrix>
+                        <Matrix a="0.487075805664063" d="0.4871826171875" ty="5.25"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="116.2" y="57.05"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyLeftButton Components/up LeftChimney" name="up" selected="true">
+                      <matrix>
+                        <Matrix a="0.0724334716796875" d="0.0724639892578125" tx="18.05"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="150.5" y="245.65"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/ChimneyRightButton Components/up rightChimney" name="up">
+                  <matrix>
+                    <Matrix a="0.0724334716796875" d="0.072418212890625" tx="16.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.5" y="246.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CSingleDoorButton" itemID="5b009019-000016ae" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CSingleDoorButton" lastModified="1526763545">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CSingleDoorButton">
+      <layers>
+        <DOMLayer name="(up) singleDoor" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/up singleDoor" name="Sup">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over) singleDoor" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/over singleDoor" name="Sover">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter color="#FFFF00" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down) singleDoor" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/over singleDoor" name="Sdown">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled) singleDoor" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/up singleDoor" name="Sdisabled">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus) singleDoor" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/SingleDoorButton Components/up singleDoor" name="Sfocus">
+                  <matrix>
+                    <Matrix a="0.148712158203125" d="0.148727416992188" tx="79.1" ty="175.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

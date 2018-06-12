@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton" itemID="5b00900c-000016ac" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CBluePaintButton" lastModified="1526763532" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton" itemID="5b00900c-000016ac" linkageExportForAS="true" linkageClassName="TC_TImgButton__CBluePaintButton" lastModified="1526763532" lastUniqueIdentifier="4">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CBluePaintButton">
       <layers>

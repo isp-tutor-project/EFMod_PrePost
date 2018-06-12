@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CstudyFriendButton" itemID="5b0090a2-000016c9" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CstudyFriendButton" lastModified="1526763682">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CstudyFriendButton" itemID="5b0090a2-000016c9" linkageExportForAS="true" linkageClassName="TC_TImgButton__CstudyFriendButton" lastModified="1526763682">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CstudyFriendButton">
       <layers>

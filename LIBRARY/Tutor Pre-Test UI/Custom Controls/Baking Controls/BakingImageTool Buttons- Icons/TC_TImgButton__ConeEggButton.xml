@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ConeEggButton" itemID="5b008f92-00001691" linkageExportForAS="true" linkageClassName="ConeEggButton" lastModified="1526763410">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ConeEggButton" itemID="5b008f92-00001691" linkageExportForAS="true" linkageClassName="TC_TImgButton__ConeEggButton" lastModified="1526763410">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ConeEggButton">
       <layers>

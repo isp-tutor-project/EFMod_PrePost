@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CcardIconsButton" itemID="5b009085-000016c2" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CcardIconsButton" lastModified="1526763653">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CcardIconsButton" itemID="5b009085-000016c2" linkageExportForAS="true" linkageClassName="TC_TImgButton__CcardIconsButton" lastModified="1526763653">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CcardIconsButton">
       <layers>

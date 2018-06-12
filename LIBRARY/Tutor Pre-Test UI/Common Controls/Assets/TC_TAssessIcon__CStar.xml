@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/TC_TAssessIcon__CStar" itemID="5b008d70-00001682" linkageExportForAS="true" linkageClassName="CStar" lastModified="1526762864" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/TC_TAssessIcon__CStar" itemID="5b008d70-00001682" linkageExportForAS="true" linkageClassName="TC_TAssessIcon__CStar" lastModified="1526762864" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TAssessIcon__CStar">
       <layers>

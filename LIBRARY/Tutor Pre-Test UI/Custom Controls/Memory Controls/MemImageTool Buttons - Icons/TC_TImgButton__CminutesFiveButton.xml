@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CminutesFiveButton" itemID="5b00907e-000016be" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CminutesFiveButton" lastModified="1526763646">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CminutesFiveButton" itemID="5b00907e-000016be" linkageExportForAS="true" linkageClassName="TC_TImgButton__CminutesFiveButton" lastModified="1526763646">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CminutesFiveButton">
       <layers>

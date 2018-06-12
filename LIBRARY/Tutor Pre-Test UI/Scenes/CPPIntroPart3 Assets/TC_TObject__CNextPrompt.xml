@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__CNextPrompt" itemID="5b00846e-000015c8" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZPrompt" linkageClassName="CNextPrompt" lastModified="1526760558" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__CNextPrompt" itemID="5b00846e-000015c8" linkageExportForAS="true" linkageClassName="TC_TObject__CNextPrompt" lastModified="1526760558" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="TC_TObject__CNextPrompt">
       <layers>

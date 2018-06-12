@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" itemID="5b008491-000015cb" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="CSplashFrame1" scaleGridLeft="189.95" scaleGridRight="573.85" scaleGridTop="37.25" scaleGridBottom="115.75" lastModified="1526760593">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" itemID="5b008491-000015cb" linkageExportForAS="true" linkageClassName="TC_TObject__CSplashFrame1" lastModified="1526760593">
   <timeline>
     <DOMTimeline name="TC_TObject__CSplashFrame1">
       <layers>

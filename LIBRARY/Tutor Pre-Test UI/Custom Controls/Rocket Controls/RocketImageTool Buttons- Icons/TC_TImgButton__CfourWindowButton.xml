@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CfourWindowButton" itemID="5b009095-000016c6" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CfourWindowButton" lastModified="1526763669">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CfourWindowButton" itemID="5b009095-000016c6" linkageExportForAS="true" linkageClassName="TC_TImgButton__CfourWindowButton" lastModified="1526763669">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CfourWindowButton">
       <layers>

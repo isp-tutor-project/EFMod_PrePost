@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart1" itemID="5b0082c4-000015af" linkageExportForAS="true" linkageClassName="CPPIntroPart1" lastModified="1527115604" lastUniqueIdentifier="39">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart1" itemID="5b0082c4-000015af" linkageExportForAS="true" linkageClassName="TC_TIntro__CPPIntroPart1" lastModified="1527115604" lastUniqueIdentifier="39">
   <persistentData>
-    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+    <PD n="CreateJSToolkit_timelinedata" v="version 0.1 loop true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TIntro__CPPIntroPart1">

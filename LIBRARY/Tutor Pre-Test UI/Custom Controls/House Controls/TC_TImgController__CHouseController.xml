@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" itemID="5b009054-000016ba" linkageExportForAS="true" linkageClassName="CHouseController" lastModified="1526764264">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" itemID="5b009054-000016ba" linkageExportForAS="true" linkageClassName="TC_TImgController__CHouseController" lastModified="1526764264">
   <timeline>
     <DOMTimeline name="TC_TImgController__CHouseController">
       <layers>

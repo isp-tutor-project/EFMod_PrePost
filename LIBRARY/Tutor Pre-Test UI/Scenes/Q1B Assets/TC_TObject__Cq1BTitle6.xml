@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle6" itemID="5b0084ee-000015de" linkageExportForAS="true" linkageClassName="Cq1BTitle6" lastModified="1526760686">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle6" itemID="5b0084ee-000015de" linkageExportForAS="true" linkageClassName="TC_TObject__Cq1BTitle6" lastModified="1526760686">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq1BTitle6">
       <layers>
@@ -31,7 +31,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters>  makes a difference in which cookies people prefer. &#xD;</characters>
+                      <characters>  makes a difference in which cookies people prefer. &#xA;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

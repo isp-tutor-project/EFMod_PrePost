@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroSplash" itemID="5b0082cf-000015b2" linkageExportForAS="true" linkageClassName="CPPIntroSplash" lastModified="1526760143" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroSplash" itemID="5b0082cf-000015b2" linkageExportForAS="true" linkageClassName="TC_TIntro__CPPIntroSplash" lastModified="1526760143" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TIntro__CPPIntroSplash">
       <layers>
@@ -6,13 +6,13 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="637.9" height="263.5" includeOutlines="true" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="637.9" height="157.3" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="182.05" ty="210"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>We will now ask you six questions.&#xD;&#xD;This is not a test and it will not be graded. You will not be told whether or not your answers are correct while you are answering the questions.&#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
+                      <characters>We will now ask you six questions.&#xA;&#xA;This is not a test and it will not be graded. You will not be told whether or not your answers are correct while you are answering the questions.&#xA;&#xA;Please take your time and think about each question before you answer.&#xA;&#xA;Click Next when you are ready to begin.  </characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>

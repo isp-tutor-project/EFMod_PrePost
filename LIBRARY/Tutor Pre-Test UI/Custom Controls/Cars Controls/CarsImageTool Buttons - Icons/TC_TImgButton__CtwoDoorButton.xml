@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CtwoDoorButton" itemID="5b008fb8-00001698" linkageExportForAS="true" linkageClassName="CtwoDoorButton" lastModified="1526763448">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CtwoDoorButton" itemID="5b008fb8-00001698" linkageExportForAS="true" linkageClassName="TC_TImgButton__CtwoDoorButton" lastModified="1526763448">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CtwoDoorButton">
       <layers>

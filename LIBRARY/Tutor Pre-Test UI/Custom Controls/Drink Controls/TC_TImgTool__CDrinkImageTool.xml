@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" itemID="5b007464-00001069" linkageExportForAS="true" linkageClassName="CDrinkImageTool" lastModified="1526756452" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" itemID="5b007464-00001069" linkageExportForAS="true" linkageClassName="TC_TImgTool__CDrinkImageTool" lastModified="1526756452" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TImgTool__CDrinkImageTool">
       <layers>

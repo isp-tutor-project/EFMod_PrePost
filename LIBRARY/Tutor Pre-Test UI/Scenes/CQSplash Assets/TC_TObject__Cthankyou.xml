@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__Cthankyou" itemID="5b008494-000015cc" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Cthankyou" lastModified="1526760596">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__Cthankyou" itemID="5b008494-000015cc" linkageExportForAS="true" linkageClassName="TC_TObject__Cthankyou" lastModified="1526760596">
   <timeline>
     <DOMTimeline name="TC_TObject__Cthankyou">
       <layers>

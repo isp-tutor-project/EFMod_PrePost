@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" itemID="5b00742a-00001064" linkageExportForAS="true" linkageClassName="CCarsImageTool" lastModified="1526756394" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" itemID="5b00742a-00001064" linkageExportForAS="true" linkageClassName="TC_TImgTool__CCarsImageTool" lastModified="1526756394" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TImgTool__CCarsImageTool">
       <layers>

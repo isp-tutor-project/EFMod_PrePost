@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" itemID="5b00744d-00001066" linkageExportForAS="true" linkageClassName="CStudyImageTool" lastModified="1526756429">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" itemID="5b00744d-00001066" linkageExportForAS="true" linkageClassName="TC_TImgTool__CStudyImageTool" lastModified="1526756429">
   <timeline>
     <DOMTimeline name="TC_TImgTool__CStudyImageTool">
       <layers>

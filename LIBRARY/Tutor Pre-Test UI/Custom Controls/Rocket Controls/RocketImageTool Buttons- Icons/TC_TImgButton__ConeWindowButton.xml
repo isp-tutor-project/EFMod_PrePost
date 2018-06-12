@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__ConeWindowButton" itemID="5b009093-000016c5" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ConeWindowButton" lastModified="1526763667">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__ConeWindowButton" itemID="5b009093-000016c5" linkageExportForAS="true" linkageClassName="TC_TImgButton__ConeWindowButton" lastModified="1526763667">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ConeWindowButton">
       <layers>

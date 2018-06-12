@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__Ci1p3Title2" itemID="5b00846b-000015c7" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p3Title2" lastModified="1526760555">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart3 Assets/TC_TObject__Ci1p3Title2" itemID="5b00846b-000015c7" linkageExportForAS="true" linkageClassName="TC_TObject__Ci1p3Title2" lastModified="1526760555">
   <timeline>
     <DOMTimeline name="TC_TObject__Ci1p3Title2">
       <layers>
@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Circle the words that describe the picture of the house.  &#xD;</characters>
+                      <characters>Circle the words that describe the picture of the house.  &#xA;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" itemID="5193d143-000015a0" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZLabeledTab" linkageClassName="ClabeledTab" lastModified="1368647588" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/tabFrame/ClabeledTab" itemID="5193d143-000015a0" linkageExportForAS="true" linkageClassName="ClabeledTab" lastModified="1368647588" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="ClabeledTab">
       <layers>

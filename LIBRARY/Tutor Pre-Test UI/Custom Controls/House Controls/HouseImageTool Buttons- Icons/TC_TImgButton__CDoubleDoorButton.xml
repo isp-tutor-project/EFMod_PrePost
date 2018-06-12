@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CDoubleDoorButton" itemID="5b00901f-000016b2" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CDoubleDoorButton" lastModified="1526763551" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CDoubleDoorButton" itemID="5b00901f-000016b2" linkageExportForAS="true" linkageClassName="TC_TImgButton__CDoubleDoorButton" lastModified="1526763551" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CDoubleDoorButton">
       <layers>

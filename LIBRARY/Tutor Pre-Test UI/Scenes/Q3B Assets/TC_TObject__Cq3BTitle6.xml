@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle6" itemID="5b00856c-00001612" linkageExportForAS="true" linkageClassName="Cq3BTitle6" lastModified="1526760812">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q3B Assets/TC_TObject__Cq3BTitle6" itemID="5b00856c-00001612" linkageExportForAS="true" linkageClassName="TC_TObject__Cq3BTitle6" lastModified="1526760812">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq3BTitle6">
       <layers>
@@ -31,7 +31,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in how fast the cars go. &#xD;</characters>
+                      <characters> makes a difference in how fast the cars go. &#xA;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

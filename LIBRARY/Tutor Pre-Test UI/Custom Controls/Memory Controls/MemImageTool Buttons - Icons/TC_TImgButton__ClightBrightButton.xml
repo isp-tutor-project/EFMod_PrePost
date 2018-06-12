@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__ClightBrightButton" itemID="5b009082-000016c0" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ClightBrightButton" lastModified="1526763650">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__ClightBrightButton" itemID="5b009082-000016c0" linkageExportForAS="true" linkageClassName="TC_TImgButton__ClightBrightButton" lastModified="1526763650">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ClightBrightButton">
       <layers>

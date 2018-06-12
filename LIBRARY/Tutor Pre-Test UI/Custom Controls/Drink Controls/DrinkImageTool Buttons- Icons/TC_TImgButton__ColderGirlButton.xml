@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ColderGirlButton" itemID="5b008fe1-000016a6" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="ColderGirlButton" lastModified="1526763489">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__ColderGirlButton" itemID="5b008fe1-000016a6" linkageExportForAS="true" linkageClassName="TC_TImgButton__ColderGirlButton" lastModified="1526763489">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ColderGirlButton">
       <layers>

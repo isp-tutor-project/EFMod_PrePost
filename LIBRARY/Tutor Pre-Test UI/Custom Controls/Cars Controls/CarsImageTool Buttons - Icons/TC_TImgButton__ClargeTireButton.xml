@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ClargeTireButton" itemID="5b008fbd-0000169b" linkageExportForAS="true" linkageClassName="ClargeTireButton" lastModified="1526763453">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ClargeTireButton" itemID="5b008fbd-0000169b" linkageExportForAS="true" linkageClassName="TC_TImgButton__ClargeTireButton" lastModified="1526763453">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ClargeTireButton">
       <layers>

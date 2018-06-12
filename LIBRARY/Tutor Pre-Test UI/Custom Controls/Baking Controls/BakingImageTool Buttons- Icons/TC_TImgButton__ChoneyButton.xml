@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ChoneyButton" itemID="5b008f85-0000168e" linkageExportForAS="true" linkageClassName="ChoneyButton" lastModified="1526763397">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__ChoneyButton" itemID="5b008f85-0000168e" linkageExportForAS="true" linkageClassName="TC_TImgButton__ChoneyButton" lastModified="1526763397">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ChoneyButton">
       <layers>

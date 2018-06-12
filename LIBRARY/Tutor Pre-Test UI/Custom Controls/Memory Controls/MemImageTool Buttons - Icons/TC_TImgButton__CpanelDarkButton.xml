@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelDarkButton" itemID="5b00907b-000016bc" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CpanelDarkButton" lastModified="1526763643">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelDarkButton" itemID="5b00907b-000016bc" linkageExportForAS="true" linkageClassName="TC_TImgButton__CpanelDarkButton" lastModified="1526763643">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CpanelDarkButton">
       <layers>

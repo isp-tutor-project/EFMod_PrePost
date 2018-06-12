@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CtiltedEnginesButton" itemID="5b009090-000016c3" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CtiltedEnginesButton" lastModified="1526763664">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Rocket Controls/RocketImageTool Buttons- Icons/TC_TImgButton__CtiltedEnginesButton" itemID="5b009090-000016c3" linkageExportForAS="true" linkageClassName="TC_TImgButton__CtiltedEnginesButton" lastModified="1526763664">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CtiltedEnginesButton">
       <layers>

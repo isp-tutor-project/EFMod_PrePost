@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplashB" itemID="5b0082dd-000015b5" linkageExportForAS="true" linkageClassName="CPPQSplashB" lastModified="1526760157">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplashB" itemID="5b0082dd-000015b5" linkageExportForAS="true" linkageClassName="TC_TIntro__CPPQSplashB" lastModified="1526760157">
   <timeline>
     <DOMTimeline name="TC_TIntro__CPPQSplashB">
       <layers>

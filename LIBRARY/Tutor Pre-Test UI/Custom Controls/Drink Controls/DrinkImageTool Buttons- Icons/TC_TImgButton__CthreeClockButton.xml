@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CthreeClockButton" itemID="5b008fd9-000016a2" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CthreeClockButton" lastModified="1526763481">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CthreeClockButton" itemID="5b008fd9-000016a2" linkageExportForAS="true" linkageClassName="TC_TImgButton__CthreeClockButton" lastModified="1526763481">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CthreeClockButton">
       <layers>

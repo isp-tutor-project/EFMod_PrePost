@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyLeftButton" itemID="5b009028-000016b8" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CChimneyLeftButton" lastModified="1526763560" lastUniqueIdentifier="6">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyLeftButton" itemID="5b009028-000016b8" linkageExportForAS="true" linkageClassName="TC_TImgButton__CChimneyLeftButton" lastModified="1526763560" lastUniqueIdentifier="6">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CChimneyLeftButton">
       <layers>

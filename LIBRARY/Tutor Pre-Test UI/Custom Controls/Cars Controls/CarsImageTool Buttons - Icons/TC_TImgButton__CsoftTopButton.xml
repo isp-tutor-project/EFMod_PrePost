@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CsoftTopButton" itemID="5b008fba-00001699" linkageExportForAS="true" linkageClassName="CsoftTopButton" lastModified="1526763450" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__CsoftTopButton" itemID="5b008fba-00001699" linkageExportForAS="true" linkageClassName="TC_TImgButton__CsoftTopButton" lastModified="1526763450" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CsoftTopButton">
       <layers>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle3A" itemID="5b0087cc-0000165c" linkageExportForAS="true" linkageClassName="Cq6ATitle3A" lastModified="1526761420">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q6A Assets/TC_TObject__Cq6ATitle3A" itemID="5b0087cc-0000165c" linkageExportForAS="true" linkageClassName="TC_TObject__Cq6ATitle3A" lastModified="1526761420">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq6ATitle3A">
       <layers>
@@ -24,7 +24,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in how much you learn.&#xD;</characters>
+                      <characters> makes a difference in how much you learn.&#xA;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

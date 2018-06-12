@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CSingleDoorButton" itemID="5b009019-000016ae" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CSingleDoorButton" lastModified="1526763545">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CSingleDoorButton" itemID="5b009019-000016ae" linkageExportForAS="true" linkageClassName="TC_TImgButton__CSingleDoorButton" lastModified="1526763545">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CSingleDoorButton">
       <layers>

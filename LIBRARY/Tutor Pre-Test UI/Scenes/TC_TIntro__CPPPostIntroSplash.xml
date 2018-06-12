@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPPostIntroSplash" itemID="5b0082d4-000015b3" linkageExportForAS="true" linkageClassName="CPPPostIntroSplash" lastModified="1526760148">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPPostIntroSplash" itemID="5b0082d4-000015b3" linkageExportForAS="true" linkageClassName="TC_TIntro__CPPPostIntroSplash" lastModified="1526760148">
   <timeline>
     <DOMTimeline name="TC_TIntro__CPPPostIntroSplash">
       <layers>
@@ -6,13 +6,13 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="637.9" height="210.4" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="637.9" height="104.2" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="193.05" ty="234.35"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Now, we will ask you another six questions.&#xD;&#xD;This is not a test and it will not be graded. &#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
+                      <characters>Now, we will ask you another six questions.&#xA;&#xA;This is not a test and it will not be graded. &#xA;&#xA;Please take your time and think about each question before you answer.&#xA;&#xA;Click Next when you are ready to begin.  </characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>

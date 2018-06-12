@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ChardTopButton" itemID="5b008fbe-0000169c" linkageExportForAS="true" linkageClassName="ChardTopButton" lastModified="1526763454" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/CarsImageTool Buttons - Icons/TC_TImgButton__ChardTopButton" itemID="5b008fbe-0000169c" linkageExportForAS="true" linkageClassName="TC_TImgButton__ChardTopButton" lastModified="1526763454" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TImgButton__ChardTopButton">
       <layers>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CatHomeButton" itemID="5b009159-000016d4" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CatHomeButton" lastModified="1526763865">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/StudyImageTool Buttons - Icons/TC_TImgButton__CatHomeButton" itemID="5b009159-000016d4" linkageExportForAS="true" linkageClassName="TC_TImgButton__CatHomeButton" lastModified="1526763865">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CatHomeButton">
       <layers>

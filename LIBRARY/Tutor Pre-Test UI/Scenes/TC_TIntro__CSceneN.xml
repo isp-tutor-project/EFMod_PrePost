@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CSceneN" itemID="5b0082f1-000015b7" linkageExportForAS="true" linkageClassName="CPPEndCloak" lastModified="1526760177" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntro__CSceneN" itemID="5b0082f1-000015b7" linkageExportForAS="true" linkageClassName="TC_TIntro__CSceneN" lastModified="1526760177" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TIntro__CSceneN">
       <layers>

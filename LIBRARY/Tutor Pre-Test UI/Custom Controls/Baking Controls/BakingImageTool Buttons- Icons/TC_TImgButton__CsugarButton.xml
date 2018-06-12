@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CsugarButton" itemID="5b008fa3-00001694" linkageExportForAS="true" linkageClassName="CsugarButton" lastModified="1526763427">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CsugarButton" itemID="5b008fa3-00001694" linkageExportForAS="true" linkageClassName="TC_TImgButton__CsugarButton" lastModified="1526763427">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CsugarButton">
       <layers>

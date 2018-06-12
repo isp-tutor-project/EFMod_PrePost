@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CteaStandButton" itemID="5b008fdd-000016a4" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CteaStandButton" lastModified="1526763485">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CteaStandButton" itemID="5b008fdd-000016a4" linkageExportForAS="true" linkageClassName="TC_TImgButton__CteaStandButton" lastModified="1526763485">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CteaStandButton">
       <layers>

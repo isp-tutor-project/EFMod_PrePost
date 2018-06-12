@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CthreeEggButton" itemID="5b008f8a-0000168f" linkageExportForAS="true" linkageClassName="CthreeEggButton" lastModified="1526763402">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/TC_TImgButton__CthreeEggButton" itemID="5b008f8a-0000168f" linkageExportForAS="true" linkageClassName="TC_TImgButton__CthreeEggButton" lastModified="1526763402">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CthreeEggButton">
       <layers>

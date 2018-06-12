@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" itemID="5b00845f-000015c3" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZObject" linkageClassName="Ci1p2FrameA" lastModified="1526760543">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" itemID="5b00845f-000015c3" linkageExportForAS="true" linkageClassName="TC_TObject__Ci1p2FrameA" lastModified="1526760543">
   <timeline>
     <DOMTimeline name="TC_TObject__Ci1p2FrameA">
       <layers>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3" itemID="5b0084c5-000015d2" linkageExportForAS="true" linkageClassName="Cq1ATitle3" lastModified="1526760645">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3" itemID="5b0084c5-000015d2" linkageExportForAS="true" linkageClassName="TC_TObject__Cq1ATitle3" lastModified="1526760645">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq1ATitle3">
       <layers>
@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>•   Time of day (Noon,  3:00 pm, or 6:00 pm)&#xD;•   The age of the seller (Older or Younger)&#xD;•   The type of drink (Lemonade or Iced tea)</characters>
+                      <characters>•   Time of day (Noon,  3:00 pm, or 6:00 pm)&#xA;•   The age of the seller (Older or Younger)&#xA;•   The type of drink (Lemonade or Iced tea)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

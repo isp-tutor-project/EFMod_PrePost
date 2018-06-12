@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" itemID="5b007500-00001071" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorItemButton" linkageClassName="CTab3ItemButton" lastModified="1526756608">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" itemID="5b007500-00001071" linkageExportForAS="true" linkageClassName="TC_TTab3ItemButton" lastModified="1526756608">
   <timeline>
     <DOMTimeline name="TC_TTab3ItemButton">
       <layers>

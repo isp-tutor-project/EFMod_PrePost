@@ -2,14 +2,14 @@
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5b05ec75-0000044e"/>
-          <DOMFolderItem name="Common Controls" itemID="536eeb34-00001d33"/>
-          <DOMFolderItem name="Common Controls/Assessment Assets" itemID="538ddcd7-00001318"/>
-          <DOMFolderItem name="Common Prompts" itemID="48ff6e5f-0000028d"/>
+          <DOMFolderItem name="Common Controls" itemID="536eeb34-00001d33" isExpanded="true"/>
+          <DOMFolderItem name="Common Controls/Assessment Assets" itemID="538ddcd7-00001318" isExpanded="true"/>
+          <DOMFolderItem name="Common Prompts" itemID="48ff6e5f-0000028d" isExpanded="true"/>
           <DOMFolderItem name="Common Prompts/Icons" itemID="48ff73ee-00000a02" isExpanded="true"/>
-          <DOMFolderItem name="Tutor Global Assets" itemID="536eeb34-00001d51"/>
+          <DOMFolderItem name="Tutor Global Assets" itemID="536eeb34-00001d51" isExpanded="true"/>
           <DOMFolderItem name="Tutor Global Assets/Global Assets" itemID="48c16bbe-00000db3" isExpanded="true"/>
           <DOMFolderItem name="Tutor Pre-Test UI" itemID="4817410f-00001d29" isExpanded="true"/>
-          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls" itemID="4817761b-0000586c"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls" itemID="4817761b-0000586c" isExpanded="true"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets" itemID="4818ab50-0000b842" isExpanded="true"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets" itemID="4819d670-00001e81"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets" itemID="4820a93e-00001ab2"/>
@@ -120,7 +120,7 @@
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TButton__CDismissButton.xml" itemID="5b008cd4-0000167e" lastModified="1526762708"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton.xml" itemID="5b008d24-00001681" lastModified="1526762788"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TRadioButton__CRadioControl.xml" itemID="5b008ceb-0000167f" lastModified="1526762731"/>
-          <Include href="Tutor Pre-Test UI/Common Controls/TC_TText__CTextControl.xml" itemID="5b008d05-00001680" lastModified="1526762757"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TTextInput__CTextControl.xml" itemID="5b15bf42-00000b7f" lastModified="1528151885"/>
           <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/honey.xml" loadImmediate="false" itemID="48189320-00006432" lastModified="1209573680"/>
           <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/oneEgg.xml" loadImmediate="false" itemID="48188c9d-00005d2f" lastModified="1209572013"/>
           <Include href="Tutor Pre-Test UI/Custom Controls/Baking Controls/BakingImageTool Buttons- Icons/buttonImages/sugar.xml" loadImmediate="false" itemID="4818931d-00006429" lastModified="1209578132"/>
@@ -498,54 +498,54 @@
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle5.xml" itemID="5b0087e1-00001667" lastModified="1526761441"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle6.xml" itemID="5b0087e0-00001666" lastModified="1526761440"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle7.xml" itemID="5b0087de-00001665" lastModified="1526761438"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart1.xml" itemID="5b0082c4-000015af" lastModified="1527115604"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart2.xml" itemID="5b0082c7-000015b0" lastModified="1526760135"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroPart3.xml" itemID="5b0082cb-000015b1" lastModified="1526760139"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPIntroSplash.xml" itemID="5b0082cf-000015b2" lastModified="1526760143"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPPostIntroSplash.xml" itemID="5b0082d4-000015b3" lastModified="1526760148"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplash.xml" itemID="5b0082d9-000015b4" lastModified="1526760153"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPQSplashB.xml" itemID="5b0082dd-000015b5" lastModified="1526760157"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CPPWelcomeSplash.xml" itemID="5b0082e1-000015b6" lastModified="1526760161"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntro__CSceneN.xml" itemID="5b0082f1-000015b7" lastModified="1526760177"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessment.xml" itemID="5b008c7b-00001674" lastModified="1526762619"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessmentA.xml" itemID="5b008c83-00001675" lastModified="1526762627"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPAssessmentB.xml" itemID="5b008c89-00001676" lastModified="1526762633"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart1.xml" itemID="5b00757f-00001073" lastModified="1527118564"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart1B.xml" itemID="5b0076b4-000010a0" lastModified="1527117573"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1APart2.xml" itemID="5b007741-000010b1" lastModified="1526757185"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart1.xml" itemID="5b007746-000010b2" lastModified="1526757190"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart1B.xml" itemID="5b00774a-000010b3" lastModified="1526757194"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ1BPart2.xml" itemID="5b00774f-000010b4" lastModified="1526757199"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart1.xml" itemID="5b0076c0-000010a1" lastModified="1526757056"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart2.xml" itemID="5b0076c6-000010a2" lastModified="1526757062"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2APart3.xml" itemID="5b0076cb-000010a3" lastModified="1526757067"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart1.xml" itemID="5b0076d0-000010a4" lastModified="1526757072"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart2.xml" itemID="5b0076d5-000010a5" lastModified="1526757077"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ2BPart3.xml" itemID="5b0076d9-000010a6" lastModified="1526757081"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart1.xml" itemID="5b007754-000010b5" lastModified="1526757204"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart1B.xml" itemID="5b007757-000010b6" lastModified="1526757207"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3APart2.xml" itemID="5b00775d-000010b7" lastModified="1526757213"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart1.xml" itemID="5b007762-000010b8" lastModified="1526757218"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart1B.xml" itemID="5b007766-000010b9" lastModified="1526757222"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ3BPart2.xml" itemID="5b007769-000010ba" lastModified="1526757225"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart1.xml" itemID="5b0076de-000010a7" lastModified="1526757086"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart2.xml" itemID="5b0076e4-000010a8" lastModified="1526757092"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4APart3.xml" itemID="5b0076e9-000010a9" lastModified="1526757097"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart1.xml" itemID="5b0076ef-000010aa" lastModified="1526757103"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart2.xml" itemID="5b00769e-0000109f" lastModified="1526757022"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ4BPart3.xml" itemID="5b008819-00001672" lastModified="1526761497"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart1.xml" itemID="5b00776d-000010bb" lastModified="1526757229"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart1B.xml" itemID="5b007772-000010bc" lastModified="1526757234"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5APart2.xml" itemID="5b007779-000010bd" lastModified="1526757241"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart1.xml" itemID="5b00777e-000010be" lastModified="1526757246"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart1B.xml" itemID="5b007789-000010bf" lastModified="1526757257"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ5BPart2.xml" itemID="5b00778d-000010c0" lastModified="1526757261"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart1.xml" itemID="5b007727-000010ab" lastModified="1526757159"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart2.xml" itemID="5b00772c-000010ac" lastModified="1526757164"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6APart3.xml" itemID="5b007730-000010ad" lastModified="1526757168"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart1.xml" itemID="5b007733-000010ae" lastModified="1526757171"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart2.xml" itemID="5b007737-000010af" lastModified="1526757175"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__CPPQ6BPart3.xml" itemID="5b00773c-000010b0" lastModified="1526757180"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment.xml" itemID="5b15b899-00000b4f" lastModified="1528150169"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentA.xml" itemID="5b15b89c-00000b50" lastModified="1528150172"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB.xml" itemID="5b15b89f-00000b51" lastModified="1528150175"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart1.xml" itemID="5b15bc53-00000b52" lastModified="1528151123"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart2.xml" itemID="5b15bc56-00000b53" lastModified="1528151126"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart3.xml" itemID="5b15bc58-00000b54" lastModified="1528151128"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroSplash.xml" itemID="5b15bc5a-00000b55" lastModified="1528151130"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash.xml" itemID="5b15bc5f-00000b56" lastModified="1528151135"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1.xml" itemID="5b15bc63-00000b57" lastModified="1528151139"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1B.xml" itemID="5b15bc66-00000b58" lastModified="1528151803"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart2.xml" itemID="5b15bc69-00000b59" lastModified="1528151145"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1BPart1.xml" itemID="5b15bc6b-00000b5a" lastModified="1528151147"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1BPart1B.xml" itemID="5b15bc6f-00000b5b" lastModified="1528151151"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1BPart2.xml" itemID="5b15bc72-00000b5c" lastModified="1528151154"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2APart1.xml" itemID="5b15bc8e-00000b5d" lastModified="1528151182"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2APart2.xml" itemID="5b15bc92-00000b5e" lastModified="1528151186"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2APart3.xml" itemID="5b15bc95-00000b5f" lastModified="1528151189"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2BPart1.xml" itemID="5b15bc9b-00000b60" lastModified="1528151195"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2BPart2.xml" itemID="5b15bc9e-00000b61" lastModified="1528151198"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ2BPart3.xml" itemID="5b15bca2-00000b62" lastModified="1528151202"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3APart1.xml" itemID="5b15bca5-00000b63" lastModified="1528151205"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3APart1B.xml" itemID="5b15bca8-00000b64" lastModified="1528151208"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3APart2.xml" itemID="5b15bcab-00000b65" lastModified="1528151211"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3BPart1.xml" itemID="5b15bcb1-00000b66" lastModified="1528151217"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3BPart1B.xml" itemID="5b15bcb4-00000b67" lastModified="1528151220"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ3BPart2.xml" itemID="5b15bcb7-00000b68" lastModified="1528151223"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4APart1.xml" itemID="5b15bcba-00000b69" lastModified="1528151226"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4APart2.xml" itemID="5b15bcbd-00000b6a" lastModified="1528151229"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4APart3.xml" itemID="5b15bcc0-00000b6b" lastModified="1528151232"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4BPart1.xml" itemID="5b15bcc3-00000b6c" lastModified="1528151235"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4BPart2.xml" itemID="5b15bcc6-00000b6d" lastModified="1528151238"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4BPart3.xml" itemID="5b15bcc9-00000b6e" lastModified="1528151241"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart1.xml" itemID="5b15bccc-00000b6f" lastModified="1528151244"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart1B.xml" itemID="5b15bccf-00000b70" lastModified="1528151247"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart2.xml" itemID="5b15bcd3-00000b71" lastModified="1528151251"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart1.xml" itemID="5b15bcd6-00000b72" lastModified="1528151254"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart1B.xml" itemID="5b15bcdb-00000b73" lastModified="1528151259"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart2.xml" itemID="5b15bcde-00000b74" lastModified="1528151262"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6APart1.xml" itemID="5b15bce1-00000b75" lastModified="1528151265"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6APart2.xml" itemID="5b15bce4-00000b76" lastModified="1528151268"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6APart3.xml" itemID="5b15bce7-00000b77" lastModified="1528151271"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6BPart1.xml" itemID="5b15bcea-00000b78" lastModified="1528151274"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6BPart2.xml" itemID="5b15bced-00000b79" lastModified="1528151277"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ6BPart3.xml" itemID="5b15bcf0-00000b7a" lastModified="1528151280"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQSplash.xml" itemID="5b15bcf3-00000b7b" lastModified="1528151283"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQSplashB.xml" itemID="5b15bcf5-00000b7c" lastModified="1528151285"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TScene__SceneN.xml" itemID="5b15bd03-00000b7e" lastModified="1528151299"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TWelcomeSplash.xml" itemID="5b15bcf8-00000b7d" lastModified="1528151291"/>
           <Include href="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash.xml" itemID="5b008125-0000147c" lastModified="1526759717"/>
           <Include href="Tutor Std Scenes/TC_TStartScene__CStartScenePP.xml" itemID="5b008153-0000148d" lastModified="1526759763"/>
      </symbols>
@@ -745,7 +745,8 @@
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>]]></parametersAsXML>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>

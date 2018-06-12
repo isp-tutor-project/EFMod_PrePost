@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle3" itemID="5b0084fd-000015e4" linkageExportForAS="true" linkageClassName="Cq1BTitle3" lastModified="1526760701">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle3" itemID="5b0084fd-000015e4" linkageExportForAS="true" linkageClassName="TC_TObject__Cq1BTitle3" lastModified="1526760701">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq1BTitle3">
       <layers>
@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• Oven temperature (200, 350, or 500 Degrees)&#xD;• Type of sweetener (Honey or Sugar)&#xD;• Number of eggs (One or Three)</characters>
+                      <characters>• Oven temperature (200, 350, or 500 Degrees)&#xA;• Type of sweetener (Honey or Sugar)&#xA;• Number of eggs (One or Three)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

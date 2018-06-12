@@ -2,3 +2,5 @@
 #library
 
 node utils/GUIDGen/dist/generator.js
+
+REM node utils/LinkageSet/dist/linkage.js

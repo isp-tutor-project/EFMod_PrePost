@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" itemID="5b007421-00001063" linkageExportForAS="true" linkageClassName="CBakingImageTool" lastModified="1526756572">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" itemID="5b007421-00001063" linkageExportForAS="true" linkageClassName="TC_TImgTool__CBakingImageTool" lastModified="1526756572">
   <timeline>
     <DOMTimeline name="TC_TImgTool__CBakingImageTool">
       <layers>

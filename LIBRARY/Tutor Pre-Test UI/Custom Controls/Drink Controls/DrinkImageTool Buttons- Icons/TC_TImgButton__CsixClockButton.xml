@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CsixClockButton" itemID="5b008fdf-000016a5" linkageExportForAS="true" linkageBaseClass="cmu.woz.CWOZButton" linkageClassName="CsixClockButton" lastModified="1526763487">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/DrinkImageTool Buttons- Icons/TC_TImgButton__CsixClockButton" itemID="5b008fdf-000016a5" linkageExportForAS="true" linkageClassName="TC_TImgButton__CsixClockButton" lastModified="1526763487">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CsixClockButton">
       <layers>

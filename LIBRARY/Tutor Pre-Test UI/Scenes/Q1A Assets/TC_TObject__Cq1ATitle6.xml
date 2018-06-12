@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle6" itemID="5b0084ce-000015d6" linkageExportForAS="true" linkageClassName="Cq1ATitle6" lastModified="1526760654">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle6" itemID="5b0084ce-000015d6" linkageExportForAS="true" linkageClassName="TC_TObject__Cq1ATitle6" lastModified="1526760654">
   <timeline>
     <DOMTimeline name="TC_TObject__Cq1ATitle6">
       <layers>
@@ -31,7 +31,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in which stand people buy more drinks from.&#xD;</characters>
+                      <characters> makes a difference in which stand people buy more drinks from.&#xA;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

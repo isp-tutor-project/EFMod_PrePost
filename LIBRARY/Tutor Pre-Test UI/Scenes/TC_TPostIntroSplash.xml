@@ -1,18 +1,21 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash" itemID="5b15bc5f-00000b56" linkageExportForAS="true" linkageClassName="TC_TPostIntroSplash" lastModified="1528151135">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash" itemID="5b15bc5f-00000b56" linkageExportForAS="true" linkageClassName="TC_TPostIntroSplash" lastModified="1528919516">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TPostIntroSplash">
       <layers>
-        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Title" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="637.9" height="104.2" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="637.9" height="210.4" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="193.05" ty="234.35"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Now, we will ask you another six questions.&#xA;&#xA;This is not a test and it will not be graded. &#xA;&#xA;Please take your time and think about each question before you answer.&#xA;&#xA;Click Next when you are ready to begin.  </characters>
+                      <characters>Now, we will ask you another six questions.&#xD;&#xD;This is not a test and it will not be graded. &#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>
@@ -39,11 +42,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shadow" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="520" centerPoint3DY="370.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="370.1">
                   <matrix>
                     <Matrix d="2.16117858886719" tx="138.1" ty="204.8"/>
                   </matrix>

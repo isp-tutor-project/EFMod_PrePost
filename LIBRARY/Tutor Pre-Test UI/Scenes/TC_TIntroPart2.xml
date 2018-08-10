@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart2" itemID="5b15bc56-00000b53" linkageExportForAS="true" linkageClassName="TC_TIntroPart2" lastModified="1528151126" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart2" itemID="5b15bc56-00000b53" linkageExportForAS="true" linkageClassName="TC_TIntroPart2" lastModified="1528918851" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TIntroPart2">
       <layers>
-        <DOMLayer name="TabTool" color="#4FFFFF" autoNamed="false" visible="false">
+        <DOMLayer name="TabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ImageTool" color="#4F80FF" autoNamed="false" visible="false">
+        <DOMLayer name="ImageTool" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool" selected="true">
                   <matrix>
                     <Matrix a="0.862350463867188" d="0.840423583984375" tx="490.95" ty="307.35"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" name="i1p2Frame">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" name="i1p2Frame" selected="true">
                   <matrix>
                     <Matrix a="1.2271728515625" d="1.19589233398438" tx="289.8" ty="221.65"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title1" name="i1p2Title1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title1" name="i1p2Title1" selected="true">
                   <matrix>
                     <Matrix tx="139.1" ty="100.6"/>
                   </matrix>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title2" color="#808080" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Title2" color="#808080" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -86,7 +86,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1" name="i1p2IFrame1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1" name="i1p2IFrame1" selected="true">
                   <matrix>
                     <Matrix d="0.784317016601563" tx="133.1" ty="103.6"/>
                   </matrix>
@@ -102,7 +102,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight" selected="true">
                   <matrix>
                     <Matrix a="0.421844482421875" d="0.421844482421875" tx="736.25" ty="471.6"/>
                   </matrix>
@@ -121,7 +121,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="i1p2QMark">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="i1p2QMark" selected="true">
                   <matrix>
                     <Matrix tx="-321.15" ty="262.5"/>
                   </matrix>
@@ -137,7 +137,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1" name="i1p2QFrame">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1" name="i1p2QFrame" selected="true">
                   <matrix>
                     <Matrix d="0.76470947265625" tx="133.1" ty="598.45"/>
                   </matrix>

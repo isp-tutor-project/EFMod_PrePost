@@ -9,7 +9,7 @@
           <DOMFolderItem name="Tutor Global Assets" itemID="536eeb34-00001d51" isExpanded="true"/>
           <DOMFolderItem name="Tutor Global Assets/Global Assets" itemID="48c16bbe-00000db3" isExpanded="true"/>
           <DOMFolderItem name="Tutor Pre-Test UI" itemID="4817410f-00001d29" isExpanded="true"/>
-          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls" itemID="4817761b-0000586c" isExpanded="true"/>
+          <DOMFolderItem name="Tutor Pre-Test UI/Common Controls" itemID="4817761b-0000586c"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets" itemID="4818ab50-0000b842" isExpanded="true"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets" itemID="4819d670-00001e81"/>
           <DOMFolderItem name="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets" itemID="4820a93e-00001ab2"/>
@@ -498,14 +498,14 @@
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle5.xml" itemID="5b0087e1-00001667" lastModified="1526761441"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle6.xml" itemID="5b0087e0-00001666" lastModified="1526761440"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle7.xml" itemID="5b0087de-00001665" lastModified="1526761438"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment.xml" itemID="5b15b899-00000b4f" lastModified="1528150169"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentA.xml" itemID="5b15b89c-00000b50" lastModified="1528150172"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB.xml" itemID="5b15b89f-00000b51" lastModified="1528150175"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart1.xml" itemID="5b15bc53-00000b52" lastModified="1528151123"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart2.xml" itemID="5b15bc56-00000b53" lastModified="1528151126"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment.xml" itemID="5b15b899-00000b4f" lastModified="1528910711"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentA.xml" itemID="5b15b89c-00000b50" lastModified="1528910717"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB.xml" itemID="5b15b89f-00000b51" lastModified="1528910720"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart1.xml" itemID="5b15bc53-00000b52" lastModified="1528919226"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart2.xml" itemID="5b15bc56-00000b53" lastModified="1528918851"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart3.xml" itemID="5b15bc58-00000b54" lastModified="1528151128"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroSplash.xml" itemID="5b15bc5a-00000b55" lastModified="1528151130"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash.xml" itemID="5b15bc5f-00000b56" lastModified="1528151135"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroSplash.xml" itemID="5b15bc5a-00000b55" lastModified="1528919274"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash.xml" itemID="5b15bc5f-00000b56" lastModified="1528919516"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1.xml" itemID="5b15bc63-00000b57" lastModified="1528151139"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1B.xml" itemID="5b15bc66-00000b58" lastModified="1528151803"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart2.xml" itemID="5b15bc69-00000b59" lastModified="1528151145"/>

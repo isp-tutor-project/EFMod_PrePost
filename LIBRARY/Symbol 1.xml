@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1" itemID="5c37bccd-00000741" lastModified="1547156685" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="389.9" centerPoint3DY="211.15">
+                  <matrix>
+                    <Matrix d="2.53408813476563" tx="8" ty="17.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment" name="Sassess" selected="true" centerPoint3DX="381.9" centerPoint3DY="196.75">
+                  <transformationPoint>
+                    <Point x="381.9" y="165.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

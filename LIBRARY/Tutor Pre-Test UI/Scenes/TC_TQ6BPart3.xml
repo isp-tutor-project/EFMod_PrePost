@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6BPart3" itemID="5b15bcf0-00000b7a" linkageExportForAS="true" linkageClassName="TC_TQ6BPart3" lastModified="1528151280">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6BPart3" itemID="5b15bcf0-00000b7a" linkageExportForAS="true" linkageClassName="TC_TQ6BPart3" lastModified="1547158020">
   <timeline>
     <DOMTimeline name="TC_TQ6BPart3">
       <layers>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Expt Frames" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -78,7 +78,7 @@
                     <Point x="182" y="147.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameF" name="q6FrameD" selected="true" centerPoint3DX="709" centerPoint3DY="318.35">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BFrameF" name="q6FrameD" centerPoint3DX="709" centerPoint3DY="318.35">
                   <matrix>
                     <Matrix tx="527" ty="171.45"/>
                   </matrix>
@@ -151,6 +151,19 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

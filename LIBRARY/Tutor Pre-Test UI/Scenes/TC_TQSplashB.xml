@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplashB" itemID="5b15bcf5-00000b7c" linkageExportForAS="true" linkageClassName="TC_TQSplashB" lastModified="1528151285">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplashB" itemID="5b15bcf5-00000b7c" linkageExportForAS="true" linkageClassName="TC_TQSplashB" lastModified="1547158037">
   <timeline>
     <DOMTimeline name="TC_TQSplashB">
       <layers>
@@ -115,11 +115,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="background" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" selected="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="-120" bottomRightRadius="-120">
+                <DOMRectangleObject objectWidth="1024" objectHeight="768" x="-1" y="1" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="-120" bottomRightRadius="-120">
                   <matrix>
                     <Matrix tx="1" ty="-1"/>
                   </matrix>
@@ -134,6 +134,19 @@
                     </SolidStroke>
                   </stroke>
                 </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

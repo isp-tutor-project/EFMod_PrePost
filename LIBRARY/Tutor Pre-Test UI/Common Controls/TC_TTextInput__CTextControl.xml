@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TTextInput__CTextControl" itemID="5b15bf42-00000b7f" linkageExportForAS="true" linkageClassName="TC_TTextInput__CTextControl" lastModified="1528151885" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" itemID="5b15bf42-00000b7f" linkageExportForAS="true" linkageClassName="TC_THtmlText__CTextControl" lastModified="1528151885" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TTextInput__CTextControl">
+    <DOMTimeline name="TC_THtmlText__CTextControl">
       <layers>
         <DOMLayer name="focusBox" color="#FFFF4F" locked="true" autoNamed="false">
           <frames>

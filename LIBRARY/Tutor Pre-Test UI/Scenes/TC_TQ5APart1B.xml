@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ5APart1B" itemID="5b15bccf-00000b70" linkageExportForAS="true" linkageClassName="TC_TQ5APart1B" lastModified="1528151247">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ5APart1B" itemID="5b15bccf-00000b70" linkageExportForAS="true" linkageClassName="TC_TQ5APart1B" lastModified="1547157926">
   <timeline>
     <DOMTimeline name="TC_TQ5APart1B">
       <layers>
@@ -144,7 +144,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="StandA TabControl" color="#4F80FF" current="true" isSelected="true" autoNamed="false" visible="false">
+        <DOMLayer name="StandA TabControl" color="#4F80FF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -300,7 +300,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TTextInput__CTextControl" name="q5TextControl1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q5TextControl1">
                   <matrix>
                     <Matrix a="0.916519165039063" d="0.0481109619140625" tx="159" ty="768.9"/>
                   </matrix>
@@ -348,6 +348,19 @@
                   <color>
                     <Color alphaMultiplier="0"/>
                   </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

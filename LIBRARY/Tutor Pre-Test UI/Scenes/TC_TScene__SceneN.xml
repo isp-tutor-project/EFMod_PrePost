@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TScene__SceneN" itemID="5b15bd03-00000b7e" linkageExportForAS="true" linkageClassName="TC_TScene__SceneN" lastModified="1528151299" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TScene__SceneN" itemID="5b15bd03-00000b7e" linkageExportForAS="true" linkageClassName="TC_TScene__SceneN" lastModified="1547158045" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TScene__SceneN">
       <layers>
-        <DOMLayer name="THANKS" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="THANKS" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -43,6 +43,19 @@
                     </SolidStroke>
                   </stroke>
                 </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

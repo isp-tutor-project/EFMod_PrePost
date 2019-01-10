@@ -1,21 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash" itemID="5b008125-0000147c" linkageExportForAS="true" linkageClassName="TC_TEndSpash__CPPEndSplash" lastModified="1526759717" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash" itemID="5b008125-0000147c" linkageExportForAS="true" linkageClassName="TC_TEndSpash__CPPEndSplash" lastModified="1547158102" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="TC_TEndSpash__CPPEndSplash">
       <layers>
-        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="NextArrow" color="#FFFF4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
         <DOMLayer name="Done Button" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
@@ -65,6 +51,19 @@
                   <color>
                     <Color brightness="-0.75"/>
                   </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

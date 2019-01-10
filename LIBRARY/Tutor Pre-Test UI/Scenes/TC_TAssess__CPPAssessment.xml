@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment" itemID="5b15b899-00000b4f" linkageExportForAS="true" linkageClassName="TC_TAssess__CPPAssessment" lastModified="1528910711" lastUniqueIdentifier="5">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment" itemID="5b15b899-00000b4f" linkageExportForAS="true" linkageClassName="TC_TAssess__CPPAssessment" lastModified="1547156770" lastUniqueIdentifier="6">
   <timeline>
     <DOMTimeline name="TC_TAssess__CPPAssessment">
       <layers>
-        <DOMLayer name="QFrame1" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Sassess" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment" name="Sassess" selected="true" centerPoint3DX="512" centerPoint3DY="384.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment" name="Sassess" centerPoint3DX="956" centerPoint3DY="594.25">
                   <matrix>
-                    <Matrix tx="130.1" ty="187.5"/>
+                    <Matrix tx="574.1" ty="397.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="165.35"/>
@@ -18,13 +18,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
+        <DOMLayer name="SplashFrameShadow" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="398.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="964" centerPoint3DY="608.65">
                   <matrix>
-                    <Matrix d="2.53408813476563" tx="138.1" ty="204.8"/>
+                    <Matrix d="2.53408813476563" tx="582.1" ty="414.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
@@ -35,6 +35,19 @@
                   <color>
                     <Color brightness="-0.75"/>
                   </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

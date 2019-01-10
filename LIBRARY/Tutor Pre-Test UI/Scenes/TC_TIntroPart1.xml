@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart1" itemID="5b15bc53-00000b52" linkageExportForAS="true" linkageClassName="TC_TIntroPart1" lastModified="1528919226" lastUniqueIdentifier="39">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart1" itemID="5b15bc53-00000b52" linkageExportForAS="true" linkageClassName="TC_TIntroPart1" lastModified="1547156805" lastUniqueIdentifier="39">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version 0.1 loop true"/>
   </persistentData>
@@ -101,7 +101,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkRight" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="QMarkRight" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -112,9 +112,6 @@
                   <transformationPoint>
                     <Point x="395.2" y="382.45"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -130,6 +127,19 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

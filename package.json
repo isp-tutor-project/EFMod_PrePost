@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/createjs": "0.0.29",
     "systemjs": "^0.21.2"
   }
 }

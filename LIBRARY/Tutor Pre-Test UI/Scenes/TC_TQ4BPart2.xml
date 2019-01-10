@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart2" itemID="5b15bcc6-00000b6d" linkageExportForAS="true" linkageClassName="TC_TQ4BPart2" lastModified="1528151238">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart2" itemID="5b15bcc6-00000b6d" linkageExportForAS="true" linkageClassName="TC_TQ4BPart2" lastModified="1547157904">
   <timeline>
     <DOMTimeline name="TC_TQ4BPart2">
       <layers>
@@ -163,11 +163,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title4" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Title4" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle4" name="q4Title4" selected="true" centerPoint3DX="436.55" centerPoint3DY="471.15">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle4" name="q4Title4" centerPoint3DX="436.55" centerPoint3DY="471.15">
                   <matrix>
                     <Matrix tx="146.35" ty="459.65"/>
                   </matrix>
@@ -253,7 +253,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TTextInput__CTextControl" name="q4TextControl1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q4TextControl1">
                   <matrix>
                     <Matrix a="0.95306396484375" tx="146.3" ty="586.2"/>
                   </matrix>
@@ -342,6 +342,19 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

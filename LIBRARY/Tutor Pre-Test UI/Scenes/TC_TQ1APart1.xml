@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1528151139" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1547156858" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="TC_TQ1APart1">
       <layers>
@@ -78,7 +78,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Expt Frames" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -250,7 +250,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TTextInput__CTextControl" name="q1TextControl1" centerPoint3DX="509.9" centerPoint3DY="402.45">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q1TextControl1" centerPoint3DX="509.9" centerPoint3DY="402.45">
                   <matrix>
                     <Matrix a="0.91644287109375" tx="158.95" ty="365.45"/>
                   </matrix>
@@ -310,6 +310,19 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

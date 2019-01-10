@@ -1,4 +1,4 @@
-System.register("com/common/TSelectorIcons", ["thermite/TObject"], function (exports_1, context_1) {
+System.register("common/TSelectorIcons", ["thermite/TObject"], function (exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var TObject_1, TSelectorIcons;
@@ -26,7 +26,7 @@ System.register("com/common/TSelectorIcons", ["thermite/TObject"], function (exp
         }
     };
 });
-System.register("com/common/TSelectorItemButton", ["thermite/TButton"], function (exports_2, context_2) {
+System.register("common/TSelectorItemButton", ["thermite/TButton"], function (exports_2, context_2) {
     "use strict";
     var __moduleName = context_2 && context_2.id;
     var TButton_1, TSelectorItemButton;
@@ -46,7 +46,7 @@ System.register("com/common/TSelectorItemButton", ["thermite/TButton"], function
         }
     };
 });
-System.register("com/common/TLabeledTab", ["thermite/TObject"], function (exports_3, context_3) {
+System.register("common/TLabeledTab", ["thermite/TObject"], function (exports_3, context_3) {
     "use strict";
     var __moduleName = context_3 && context_3.id;
     var TObject_2, TLabeledTab;
@@ -66,7 +66,7 @@ System.register("com/common/TLabeledTab", ["thermite/TObject"], function (export
         }
     };
 });
-System.register("com/common/TTabTool", ["thermite/TObject", "util/CUtil"], function (exports_4, context_4) {
+System.register("common/TTabTool", ["thermite/TObject", "util/CUtil"], function (exports_4, context_4) {
     "use strict";
     var __moduleName = context_4 && context_4.id;
     var TObject_3, CUtil_1, TTabTool;
@@ -100,7 +100,7 @@ System.register("com/common/TTabTool", ["thermite/TObject", "util/CUtil"], funct
         }
     };
 });
-System.register("com/common/TSelectorButton", ["thermite/TButton"], function (exports_5, context_5) {
+System.register("common/TSelectorButton", ["thermite/TButton"], function (exports_5, context_5) {
     "use strict";
     var __moduleName = context_5 && context_5.id;
     var TButton_2, TSelectorButton;
@@ -121,7 +121,7 @@ System.register("com/common/TSelectorButton", ["thermite/TButton"], function (ex
         }
     };
 });
-System.register("com/events/TSelectEvent", ["util/CUtil"], function (exports_6, context_6) {
+System.register("events/TSelectEvent", ["util/CUtil"], function (exports_6, context_6) {
     "use strict";
     var __moduleName = context_6 && context_6.id;
     var CUtil_2, Event, TSelectEvent;
@@ -149,7 +149,7 @@ System.register("com/events/TSelectEvent", ["util/CUtil"], function (exports_6, 
         }
     };
 });
-System.register("com/common/TController", ["com/events/TSelectEvent", "thermite/TObject", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_7, context_7) {
+System.register("common/TController", ["events/TSelectEvent", "thermite/TObject", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_7, context_7) {
     "use strict";
     var __moduleName = context_7 && context_7.id;
     var TSelectEvent_1, TObject_4, TMouseEvent_1, CUtil_3, TController;
@@ -187,15 +187,15 @@ System.register("com/common/TController", ["com/events/TSelectEvent", "thermite/
                 deepStateCopy(src) {
                     super.deepStateCopy(src);
                     var ptrController = src;
-                    this.sel1 = ptrController.this.sel1;
-                    this.sel2 = ptrController.this.sel2;
-                    this.sel3 = ptrController.this.sel3;
-                    this.StopButton.SsubLabel.text = ptrController.this.StopButton.SsubLabel.text;
-                    this.StopButton.SsubLabel.visible = ptrController.this.StopButton.SsubLabel.visible;
-                    this.ScenterButton.SsubLabel.text = ptrController.this.ScenterButton.SsubLabel.text;
-                    this.ScenterButton.SsubLabel.visible = ptrController.this.ScenterButton.SsubLabel.visible;
-                    this.SbottomButton.SsubLabel.text = ptrController.this.SbottomButton.SsubLabel.text;
-                    this.SbottomButton.SsubLabel.visible = ptrController.this.SbottomButton.SsubLabel.visible;
+                    this.sel1 = ptrController.sel1;
+                    this.sel2 = ptrController.sel2;
+                    this.sel3 = ptrController.sel3;
+                    this.StopButton.SsubLabel.text = ptrController.StopButton.SsubLabel.text;
+                    this.StopButton.SsubLabel.visible = ptrController.StopButton.SsubLabel.visible;
+                    this.ScenterButton.SsubLabel.text = ptrController.ScenterButton.SsubLabel.text;
+                    this.ScenterButton.SsubLabel.visible = ptrController.ScenterButton.SsubLabel.visible;
+                    this.SbottomButton.SsubLabel.text = ptrController.SbottomButton.SsubLabel.text;
+                    this.SbottomButton.SsubLabel.visible = ptrController.SbottomButton.SsubLabel.visible;
                 }
                 captureLogState(obj = null) {
                     obj = super.captureLogState(obj);
@@ -407,7 +407,7 @@ System.register("com/common/TController", ["com/events/TSelectEvent", "thermite/
         }
     };
 });
-System.register("com/TBakingController", ["com/common/TController", "util/CUtil"], function (exports_8, context_8) {
+System.register("TBakingController", ["common/TController", "util/CUtil"], function (exports_8, context_8) {
     "use strict";
     var __moduleName = context_8 && context_8.id;
     var TController_1, CUtil_4, TBakingController;
@@ -487,7 +487,7 @@ System.register("com/TBakingController", ["com/common/TController", "util/CUtil"
         }
     };
 });
-System.register("com/common/TImgTool", ["com/events/TSelectEvent", "thermite/TObject", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_9, context_9) {
+System.register("common/TImgTool", ["events/TSelectEvent", "thermite/TObject", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_9, context_9) {
     "use strict";
     var __moduleName = context_9 && context_9.id;
     var TSelectEvent_2, TObject_5, TMouseEvent_2, CUtil_5, TImgTool;
@@ -711,7 +711,7 @@ System.register("com/common/TImgTool", ["com/events/TSelectEvent", "thermite/TOb
         }
     };
 });
-System.register("com/common/TImgTool322", ["com/common/TImgTool", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_10, context_10) {
+System.register("common/TImgTool322", ["common/TImgTool", "events/TSelectEvent", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_10, context_10) {
     "use strict";
     var __moduleName = context_10 && context_10.id;
     var TImgTool_1, TSelectEvent_3, TMouseEvent_3, CUtil_6, TImgTool322;
@@ -855,7 +855,7 @@ System.register("com/common/TImgTool322", ["com/common/TImgTool", "com/events/TS
         }
     };
 });
-System.register("com/TBakingImgTool", ["com/common/TImgTool322", "util/CUtil"], function (exports_11, context_11) {
+System.register("TBakingImgTool", ["common/TImgTool322", "util/CUtil"], function (exports_11, context_11) {
     "use strict";
     var __moduleName = context_11 && context_11.id;
     var TImgTool322_1, CUtil_7, TBakingImgTool;
@@ -887,7 +887,7 @@ System.register("com/TBakingImgTool", ["com/common/TImgTool322", "util/CUtil"], 
         }
     };
 });
-System.register("com/TCarsController", ["com/common/TController", "util/CUtil"], function (exports_12, context_12) {
+System.register("TCarsController", ["common/TController", "util/CUtil"], function (exports_12, context_12) {
     "use strict";
     var __moduleName = context_12 && context_12.id;
     var TController_2, CUtil_8, TCarsController;
@@ -961,7 +961,7 @@ System.register("com/TCarsController", ["com/common/TController", "util/CUtil"],
         }
     };
 });
-System.register("com/TCarsImgTool", ["com/common/TImgTool", "util/CUtil"], function (exports_13, context_13) {
+System.register("TCarsImgTool", ["common/TImgTool", "util/CUtil"], function (exports_13, context_13) {
     "use strict";
     var __moduleName = context_13 && context_13.id;
     var TImgTool_2, CUtil_9, TCarsImgTool;
@@ -992,7 +992,7 @@ System.register("com/TCarsImgTool", ["com/common/TImgTool", "util/CUtil"], funct
         }
     };
 });
-System.register("com/TDrinkController", ["com/common/TController", "util/CUtil"], function (exports_14, context_14) {
+System.register("TDrinkController", ["common/TController", "util/CUtil"], function (exports_14, context_14) {
     "use strict";
     var __moduleName = context_14 && context_14.id;
     var TController_3, CUtil_10, TDrinkController;
@@ -1072,7 +1072,7 @@ System.register("com/TDrinkController", ["com/common/TController", "util/CUtil"]
         }
     };
 });
-System.register("com/TDrinkImgTool", ["com/common/TImgTool322", "util/CUtil"], function (exports_15, context_15) {
+System.register("TDrinkImgTool", ["common/TImgTool322", "util/CUtil"], function (exports_15, context_15) {
     "use strict";
     var __moduleName = context_15 && context_15.id;
     var TImgTool322_2, CUtil_11, TDrinkImgTool;
@@ -1104,7 +1104,7 @@ System.register("com/TDrinkImgTool", ["com/common/TImgTool322", "util/CUtil"], f
         }
     };
 });
-System.register("com/THouseController", ["com/common/TController", "util/CUtil"], function (exports_16, context_16) {
+System.register("THouseController", ["common/TController", "util/CUtil"], function (exports_16, context_16) {
     "use strict";
     var __moduleName = context_16 && context_16.id;
     var TController_4, CUtil_12, THouseController;
@@ -1178,7 +1178,7 @@ System.register("com/THouseController", ["com/common/TController", "util/CUtil"]
         }
     };
 });
-System.register("com/THouseImgTool", ["com/common/TImgTool", "util/CUtil"], function (exports_17, context_17) {
+System.register("THouseImgTool", ["common/TImgTool", "util/CUtil"], function (exports_17, context_17) {
     "use strict";
     var __moduleName = context_17 && context_17.id;
     var TImgTool_3, CUtil_13, THouseImgTool;
@@ -1209,7 +1209,7 @@ System.register("com/THouseImgTool", ["com/common/TImgTool", "util/CUtil"], func
         }
     };
 });
-System.register("com/TMemoryController", ["com/common/TController", "util/CUtil"], function (exports_18, context_18) {
+System.register("TMemoryController", ["common/TController", "util/CUtil"], function (exports_18, context_18) {
     "use strict";
     var __moduleName = context_18 && context_18.id;
     var TController_5, CUtil_14, TMemoryController;
@@ -1283,7 +1283,7 @@ System.register("com/TMemoryController", ["com/common/TController", "util/CUtil"
         }
     };
 });
-System.register("com/TMemoryImgTool", ["com/common/TImgTool", "util/CUtil", "thermite/events/TMouseEvent"], function (exports_19, context_19) {
+System.register("TMemoryImgTool", ["common/TImgTool", "util/CUtil", "thermite/events/TMouseEvent"], function (exports_19, context_19) {
     "use strict";
     var __moduleName = context_19 && context_19.id;
     var TImgTool_4, CUtil_15, TMouseEvent_4, TMemoryImgTool;
@@ -1352,7 +1352,7 @@ System.register("com/TMemoryImgTool", ["com/common/TImgTool", "util/CUtil", "the
         }
     };
 });
-System.register("com/TRocketController", ["com/common/TController", "util/CUtil"], function (exports_20, context_20) {
+System.register("TRocketController", ["common/TController", "util/CUtil"], function (exports_20, context_20) {
     "use strict";
     var __moduleName = context_20 && context_20.id;
     var TController_6, CUtil_16, TRocketController;
@@ -1426,7 +1426,7 @@ System.register("com/TRocketController", ["com/common/TController", "util/CUtil"
         }
     };
 });
-System.register("com/TRocketImgTool", ["com/common/TImgTool", "util/CUtil"], function (exports_21, context_21) {
+System.register("TRocketImgTool", ["common/TImgTool", "util/CUtil"], function (exports_21, context_21) {
     "use strict";
     var __moduleName = context_21 && context_21.id;
     var TImgTool_5, CUtil_17, TRocketImgTool;
@@ -1457,7 +1457,7 @@ System.register("com/TRocketImgTool", ["com/common/TImgTool", "util/CUtil"], fun
         }
     };
 });
-System.register("com/TStudyController", ["com/common/TController", "util/CUtil"], function (exports_22, context_22) {
+System.register("TStudyController", ["common/TController", "util/CUtil"], function (exports_22, context_22) {
     "use strict";
     var __moduleName = context_22 && context_22.id;
     var TController_7, CUtil_18, TStudyController;
@@ -1531,7 +1531,7 @@ System.register("com/TStudyController", ["com/common/TController", "util/CUtil"]
         }
     };
 });
-System.register("com/TStudyImgTool", ["com/common/TImgTool", "util/CUtil"], function (exports_23, context_23) {
+System.register("TStudyImgTool", ["common/TImgTool", "util/CUtil"], function (exports_23, context_23) {
     "use strict";
     var __moduleName = context_23 && context_23.id;
     var TImgTool_6, CUtil_19, TStudyImgTool;
@@ -1562,7 +1562,7 @@ System.register("com/TStudyImgTool", ["com/common/TImgTool", "util/CUtil"], func
         }
     };
 });
-System.register("com/common/TAssessIcon", ["thermite/TObject"], function (exports_24, context_24) {
+System.register("common/TAssessIcon", ["thermite/TObject"], function (exports_24, context_24) {
     "use strict";
     var __moduleName = context_24 && context_24.id;
     var TObject_6, TAssessIcon;
@@ -1580,7 +1580,7 @@ System.register("com/common/TAssessIcon", ["thermite/TObject"], function (export
                     this.Swrong.visible = false;
                     this.SplaceKeeper.visible = false;
                 }
-                show(icon) {
+                showIcon(icon) {
                     this.fadeChild(icon, "on", true);
                 }
             };
@@ -1588,7 +1588,7 @@ System.register("com/common/TAssessIcon", ["thermite/TObject"], function (export
         }
     };
 });
-System.register("com/common/TAssessment", ["thermite/TObject"], function (exports_25, context_25) {
+System.register("common/TAssessment", ["thermite/TObject"], function (exports_25, context_25) {
     "use strict";
     var __moduleName = context_25 && context_25.id;
     var TObject_7, TAssessment;
@@ -1608,7 +1608,7 @@ System.register("com/common/TAssessment", ["thermite/TObject"], function (export
         }
     };
 });
-System.register("com/common/TCircleControl", ["thermite/TCheckButton", "util/CUtil"], function (exports_26, context_26) {
+System.register("common/TCircleControl", ["thermite/TCheckButton", "util/CUtil"], function (exports_26, context_26) {
     "use strict";
     var __moduleName = context_26 && context_26.id;
     var TCheckButton_1, CUtil_20, TCircleControl;
@@ -1705,7 +1705,7 @@ System.register("com/common/TCircleControl", ["thermite/TCheckButton", "util/CUt
         }
     };
 });
-System.register("com/common/TLabelControl", [], function (exports_27, context_27) {
+System.register("common/TLabelControl", [], function (exports_27, context_27) {
     "use strict";
     var __moduleName = context_27 && context_27.id;
     var Text, TLabelControl;
@@ -1725,7 +1725,7 @@ System.register("com/common/TLabelControl", [], function (exports_27, context_27
         }
     };
 });
-System.register("com/common/TNavCollection", ["thermite/TObject", "util/CUtil"], function (exports_28, context_28) {
+System.register("common/TNavCollection", ["thermite/TObject", "util/CUtil"], function (exports_28, context_28) {
     "use strict";
     var __moduleName = context_28 && context_28.id;
     var TObject_8, CUtil_21, TNavCollection;
@@ -1751,7 +1751,7 @@ System.register("com/common/TNavCollection", ["thermite/TObject", "util/CUtil"],
         }
     };
 });
-System.register("com/common/TPrompt", ["thermite/TObject", "util/CUtil"], function (exports_29, context_29) {
+System.register("common/TPrompt", ["thermite/TObject", "util/CUtil"], function (exports_29, context_29) {
     "use strict";
     var __moduleName = context_29 && context_29.id;
     var TObject_9, CUtil_22, TPrompt;
@@ -1800,7 +1800,7 @@ System.register("com/common/TPrompt", ["thermite/TObject", "util/CUtil"], functi
         }
     };
 });
-System.register("com/common/TNextPrompt", ["com/common/TPrompt"], function (exports_30, context_30) {
+System.register("common/TNextPrompt", ["common/TPrompt"], function (exports_30, context_30) {
     "use strict";
     var __moduleName = context_30 && context_30.id;
     var TPrompt_1, TNextPrompt;
@@ -1820,7 +1820,7 @@ System.register("com/common/TNextPrompt", ["com/common/TPrompt"], function (expo
         }
     };
 });
-System.register("com/common/TPanelDark", ["thermite/TButton", "util/CUtil"], function (exports_31, context_31) {
+System.register("common/TPanelDark", ["thermite/TButton", "util/CUtil"], function (exports_31, context_31) {
     "use strict";
     var __moduleName = context_31 && context_31.id;
     var TButton_3, CUtil_23, TPanelDark;
@@ -1844,7 +1844,7 @@ System.register("com/common/TPanelDark", ["thermite/TButton", "util/CUtil"], fun
         }
     };
 });
-System.register("com/common/TPanelLight", ["thermite/TButton", "util/CUtil"], function (exports_32, context_32) {
+System.register("common/TPanelLight", ["thermite/TButton", "util/CUtil"], function (exports_32, context_32) {
     "use strict";
     var __moduleName = context_32 && context_32.id;
     var TButton_4, CUtil_24, TPanelLight;
@@ -1868,7 +1868,7 @@ System.register("com/common/TPanelLight", ["thermite/TButton", "util/CUtil"], fu
         }
     };
 });
-System.register("com/common/TSelector", ["thermite/TObject", "util/CUtil"], function (exports_33, context_33) {
+System.register("common/TSelector", ["thermite/TObject", "util/CUtil"], function (exports_33, context_33) {
     "use strict";
     var __moduleName = context_33 && context_33.id;
     var TObject_10, CUtil_25, TSelector;
@@ -1911,7 +1911,7 @@ System.register("com/common/TSelector", ["thermite/TObject", "util/CUtil"], func
         }
     };
 });
-System.register("com/common/TTip1", ["thermite/TScene", "util/CUtil"], function (exports_34, context_34) {
+System.register("common/TTip1", ["thermite/TScene", "util/CUtil"], function (exports_34, context_34) {
     "use strict";
     var __moduleName = context_34 && context_34.id;
     var TScene_1, CUtil_26, TTip1;
@@ -1935,7 +1935,7 @@ System.register("com/common/TTip1", ["thermite/TScene", "util/CUtil"], function 
         }
     };
 });
-System.register("com/events/TNavEvent", ["util/CUtil"], function (exports_35, context_35) {
+System.register("events/TNavEvent", ["util/CUtil"], function (exports_35, context_35) {
     "use strict";
     var __moduleName = context_35 && context_35.id;
     var CUtil_27, Event, TNavEvent;
@@ -2069,7 +2069,7 @@ System.register("sceneExt/TAssess", ["thermite/TScene", "util/CUtil"], function 
         }
     };
 });
-System.register("sceneExt/TEndSplash", ["thermite/events/TMouseEvent", "com/events/TNavEvent", "thermite/TScene", "util/CUtil"], function (exports_37, context_37) {
+System.register("sceneExt/TEndSplash", ["thermite/events/TMouseEvent", "events/TNavEvent", "thermite/TScene", "util/CUtil"], function (exports_37, context_37) {
     "use strict";
     var __moduleName = context_37 && context_37.id;
     var TMouseEvent_5, TNavEvent_1, TScene_3, CUtil_29, TEndSplash;
@@ -2444,7 +2444,7 @@ System.register("sceneExt/TExpSceneTyp2", ["thermite/TScene", "thermite/events/T
         }
     };
 });
-System.register("sceneExt/TIntroPart1", ["com/events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_40, context_40) {
+System.register("sceneExt/TIntroPart1", ["events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_40, context_40) {
     "use strict";
     var __moduleName = context_40 && context_40.id;
     var TSelectEvent_4, TScene_6, TMouseEvent_8, CUtil_32, TIntroPart1;
@@ -2537,7 +2537,7 @@ System.register("sceneExt/TIntroPart1", ["com/events/TSelectEvent", "thermite/TS
         }
     };
 });
-System.register("sceneExt/TIntroPart2", ["com/events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_41, context_41) {
+System.register("sceneExt/TIntroPart2", ["events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_41, context_41) {
     "use strict";
     var __moduleName = context_41 && context_41.id;
     var TSelectEvent_5, TScene_7, TMouseEvent_9, CUtil_33, TIntroPart2;
@@ -2946,7 +2946,7 @@ System.register("sceneExt/TPostIntroSplash", ["thermite/TScene", "util/CUtil"], 
         }
     };
 });
-System.register("sceneExt/TQ1APart1", ["sceneExt/TExpSceneTyp2", "util/CUtil", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "com/events/TNavEvent"], function (exports_45, context_45) {
+System.register("sceneExt/TQ1APart1", ["sceneExt/TExpSceneTyp2", "util/CUtil", "events/TSelectEvent", "thermite/events/TMouseEvent", "events/TNavEvent"], function (exports_45, context_45) {
     "use strict";
     var __moduleName = context_45 && context_45.id;
     var TExpSceneTyp2_1, CUtil_37, TSelectEvent_6, TMouseEvent_11, TNavEvent_2, TQ1APart1;
@@ -3014,7 +3014,7 @@ System.register("sceneExt/TQ1APart1", ["sceneExt/TExpSceneTyp2", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ1APart1B", ["sceneExt/TExpSceneTyp2", "com/events/TSelectEvent", "util/CUtil"], function (exports_46, context_46) {
+System.register("sceneExt/TQ1APart1B", ["sceneExt/TExpSceneTyp2", "events/TSelectEvent", "util/CUtil"], function (exports_46, context_46) {
     "use strict";
     var __moduleName = context_46 && context_46.id;
     var TExpSceneTyp2_2, TSelectEvent_7, CUtil_38, TQ1APart1B;
@@ -3180,7 +3180,7 @@ System.register("sceneExt/TQ1APart2", ["sceneExt/TExpSceneTyp2", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ1BPart1", ["sceneExt/TExpSceneTyp2", "com/events/TSelectEvent", "com/events/TNavEvent", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_48, context_48) {
+System.register("sceneExt/TQ1BPart1", ["sceneExt/TExpSceneTyp2", "events/TSelectEvent", "events/TNavEvent", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_48, context_48) {
     "use strict";
     var __moduleName = context_48 && context_48.id;
     var TExpSceneTyp2_4, TSelectEvent_8, TNavEvent_3, TMouseEvent_12, CUtil_40, TQ1BPart1;
@@ -3246,7 +3246,7 @@ System.register("sceneExt/TQ1BPart1", ["sceneExt/TExpSceneTyp2", "com/events/TSe
         }
     };
 });
-System.register("sceneExt/TQ1BPart1B", ["sceneExt/TExpSceneTyp2", "com/events/TSelectEvent", "util/CUtil"], function (exports_49, context_49) {
+System.register("sceneExt/TQ1BPart1B", ["sceneExt/TExpSceneTyp2", "events/TSelectEvent", "util/CUtil"], function (exports_49, context_49) {
     "use strict";
     var __moduleName = context_49 && context_49.id;
     var TExpSceneTyp2_5, TSelectEvent_9, CUtil_41, TQ1BPart1B;
@@ -3637,7 +3637,7 @@ System.register("sceneExt/TQ2APart2", ["sceneExt/TExpSceneTyp2", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ2APart3", ["sceneExt/TExpSceneTyp2", "util/CUtil", "com/events/TSelectEvent"], function (exports_53, context_53) {
+System.register("sceneExt/TQ2APart3", ["sceneExt/TExpSceneTyp2", "util/CUtil", "events/TSelectEvent"], function (exports_53, context_53) {
     "use strict";
     var __moduleName = context_53 && context_53.id;
     var TExpSceneTyp2_9, CUtil_45, TSelectEvent_10, TQ2APart3;
@@ -3976,7 +3976,7 @@ System.register("sceneExt/TQ2BPart2", ["sceneExt/TExpSceneTyp2", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ2BPart3", ["sceneExt/TExpSceneTyp2", "util/CUtil", "com/events/TSelectEvent"], function (exports_56, context_56) {
+System.register("sceneExt/TQ2BPart3", ["sceneExt/TExpSceneTyp2", "util/CUtil", "events/TSelectEvent"], function (exports_56, context_56) {
     "use strict";
     var __moduleName = context_56 && context_56.id;
     var TExpSceneTyp2_12, CUtil_48, TSelectEvent_11, TQ2BPart3;
@@ -4086,7 +4086,7 @@ System.register("sceneExt/TQ2BPart3", ["sceneExt/TExpSceneTyp2", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ3APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "com/events/TNavEvent"], function (exports_57, context_57) {
+System.register("sceneExt/TQ3APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent", "thermite/events/TMouseEvent", "events/TNavEvent"], function (exports_57, context_57) {
     "use strict";
     var __moduleName = context_57 && context_57.id;
     var TExpSceneTyp1_1, CUtil_49, TSelectEvent_12, TMouseEvent_15, TNavEvent_4, TQ3APart1;
@@ -4153,7 +4153,7 @@ System.register("sceneExt/TQ3APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ3APart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_58, context_58) {
+System.register("sceneExt/TQ3APart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_58, context_58) {
     "use strict";
     var __moduleName = context_58 && context_58.id;
     var TExpSceneTyp1_2, CUtil_50, TSelectEvent_13, TQ3APart1B;
@@ -4317,7 +4317,7 @@ System.register("sceneExt/TQ3APart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ3BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "com/events/TNavEvent"], function (exports_60, context_60) {
+System.register("sceneExt/TQ3BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent", "thermite/events/TMouseEvent", "events/TNavEvent"], function (exports_60, context_60) {
     "use strict";
     var __moduleName = context_60 && context_60.id;
     var TExpSceneTyp1_4, CUtil_52, TSelectEvent_14, TMouseEvent_16, TNavEvent_5, TQ3BPart1;
@@ -4382,7 +4382,7 @@ System.register("sceneExt/TQ3BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ3BPart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_61, context_61) {
+System.register("sceneExt/TQ3BPart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_61, context_61) {
     "use strict";
     var __moduleName = context_61 && context_61.id;
     var TExpSceneTyp1_5, CUtil_53, TSelectEvent_15, TQ3BPart1B;
@@ -4768,7 +4768,7 @@ System.register("sceneExt/TQ4APart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ4APart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_65, context_65) {
+System.register("sceneExt/TQ4APart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_65, context_65) {
     "use strict";
     var __moduleName = context_65 && context_65.id;
     var TExpSceneTyp1_9, CUtil_57, TSelectEvent_16, TQ4APart3;
@@ -5102,7 +5102,7 @@ System.register("sceneExt/TQ4BPart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ4BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_68, context_68) {
+System.register("sceneExt/TQ4BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_68, context_68) {
     "use strict";
     var __moduleName = context_68 && context_68.id;
     var TExpSceneTyp1_12, CUtil_60, TSelectEvent_17, TQ4BPart3;
@@ -5214,7 +5214,7 @@ System.register("sceneExt/TQ4BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ5APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "com/events/TNavEvent"], function (exports_69, context_69) {
+System.register("sceneExt/TQ5APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent", "thermite/events/TMouseEvent", "events/TNavEvent"], function (exports_69, context_69) {
     "use strict";
     var __moduleName = context_69 && context_69.id;
     var TExpSceneTyp1_13, CUtil_61, TSelectEvent_18, TMouseEvent_19, TNavEvent_6, TQ5APart1;
@@ -5281,7 +5281,7 @@ System.register("sceneExt/TQ5APart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ5APart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_70, context_70) {
+System.register("sceneExt/TQ5APart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_70, context_70) {
     "use strict";
     var __moduleName = context_70 && context_70.id;
     var TExpSceneTyp1_14, CUtil_62, TSelectEvent_19, TQ5APart1B;
@@ -5446,7 +5446,7 @@ System.register("sceneExt/TQ5APart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ5BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent", "thermite/events/TMouseEvent", "com/events/TNavEvent"], function (exports_72, context_72) {
+System.register("sceneExt/TQ5BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent", "thermite/events/TMouseEvent", "events/TNavEvent"], function (exports_72, context_72) {
     "use strict";
     var __moduleName = context_72 && context_72.id;
     var TExpSceneTyp1_16, CUtil_64, TSelectEvent_20, TMouseEvent_20, TNavEvent_7, TQ5BPart1;
@@ -5511,7 +5511,7 @@ System.register("sceneExt/TQ5BPart1", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQ5BPart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_73, context_73) {
+System.register("sceneExt/TQ5BPart1B", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_73, context_73) {
     "use strict";
     var __moduleName = context_73 && context_73.id;
     var TExpSceneTyp1_17, CUtil_65, TSelectEvent_21, TQ5BPart1B;
@@ -5898,7 +5898,7 @@ System.register("sceneExt/TQ6APart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ6APart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_77, context_77) {
+System.register("sceneExt/TQ6APart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_77, context_77) {
     "use strict";
     var __moduleName = context_77 && context_77.id;
     var TExpSceneTyp1_21, CUtil_69, TSelectEvent_22, TQ6APart3;
@@ -6238,7 +6238,7 @@ System.register("sceneExt/TQ6BPart2", ["sceneExt/TExpSceneTyp1", "thermite/event
         }
     };
 });
-System.register("sceneExt/TQ6BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "com/events/TSelectEvent"], function (exports_80, context_80) {
+System.register("sceneExt/TQ6BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "events/TSelectEvent"], function (exports_80, context_80) {
     "use strict";
     var __moduleName = context_80 && context_80.id;
     var TExpSceneTyp1_24, CUtil_72, TSelectEvent_23, TQ6BPart3;
@@ -6356,7 +6356,7 @@ System.register("sceneExt/TQ6BPart3", ["sceneExt/TExpSceneTyp1", "util/CUtil", "
         }
     };
 });
-System.register("sceneExt/TQSplash", ["thermite/TScene", "util/CUtil", "com/events/TNavEvent", "core/CEFTimer"], function (exports_81, context_81) {
+System.register("sceneExt/TQSplash", ["thermite/TScene", "util/CUtil", "events/TNavEvent", "core/CEFTimer"], function (exports_81, context_81) {
     "use strict";
     var __moduleName = context_81 && context_81.id;
     var TScene_11, CUtil_73, TNavEvent_8, CEFTimer_1, TQSplash;
@@ -6404,7 +6404,7 @@ System.register("sceneExt/TQSplash", ["thermite/TScene", "util/CUtil", "com/even
         }
     };
 });
-System.register("sceneExt/TQSplashB", ["com/events/TNavEvent", "thermite/TScene", "util/CUtil"], function (exports_82, context_82) {
+System.register("sceneExt/TQSplashB", ["events/TNavEvent", "thermite/TScene", "util/CUtil"], function (exports_82, context_82) {
     "use strict";
     var __moduleName = context_82 && context_82.id;
     var TNavEvent_9, TScene_12, CUtil_74, TQSplashB;
@@ -6474,7 +6474,7 @@ System.register("sceneExt/TScene0", ["thermite/TScene", "util/CUtil"], function 
         }
     };
 });
-System.register("sceneExt/TScene1", ["com/events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_84, context_84) {
+System.register("sceneExt/TScene1", ["events/TSelectEvent", "thermite/TScene", "thermite/events/TMouseEvent", "util/CUtil"], function (exports_84, context_84) {
     "use strict";
     var __moduleName = context_84 && context_84.id;
     var TSelectEvent_24, TScene_14, TMouseEvent_23, CUtil_76, TIntroPart1;

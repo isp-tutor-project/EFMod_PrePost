@@ -1,7 +1,7 @@
 /// <reference path="../../dist/TutorEngineOne.d.ts" />
 /// <reference types="easeljs" />
 /// <reference types="createjs-lib" />
-declare module "com/common/TSelectorIcons" {
+declare module "common/TSelectorIcons" {
     import { TObject } from "thermite/TObject";
     import DisplayObject = createjs.DisplayObject;
     export class TSelectorIcons extends TObject {
@@ -54,8 +54,8 @@ declare module "com/common/TSelectorIcons" {
         showIcon(iName: string): void;
     }
 }
-declare module "com/common/TSelectorItemButton" {
-    import { TSelectorIcons } from "com/common/TSelectorIcons";
+declare module "common/TSelectorItemButton" {
+    import { TSelectorIcons } from "common/TSelectorIcons";
     import { TButton } from "thermite/TButton";
     import { TRadioButton } from "thermite/TRadioButton";
     export class TSelectorItemButton extends TButton {
@@ -64,7 +64,7 @@ declare module "com/common/TSelectorItemButton" {
         constructor();
     }
 }
-declare module "com/common/TLabeledTab" {
+declare module "common/TLabeledTab" {
     import { TObject } from "thermite/TObject";
     import DisplayObject = createjs.DisplayObject;
     import Text = createjs.Text;
@@ -74,10 +74,10 @@ declare module "com/common/TLabeledTab" {
         constructor();
     }
 }
-declare module "com/common/TTabTool" {
-    import { TSelectorItemButton } from "com/common/TSelectorItemButton";
+declare module "common/TTabTool" {
+    import { TSelectorItemButton } from "common/TSelectorItemButton";
     import { TButton } from "thermite/TButton";
-    import { TLabeledTab } from "com/common/TLabeledTab";
+    import { TLabeledTab } from "common/TLabeledTab";
     import { TObject } from "thermite/TObject";
     import DisplayObject = createjs.DisplayObject;
     export class TTabTool extends TObject {
@@ -95,7 +95,7 @@ declare module "com/common/TTabTool" {
         hideAllIcons(): void;
     }
 }
-declare module "com/common/TSelectorButton" {
+declare module "common/TSelectorButton" {
     import { TButton } from "thermite/TButton";
     import DisplayObject = createjs.DisplayObject;
     import Text = createjs.Text;
@@ -106,7 +106,7 @@ declare module "com/common/TSelectorButton" {
         constructor();
     }
 }
-declare module "com/events/TSelectEvent" {
+declare module "events/TSelectEvent" {
     import Event = createjs.Event;
     export class TSelectEvent extends Event {
         static readonly WOZTABSELECT: string;
@@ -116,9 +116,9 @@ declare module "com/events/TSelectEvent" {
         clone(): Event;
     }
 }
-declare module "com/common/TController" {
-    import { TTabTool } from "com/common/TTabTool";
-    import { TSelectorButton } from "com/common/TSelectorButton";
+declare module "common/TController" {
+    import { TTabTool } from "common/TTabTool";
+    import { TSelectorButton } from "common/TSelectorButton";
     import { TObject } from "thermite/TObject";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TController extends TObject {
@@ -153,8 +153,8 @@ declare module "com/common/TController" {
         bottomClick(evt: TMouseEvent): void;
     }
 }
-declare module "com/TBakingController" {
-    import { TController } from "com/common/TController";
+declare module "TBakingController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TBakingController extends TController {
         constructor();
@@ -171,7 +171,7 @@ declare module "com/TBakingController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/common/TImgTool" {
+declare module "common/TImgTool" {
     import { TObject } from "thermite/TObject";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TImgTool extends TObject {
@@ -204,8 +204,8 @@ declare module "com/common/TImgTool" {
         dofeature3B(evt: TMouseEvent): void;
     }
 }
-declare module "com/common/TImgTool322" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "common/TImgTool322" {
+    import { TImgTool } from "common/TImgTool";
     import { TObject } from "thermite/TObject";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TImgTool322 extends TImgTool {
@@ -222,8 +222,8 @@ declare module "com/common/TImgTool322" {
         dofeature1C(evt: TMouseEvent): void;
     }
 }
-declare module "com/TBakingImgTool" {
-    import { TImgTool322 } from "com/common/TImgTool322";
+declare module "TBakingImgTool" {
+    import { TImgTool322 } from "common/TImgTool322";
     import { TButton } from "thermite/TButton";
     export class TBakingImgTool extends TImgTool322 {
         temp200: TButton;
@@ -236,8 +236,8 @@ declare module "com/TBakingImgTool" {
         constructor();
     }
 }
-declare module "com/TCarsController" {
-    import { TController } from "com/common/TController";
+declare module "TCarsController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TCarsController extends TController {
         constructor();
@@ -253,8 +253,8 @@ declare module "com/TCarsController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/TCarsImgTool" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "TCarsImgTool" {
+    import { TImgTool } from "common/TImgTool";
     import { TButton } from "thermite/TButton";
     export class TCarsImgTool extends TImgTool {
         topClosed: TButton;
@@ -266,8 +266,8 @@ declare module "com/TCarsImgTool" {
         constructor();
     }
 }
-declare module "com/TDrinkController" {
-    import { TController } from "com/common/TController";
+declare module "TDrinkController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TDrinkController extends TController {
         constructor();
@@ -284,8 +284,8 @@ declare module "com/TDrinkController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/TDrinkImgTool" {
-    import { TImgTool322 } from "com/common/TImgTool322";
+declare module "TDrinkImgTool" {
+    import { TImgTool322 } from "common/TImgTool322";
     import { TButton } from "thermite/TButton";
     export class TDrinkImgTool extends TImgTool322 {
         clockNoon: TButton;
@@ -298,8 +298,8 @@ declare module "com/TDrinkImgTool" {
         constructor();
     }
 }
-declare module "com/THouseController" {
-    import { TController } from "com/common/TController";
+declare module "THouseController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class THouseController extends TController {
         constructor();
@@ -315,8 +315,8 @@ declare module "com/THouseController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/THouseImgTool" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "THouseImgTool" {
+    import { TImgTool } from "common/TImgTool";
     import { TButton } from "thermite/TButton";
     export class THouseImgTool extends TImgTool {
         singleDoor: TButton;
@@ -328,8 +328,8 @@ declare module "com/THouseImgTool" {
         constructor();
     }
 }
-declare module "com/TMemoryController" {
-    import { TController } from "com/common/TController";
+declare module "TMemoryController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TMemoryController extends TController {
         constructor();
@@ -345,8 +345,8 @@ declare module "com/TMemoryController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/TMemoryImgTool" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "TMemoryImgTool" {
+    import { TImgTool } from "common/TImgTool";
     import { TButton } from "thermite/TButton";
     export class TMemoryImgTool extends TImgTool {
         lightBright: TButton;
@@ -360,8 +360,8 @@ declare module "com/TMemoryImgTool" {
         manageMasks(target: string): void;
     }
 }
-declare module "com/TRocketController" {
-    import { TController } from "com/common/TController";
+declare module "TRocketController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TRocketController extends TController {
         constructor();
@@ -377,8 +377,8 @@ declare module "com/TRocketController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/TRocketImgTool" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "TRocketImgTool" {
+    import { TImgTool } from "common/TImgTool";
     import { TButton } from "thermite/TButton";
     export class TRocketImgTool extends TImgTool {
         curvedBody: TButton;
@@ -390,8 +390,8 @@ declare module "com/TRocketImgTool" {
         constructor();
     }
 }
-declare module "com/TStudyController" {
-    import { TController } from "com/common/TController";
+declare module "TStudyController" {
+    import { TController } from "common/TController";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TStudyController extends TController {
         constructor();
@@ -407,8 +407,8 @@ declare module "com/TStudyController" {
         queryQuestionDone(): void;
     }
 }
-declare module "com/TStudyImgTool" {
-    import { TImgTool } from "com/common/TImgTool";
+declare module "TStudyImgTool" {
+    import { TImgTool } from "common/TImgTool";
     import { TButton } from "thermite/TButton";
     export class TStudyImgTool extends TImgTool {
         studyAlone: TButton;
@@ -420,18 +420,18 @@ declare module "com/TStudyImgTool" {
         constructor();
     }
 }
-declare module "com/common/TAssessIcon" {
+declare module "common/TAssessIcon" {
     import { TObject } from "thermite/TObject";
     export class TAssessIcon extends TObject {
         Sright: TObject;
         Swrong: TObject;
         SplaceKeeper: TObject;
         constructor();
-        show(icon: string): void;
+        showIcon(icon: string): void;
     }
 }
-declare module "com/common/TAssessment" {
-    import { TAssessIcon } from "com/common/TAssessIcon";
+declare module "common/TAssessment" {
+    import { TAssessIcon } from "common/TAssessIcon";
     import { TObject } from "thermite/TObject";
     import Text = createjs.Text;
     export class TAssessment extends TObject {
@@ -448,7 +448,7 @@ declare module "com/common/TAssessment" {
         constructor();
     }
 }
-declare module "com/common/TCircleControl" {
+declare module "common/TCircleControl" {
     import { TCheckButton } from "thermite/TCheckButton";
     import DisplayObject = createjs.DisplayObject;
     export class TCircleControl extends TCheckButton {
@@ -464,7 +464,7 @@ declare module "com/common/TCircleControl" {
         compareXMLState(xmlState: any): boolean;
     }
 }
-declare module "com/common/TLabelControl" {
+declare module "common/TLabelControl" {
     import Text = createjs.Text;
     export class TLabelControl extends Text {
         Slabel: Text;
@@ -472,14 +472,14 @@ declare module "com/common/TLabelControl" {
         setLabel(newLabel: string, colour?: number): void;
     }
 }
-declare module "com/common/TNavCollection" {
+declare module "common/TNavCollection" {
     import { TObject } from "thermite/TObject";
     export class TNavCollection extends TObject {
         traceMode: boolean;
         constructor();
     }
 }
-declare module "com/common/TPrompt" {
+declare module "common/TPrompt" {
     import { TObject } from "thermite/TObject";
     export class TPrompt extends TObject {
         traceTPrompt: boolean;
@@ -488,25 +488,25 @@ declare module "com/common/TPrompt" {
         dumpSceneObjs(TutScene: any): void;
     }
 }
-declare module "com/common/TNextPrompt" {
-    import { TPrompt } from "com/common/TPrompt";
+declare module "common/TNextPrompt" {
+    import { TPrompt } from "common/TPrompt";
     export class TNextPrompt extends TPrompt {
         constructor();
     }
 }
-declare module "com/common/TPanelDark" {
+declare module "common/TPanelDark" {
     import { TButton } from "thermite/TButton";
     export class TPanelDark extends TButton {
         constructor();
     }
 }
-declare module "com/common/TPanelLight" {
+declare module "common/TPanelLight" {
     import { TButton } from "thermite/TButton";
     export class TPanelLight extends TButton {
         constructor();
     }
 }
-declare module "com/common/TSelector" {
+declare module "common/TSelector" {
     import { TObject } from "thermite/TObject";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
     export class TSelector extends TObject {
@@ -519,13 +519,13 @@ declare module "com/common/TSelector" {
         doMouseOut(evt: TMouseEvent): void;
     }
 }
-declare module "com/common/TTip1" {
+declare module "common/TTip1" {
     import { TScene } from "thermite/TScene";
     export class TTip1 extends TScene {
         constructor();
     }
 }
-declare module "com/events/TNavEvent" {
+declare module "events/TNavEvent" {
     import Event = createjs.Event;
     export class TNavEvent extends Event {
         static readonly WOZNAVNEXT: string;
@@ -540,7 +540,7 @@ declare module "com/events/TNavEvent" {
     }
 }
 declare module "sceneExt/TAssess" {
-    import { TAssessment } from "com/common/TAssessment";
+    import { TAssessment } from "common/TAssessment";
     import { TScene } from "thermite/TScene";
     export class TAssess extends TScene {
         Sassess: TAssessment;
@@ -562,7 +562,7 @@ declare module "sceneExt/TEndSplash" {
     }
 }
 declare module "sceneExt/TExpSceneTyp1" {
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { TSelectEvent } from "events/TSelectEvent";
     import { TScene } from "thermite/TScene";
     export class TExpSceneTyp1 extends TScene {
         traceTExpSceneTyp1: boolean;
@@ -588,7 +588,7 @@ declare module "sceneExt/TExpSceneTyp1" {
     }
 }
 declare module "sceneExt/TExpSceneTyp2" {
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { TSelectEvent } from "events/TSelectEvent";
     import { TScene } from "thermite/TScene";
     export class TExpSceneTyp2 extends TScene {
         traceTExpSceneTyp2: boolean;
@@ -615,9 +615,9 @@ declare module "sceneExt/TExpSceneTyp2" {
     }
 }
 declare module "sceneExt/TIntroPart1" {
-    import { THouseImgTool } from "com/THouseImgTool";
-    import { THouseController } from "com/THouseController";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THouseImgTool } from "THouseImgTool";
+    import { THouseController } from "THouseController";
+    import { TSelectEvent } from "events/TSelectEvent";
     import { TScene } from "thermite/TScene";
     export class TIntroPart1 extends TScene {
         i1p1imgTool: THouseImgTool;
@@ -633,9 +633,9 @@ declare module "sceneExt/TIntroPart1" {
     }
 }
 declare module "sceneExt/TIntroPart2" {
-    import { THouseImgTool } from "com/THouseImgTool";
-    import { THouseController } from "com/THouseController";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THouseImgTool } from "THouseImgTool";
+    import { THouseController } from "THouseController";
+    import { TSelectEvent } from "events/TSelectEvent";
     import { TScene } from "thermite/TScene";
     export class TIntroPart2 extends TScene {
         i1p2imgTool: THouseImgTool;
@@ -658,9 +658,9 @@ declare module "sceneExt/TIntroPart2" {
     }
 }
 declare module "sceneExt/TIntroPart3" {
-    import { THouseImgTool } from "com/THouseImgTool";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TPrompt } from "com/common/TPrompt";
+    import { THouseImgTool } from "THouseImgTool";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TPrompt } from "common/TPrompt";
     import { TScene } from "thermite/TScene";
     export class TIntroPart3 extends TScene {
         i1p3imgTool: THouseImgTool;
@@ -721,8 +721,8 @@ declare module "sceneExt/TPostIntroSplash" {
 }
 declare module "sceneExt/TQ1APart1" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -752,10 +752,10 @@ declare module "sceneExt/TQ1APart1" {
 }
 declare module "sceneExt/TQ1APart1B" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
     import { TObject } from "thermite/TObject";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ1APart1B extends TExpSceneTyp2 {
         q1Title1: TObject;
         q1Title2: TObject;
@@ -774,7 +774,7 @@ declare module "sceneExt/TQ1APart1B" {
         imgToolBq1: TDrinkImgTool;
         tabControllerAq1: TDrinkController;
         tabControllerBq1: TDrinkController;
-        q1TextControl1: TTextInput;
+        q1TextControl1: THtmlText;
         q1FrameA: TObject;
         q1FrameB: TObject;
         fCompleteA: boolean;
@@ -791,10 +791,10 @@ declare module "sceneExt/TQ1APart1B" {
 }
 declare module "sceneExt/TQ1APart2" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
     import { TObject } from "thermite/TObject";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ1APart2 extends TExpSceneTyp2 {
         q1Title1: TObject;
         q1Title2: TObject;
@@ -813,7 +813,7 @@ declare module "sceneExt/TQ1APart2" {
         imgToolBq1: TDrinkImgTool;
         tabControllerAq1: TDrinkController;
         tabControllerBq1: TDrinkController;
-        q1TextControl1: TTextInput;
+        q1TextControl1: THtmlText;
         q1FrameA: TObject;
         q1FrameB: TObject;
         fStateCap: boolean;
@@ -827,8 +827,8 @@ declare module "sceneExt/TQ1APart2" {
 }
 declare module "sceneExt/TQ1BPart1" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -858,11 +858,11 @@ declare module "sceneExt/TQ1BPart1" {
 }
 declare module "sceneExt/TQ1BPart1B" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ1BPart1B extends TExpSceneTyp2 {
         q1Title1: TObject;
         q1Title2: TObject;
@@ -882,7 +882,7 @@ declare module "sceneExt/TQ1BPart1B" {
         imgToolBq1: TBakingImgTool;
         tabControllerAq1: TBakingController;
         tabControllerBq1: TBakingController;
-        q1TextControl1: TTextInput;
+        q1TextControl1: THtmlText;
         q1FrameA: TObject;
         q1FrameB: TObject;
         fCompleteA: boolean;
@@ -899,11 +899,11 @@ declare module "sceneExt/TQ1BPart1B" {
 }
 declare module "sceneExt/TQ1BPart2" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ1BPart2 extends TExpSceneTyp2 {
         q1Title1: TObject;
         q1Title2: TObject;
@@ -923,7 +923,7 @@ declare module "sceneExt/TQ1BPart2" {
         imgToolBq1: TBakingImgTool;
         tabControllerAq1: TBakingController;
         tabControllerBq1: TBakingController;
-        q1TextControl1: TTextInput;
+        q1TextControl1: THtmlText;
         q1FrameA: TObject;
         q1FrameB: TObject;
         fStateCap: boolean;
@@ -937,9 +937,9 @@ declare module "sceneExt/TQ1BPart2" {
 }
 declare module "sceneExt/TQ2APart1" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     export class TQ2APart1 extends TExpSceneTyp2 {
         q2Title1: TObject;
@@ -973,14 +973,14 @@ declare module "sceneExt/TQ2APart1" {
 }
 declare module "sceneExt/TQ2APart2" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TScene } from "thermite/TScene";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ2APart2 extends TExpSceneTyp2 {
         q2Title1: TObject;
         q2Title2: TObject;
@@ -998,7 +998,7 @@ declare module "sceneExt/TQ2APart2" {
         imgToolDq2: TDrinkImgTool;
         tabControllerCq2: TDrinkController;
         tabControllerDq2: TDrinkController;
-        q2TextControl1: TTextInput;
+        q2TextControl1: THtmlText;
         q2Check1: TCircleControl;
         q2Check2: TCircleControl;
         q2Arrow1: TObject;
@@ -1007,7 +1007,7 @@ declare module "sceneExt/TQ2APart2" {
         q2FrameC: TObject;
         q2FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -1019,14 +1019,14 @@ declare module "sceneExt/TQ2APart2" {
 }
 declare module "sceneExt/TQ2APart3" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TDrinkImgTool } from "com/TDrinkImgTool";
-    import { TDrinkController } from "com/TDrinkController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TDrinkImgTool } from "TDrinkImgTool";
+    import { TDrinkController } from "TDrinkController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ2APart3 extends TExpSceneTyp2 {
         q2Title5: TObject;
         q2MarkRight: TObject;
@@ -1038,7 +1038,7 @@ declare module "sceneExt/TQ2APart3" {
         imgToolDq2: TDrinkImgTool;
         tabControllerCq2: TDrinkController;
         tabControllerDq2: TDrinkController;
-        q2TextControl1: TTextInput;
+        q2TextControl1: THtmlText;
         q2Check1: TCircleControl;
         q2Check2: TCircleControl;
         q2Arrow1: TObject;
@@ -1064,9 +1064,9 @@ declare module "sceneExt/TQ2APart3" {
 }
 declare module "sceneExt/TQ2BPart1" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     export class TQ2BPart1 extends TExpSceneTyp2 {
@@ -1105,13 +1105,13 @@ declare module "sceneExt/TQ2BPart1" {
 }
 declare module "sceneExt/TQ2BPart2" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     import { TScene } from "thermite/TScene";
     export class TQ2BPart2 extends TExpSceneTyp2 {
         q2Title1: TObject;
@@ -1130,7 +1130,7 @@ declare module "sceneExt/TQ2BPart2" {
         imgToolDq2: TBakingImgTool;
         tabControllerCq2: TBakingController;
         tabControllerDq2: TBakingController;
-        q2TextControl1: TTextInput;
+        q2TextControl1: THtmlText;
         q2Check1: TCircleControl;
         q2Check2: TCircleControl;
         q2Arrow1: TObject;
@@ -1139,7 +1139,7 @@ declare module "sceneExt/TQ2BPart2" {
         q2FrameC: TObject;
         q2FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -1151,14 +1151,14 @@ declare module "sceneExt/TQ2BPart2" {
 }
 declare module "sceneExt/TQ2BPart3" {
     import { TExpSceneTyp2 } from "sceneExt/TExpSceneTyp2";
-    import { TBakingImgTool } from "com/TBakingImgTool";
-    import { TBakingController } from "com/TBakingController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TBakingImgTool } from "TBakingImgTool";
+    import { TBakingController } from "TBakingController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ2BPart3 extends TExpSceneTyp2 {
         q2Title1: TObject;
         q2Title2: TObject;
@@ -1176,7 +1176,7 @@ declare module "sceneExt/TQ2BPart3" {
         imgToolDq2: TBakingImgTool;
         tabControllerCq2: TBakingController;
         tabControllerDq2: TBakingController;
-        q2TextControl1: TTextInput;
+        q2TextControl1: THtmlText;
         q2Check1: TCircleControl;
         q2Check2: TCircleControl;
         q2Arrow1: TObject;
@@ -1201,8 +1201,8 @@ declare module "sceneExt/TQ2BPart3" {
 }
 declare module "sceneExt/TQ3APart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -1232,11 +1232,11 @@ declare module "sceneExt/TQ3APart1" {
 }
 declare module "sceneExt/TQ3APart1B" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ3APart1B extends TExpSceneTyp1 {
         q3Title1: TObject;
         q3Title2: TObject;
@@ -1256,7 +1256,7 @@ declare module "sceneExt/TQ3APart1B" {
         imgToolBq3: TRocketImgTool;
         tabControllerAq3: TRocketController;
         tabControllerBq3: TRocketController;
-        q3TextControl1: TTextInput;
+        q3TextControl1: THtmlText;
         q3FrameA: TObject;
         q3FrameB: TObject;
         fCompleteA: boolean;
@@ -1273,11 +1273,11 @@ declare module "sceneExt/TQ3APart1B" {
 }
 declare module "sceneExt/TQ3APart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ3APart2 extends TExpSceneTyp1 {
         q3Title1: TObject;
         q3Title2: TObject;
@@ -1297,7 +1297,7 @@ declare module "sceneExt/TQ3APart2" {
         imgToolBq3: TRocketImgTool;
         tabControllerAq3: TRocketController;
         tabControllerBq3: TRocketController;
-        q3TextControl1: TTextInput;
+        q3TextControl1: THtmlText;
         q3FrameA: TObject;
         q3FrameB: TObject;
         fStateCap: boolean;
@@ -1311,8 +1311,8 @@ declare module "sceneExt/TQ3APart2" {
 }
 declare module "sceneExt/TQ3BPart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -1342,11 +1342,11 @@ declare module "sceneExt/TQ3BPart1" {
 }
 declare module "sceneExt/TQ3BPart1B" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ3BPart1B extends TExpSceneTyp1 {
         q3Title1: TObject;
         q3Title2: TObject;
@@ -1366,7 +1366,7 @@ declare module "sceneExt/TQ3BPart1B" {
         imgToolBq3: TCarsImgTool;
         tabControllerAq3: TCarsController;
         tabControllerBq3: TCarsController;
-        q3TextControl1: TTextInput;
+        q3TextControl1: THtmlText;
         q3FrameA: TObject;
         q3FrameB: TObject;
         fCompleteA: boolean;
@@ -1383,11 +1383,11 @@ declare module "sceneExt/TQ3BPart1B" {
 }
 declare module "sceneExt/TQ3BPart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ3BPart2 extends TExpSceneTyp1 {
         q3Title1: TObject;
         q3Title2: TObject;
@@ -1407,7 +1407,7 @@ declare module "sceneExt/TQ3BPart2" {
         imgToolBq3: TCarsImgTool;
         tabControllerAq3: TCarsController;
         tabControllerBq3: TCarsController;
-        q3TextControl1: TTextInput;
+        q3TextControl1: THtmlText;
         q3FrameA: TObject;
         q3FrameB: TObject;
         fStateCap: boolean;
@@ -1421,12 +1421,12 @@ declare module "sceneExt/TQ3BPart2" {
 }
 declare module "sceneExt/TQ4APart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ4APart1 extends TExpSceneTyp1 {
         q4Title1: TObject;
         q4Title2: TObject;
@@ -1442,7 +1442,7 @@ declare module "sceneExt/TQ4APart1" {
         imgToolDq4: TRocketImgTool;
         tabControllerCq4: TRocketController;
         tabControllerDq4: TRocketController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1463,13 +1463,13 @@ declare module "sceneExt/TQ4APart1" {
 }
 declare module "sceneExt/TQ4APart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     import { TScene } from "thermite/TScene";
     export class TQ4APart2 extends TExpSceneTyp1 {
         q4Title1: TObject;
@@ -1488,7 +1488,7 @@ declare module "sceneExt/TQ4APart2" {
         imgToolDq4: TRocketImgTool;
         tabControllerCq4: TRocketController;
         tabControllerDq4: TRocketController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1497,7 +1497,7 @@ declare module "sceneExt/TQ4APart2" {
         q4FrameC: TObject;
         q4FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -1509,14 +1509,14 @@ declare module "sceneExt/TQ4APart2" {
 }
 declare module "sceneExt/TQ4APart3" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TRocketImgTool } from "com/TRocketImgTool";
-    import { TRocketController } from "com/TRocketController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TRocketImgTool } from "TRocketImgTool";
+    import { TRocketController } from "TRocketController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ4APart3 extends TExpSceneTyp1 {
         q4Title1: TObject;
         q4Title2: TObject;
@@ -1532,7 +1532,7 @@ declare module "sceneExt/TQ4APart3" {
         imgToolDq4: TRocketImgTool;
         tabControllerCq4: TRocketController;
         tabControllerDq4: TRocketController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1558,12 +1558,12 @@ declare module "sceneExt/TQ4APart3" {
 }
 declare module "sceneExt/TQ4BPart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ4BPart1 extends TExpSceneTyp1 {
         q4Title1: TObject;
         q4Title2: TObject;
@@ -1579,7 +1579,7 @@ declare module "sceneExt/TQ4BPart1" {
         imgToolDq4: TCarsImgTool;
         tabControllerCq4: TCarsController;
         tabControllerDq4: TCarsController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1600,13 +1600,13 @@ declare module "sceneExt/TQ4BPart1" {
 }
 declare module "sceneExt/TQ4BPart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     import { TScene } from "thermite/TScene";
     export class TQ4BPart2 extends TExpSceneTyp1 {
         q4Title1: TObject;
@@ -1625,7 +1625,7 @@ declare module "sceneExt/TQ4BPart2" {
         imgToolDq4: TCarsImgTool;
         tabControllerCq4: TCarsController;
         tabControllerDq4: TCarsController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1634,7 +1634,7 @@ declare module "sceneExt/TQ4BPart2" {
         q4FrameC: TObject;
         q4FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -1646,14 +1646,14 @@ declare module "sceneExt/TQ4BPart2" {
 }
 declare module "sceneExt/TQ4BPart3" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TCarsImgTool } from "com/TCarsImgTool";
-    import { TCarsController } from "com/TCarsController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TCarsImgTool } from "TCarsImgTool";
+    import { TCarsController } from "TCarsController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ4BPart3 extends TExpSceneTyp1 {
         q4Title1: TObject;
         q4Title2: TObject;
@@ -1669,7 +1669,7 @@ declare module "sceneExt/TQ4BPart3" {
         imgToolDq4: TCarsImgTool;
         tabControllerCq4: TCarsController;
         tabControllerDq4: TCarsController;
-        q4TextControl1: TTextInput;
+        q4TextControl1: THtmlText;
         q4Check1: TCircleControl;
         q4Check2: TCircleControl;
         q4Arrow1: TObject;
@@ -1695,8 +1695,8 @@ declare module "sceneExt/TQ4BPart3" {
 }
 declare module "sceneExt/TQ5APart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -1726,11 +1726,11 @@ declare module "sceneExt/TQ5APart1" {
 }
 declare module "sceneExt/TQ5APart1B" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ5APart1B extends TExpSceneTyp1 {
         q5Title1: TObject;
         q5Title2: TObject;
@@ -1750,7 +1750,7 @@ declare module "sceneExt/TQ5APart1B" {
         imgToolBq5: TStudyImgTool;
         tabControllerAq5: TStudyController;
         tabControllerBq5: TStudyController;
-        q5TextControl1: TTextInput;
+        q5TextControl1: THtmlText;
         q5FrameA: TObject;
         q5FrameB: TObject;
         fCompleteA: boolean;
@@ -1767,11 +1767,11 @@ declare module "sceneExt/TQ5APart1B" {
 }
 declare module "sceneExt/TQ5APart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ5APart2 extends TExpSceneTyp1 {
         q5Title1: TObject;
         q5Title2: TObject;
@@ -1791,7 +1791,7 @@ declare module "sceneExt/TQ5APart2" {
         imgToolBq5: TStudyImgTool;
         tabControllerAq5: TStudyController;
         tabControllerBq5: TStudyController;
-        q5TextControl1: TTextInput;
+        q5TextControl1: THtmlText;
         q5FrameA: TObject;
         q5FrameB: TObject;
         fStateCap: boolean;
@@ -1805,8 +1805,8 @@ declare module "sceneExt/TQ5APart2" {
 }
 declare module "sceneExt/TQ5BPart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
     import { TMouseEvent } from "thermite/events/TMouseEvent";
@@ -1836,11 +1836,11 @@ declare module "sceneExt/TQ5BPart1" {
 }
 declare module "sceneExt/TQ5BPart1B" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ5BPart1B extends TExpSceneTyp1 {
         q5Title1: TObject;
         q5Title2: TObject;
@@ -1860,7 +1860,7 @@ declare module "sceneExt/TQ5BPart1B" {
         imgToolBq5: TMemoryImgTool;
         tabControllerAq5: TMemoryController;
         tabControllerBq5: TMemoryController;
-        q5TextControl1: TTextInput;
+        q5TextControl1: THtmlText;
         q5FrameA: TObject;
         q5FrameB: TObject;
         fCompleteA: boolean;
@@ -1877,11 +1877,11 @@ declare module "sceneExt/TQ5BPart1B" {
 }
 declare module "sceneExt/TQ5BPart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ5BPart2 extends TExpSceneTyp1 {
         q5Title1: TObject;
         q5Title2: TObject;
@@ -1901,7 +1901,7 @@ declare module "sceneExt/TQ5BPart2" {
         imgToolBq5: TMemoryImgTool;
         tabControllerAq5: TMemoryController;
         tabControllerBq5: TMemoryController;
-        q5TextControl1: TTextInput;
+        q5TextControl1: THtmlText;
         q5FrameA: TObject;
         q5FrameB: TObject;
         fStateCap: boolean;
@@ -1915,12 +1915,12 @@ declare module "sceneExt/TQ5BPart2" {
 }
 declare module "sceneExt/TQ6APart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ6APart1 extends TExpSceneTyp1 {
         q6Title1: TObject;
         q6Title2: TObject;
@@ -1936,7 +1936,7 @@ declare module "sceneExt/TQ6APart1" {
         imgToolDq6: TStudyImgTool;
         tabControllerCq6: TStudyController;
         tabControllerDq6: TStudyController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -1957,13 +1957,13 @@ declare module "sceneExt/TQ6APart1" {
 }
 declare module "sceneExt/TQ6APart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     import { TScene } from "thermite/TScene";
     export class TQ6APart2 extends TExpSceneTyp1 {
         q6Title1: TObject;
@@ -1982,7 +1982,7 @@ declare module "sceneExt/TQ6APart2" {
         imgToolDq6: TStudyImgTool;
         tabControllerCq6: TStudyController;
         tabControllerDq6: TStudyController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -1991,7 +1991,7 @@ declare module "sceneExt/TQ6APart2" {
         q6FrameC: TObject;
         q6FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -2003,14 +2003,14 @@ declare module "sceneExt/TQ6APart2" {
 }
 declare module "sceneExt/TQ6APart3" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TStudyImgTool } from "com/TStudyImgTool";
-    import { TStudyController } from "com/TStudyController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TStudyImgTool } from "TStudyImgTool";
+    import { TStudyController } from "TStudyController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ6APart3 extends TExpSceneTyp1 {
         q6Title1: TObject;
         q6Title2: TObject;
@@ -2026,7 +2026,7 @@ declare module "sceneExt/TQ6APart3" {
         imgToolDq6: TStudyImgTool;
         tabControllerCq6: TStudyController;
         tabControllerDq6: TStudyController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -2052,12 +2052,12 @@ declare module "sceneExt/TQ6APart3" {
 }
 declare module "sceneExt/TQ6BPart1" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
-    import { TCircleControl } from "com/common/TCircleControl";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
+    import { TCircleControl } from "common/TCircleControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     export class TQ6BPart1 extends TExpSceneTyp1 {
         q6Title1: TObject;
         q6Title2: TObject;
@@ -2073,7 +2073,7 @@ declare module "sceneExt/TQ6BPart1" {
         imgToolDq6: TMemoryImgTool;
         tabControllerCq6: TMemoryController;
         tabControllerDq6: TMemoryController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -2094,13 +2094,13 @@ declare module "sceneExt/TQ6BPart1" {
 }
 declare module "sceneExt/TQ6BPart2" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
+    import { THtmlText } from "thermite/THtmlText";
     import { TScene } from "thermite/TScene";
     export class TQ6BPart2 extends TExpSceneTyp1 {
         q6Title1: TObject;
@@ -2119,7 +2119,7 @@ declare module "sceneExt/TQ6BPart2" {
         imgToolDq6: TMemoryImgTool;
         tabControllerCq6: TMemoryController;
         tabControllerDq6: TMemoryController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -2128,7 +2128,7 @@ declare module "sceneExt/TQ6BPart2" {
         q6FrameC: TObject;
         q6FrameD: TObject;
         fStateCap: boolean;
-        sceneState: any;
+        protected sceneState: any;
         constructor();
         checkChange(evt: Event): void;
         questionFinished(evt: Event): void;
@@ -2140,14 +2140,14 @@ declare module "sceneExt/TQ6BPart2" {
 }
 declare module "sceneExt/TQ6BPart3" {
     import { TExpSceneTyp1 } from "sceneExt/TExpSceneTyp1";
-    import { TMemoryImgTool } from "com/TMemoryImgTool";
-    import { TMemoryController } from "com/TMemoryController";
-    import { TCircleControl } from "com/common/TCircleControl";
-    import { TLabelControl } from "com/common/TLabelControl";
+    import { TMemoryImgTool } from "TMemoryImgTool";
+    import { TMemoryController } from "TMemoryController";
+    import { TCircleControl } from "common/TCircleControl";
+    import { TLabelControl } from "common/TLabelControl";
     import { TObject } from "thermite/TObject";
     import { TButton } from "thermite/TButton";
-    import { TTextInput } from "thermite/TTextInput";
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { THtmlText } from "thermite/THtmlText";
+    import { TSelectEvent } from "events/TSelectEvent";
     export class TQ6BPart3 extends TExpSceneTyp1 {
         q6Title1: TObject;
         q6Title2: TObject;
@@ -2163,7 +2163,7 @@ declare module "sceneExt/TQ6BPart3" {
         imgToolDq6: TMemoryImgTool;
         tabControllerCq6: TMemoryController;
         tabControllerDq6: TMemoryController;
-        q6TextControl1: TTextInput;
+        q6TextControl1: THtmlText;
         q6Check1: TCircleControl;
         q6Check2: TCircleControl;
         q6Arrow1: TObject;
@@ -2229,7 +2229,7 @@ declare module "sceneExt/TScene0" {
     }
 }
 declare module "sceneExt/TScene1" {
-    import { TSelectEvent } from "com/events/TSelectEvent";
+    import { TSelectEvent } from "events/TSelectEvent";
     import { TScene } from "thermite/TScene";
     export class TIntroPart1 extends TScene {
         constructor();

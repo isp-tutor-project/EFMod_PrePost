@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6BPart3" itemID="5b15bcf0-00000b7a" linkageExportForAS="true" linkageClassName="TC_TQ6BPart3" lastModified="1547158020">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6BPart3" itemID="5b15bcf0-00000b7a" linkageExportForAS="true" linkageClassName="TC_TQ6BPart3" lastModified="1547505160">
   <timeline>
     <DOMTimeline name="TC_TQ6BPart3">
       <layers>
@@ -106,26 +106,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkLeft" color="#FF4F4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="q6QMarkLeft">
-                  <matrix>
-                    <Matrix a="0.355194091796875" d="0.355194091796875" tx="-32.55" ty="408.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="435.1" y="382.45"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="QMarkRight" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="QMarkRight" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -157,7 +138,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

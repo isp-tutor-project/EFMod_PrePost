@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ2BPart2" itemID="5b15bc9e-00000b61" linkageExportForAS="true" linkageClassName="TC_TQ2BPart2" lastModified="1547157485">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ2BPart2" itemID="5b15bc9e-00000b61" linkageExportForAS="true" linkageClassName="TC_TQ2BPart2" lastModified="1547497317">
   <timeline>
     <DOMTimeline name="TC_TQ2BPart2">
       <layers>
@@ -230,7 +230,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ArrowTool" color="#FF4FFF" autoNamed="false" visible="false">
+        <DOMLayer name="ArrowTool" color="#FF4FFF" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -249,16 +249,16 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Text Control1" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="TextControl1" color="#FFFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q2TextControl1" centerPoint3DX="511.3" centerPoint3DY="623.2">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q2TextControl1">
                   <matrix>
-                    <Matrix a="0.95306396484375" tx="146.3" ty="586.2"/>
+                    <Matrix a="6.95980834960938" d="0.659164428710938" tx="160.55" ty="593.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.95" y="37.45"/>
+                    <Point x="50.35" y="50.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -348,7 +348,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

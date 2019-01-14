@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1BPart1B" itemID="5b15bc6f-00000b5b" linkageExportForAS="true" linkageClassName="TC_TQ1BPart1B" lastModified="1547157430">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1BPart1B" itemID="5b15bc6f-00000b5b" linkageExportForAS="true" linkageClassName="TC_TQ1BPart1B" lastModified="1547495618">
   <timeline>
     <DOMTimeline name="TC_TQ1BPart1B">
       <layers>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="empty" color="#FF4FFF" autoNamed="false">
+        <DOMLayer color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
@@ -137,7 +137,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="empty" color="#4FFFFF" autoNamed="false">
+        <DOMLayer color="#4FFFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
@@ -176,11 +176,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="StandA ImageTool" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="StandA ImageTool" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" name="imgToolAq1" centerPoint3DX="373.05" centerPoint3DY="610.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" name="imgToolAq1" selected="true" centerPoint3DX="373.05" centerPoint3DY="610.75">
                   <matrix>
                     <Matrix a="0.621932983398438" d="0.621917724609375" tx="290.1" ty="511.65"/>
                   </matrix>
@@ -208,11 +208,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false" visible="false">
+        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BFrameA" name="q1FrameA" selected="true" centerPoint3DX="308.95" centerPoint3DY="602.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BFrameA" name="q1FrameA" centerPoint3DX="308.95" centerPoint3DY="602.65">
                   <matrix>
                     <Matrix a="0.9998779296875" d="0.9998779296875" tx="127" ty="455.75"/>
                   </matrix>
@@ -232,128 +232,14 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="empty" color="#808080" autoNamed="false">
+        <DOMLayer color="#808080" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title6" color="#4F80FF" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle6" name="q1Title6" selected="true" centerPoint3DX="508.45" centerPoint3DY="765.25">
-                  <matrix>
-                    <Matrix d="0.0481109619140625" tx="157" ty="763.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="322.45" y="11.45"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Title7" color="#FF4F4F" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__Cq1BTitle7" name="q1Title7" selected="true" centerPoint3DX="508.45" centerPoint3DY="773.35">
-                  <matrix>
-                    <Matrix d="0.0481109619140625" tx="157" ty="772.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="322.45" y="11.45"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Title8" color="#4FFF4F" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1B Assets/TC_TObject__CQ1BTitle8" name="q1Title8" selected="true" centerPoint3DX="413.9" centerPoint3DY="768.2">
-                  <matrix>
-                    <Matrix d="0.0481109619140625" tx="177.55" ty="767.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="260.75" y="11.45"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="TextControl1" color="#9933CC" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q1TextControl1" selected="true" centerPoint3DX="510" centerPoint3DY="770.65">
-                  <matrix>
-                    <Matrix a="0.916519165039063" d="0.0481109619140625" tx="159" ty="768.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="382.95" y="37.4"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="QMark Left" color="#FFFF4F" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="q1MarkLeft2" selected="true" centerPoint3DX="109.15" centerPoint3DY="765.25">
-                  <matrix>
-                    <Matrix d="0.0481109619140625" tx="-327" ty="746.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="414.95" y="382.45"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Question Frame" color="#FF4FFF" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q1QFrame2" selected="true" centerPoint3DX="507.9" centerPoint3DY="768.65">
-                  <matrix>
-                    <Matrix d="0.0751495361328125" tx="126" ty="762.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="381.9" y="76.5"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

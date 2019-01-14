@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ3APart2" itemID="5b15bcab-00000b65" linkageExportForAS="true" linkageClassName="TC_TQ3APart2" lastModified="1547157516" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ3APart2" itemID="5b15bcab-00000b65" linkageExportForAS="true" linkageClassName="TC_TQ3APart2" lastModified="1547496997" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TQ3APart2">
       <layers>
@@ -311,16 +311,16 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TextControl1" color="#FFFF4F" autoNamed="false">
+        <DOMLayer name="TextControl1" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q3TextControl1">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q3TextControl1" selected="true">
                   <matrix>
-                    <Matrix a="0.916519165039063" tx="159" ty="588"/>
+                    <Matrix a="6.95980834960938" d="0.659164428710938" tx="160.55" ty="593.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="382.95" y="37"/>
+                    <Point x="50.35" y="50.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -359,7 +359,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

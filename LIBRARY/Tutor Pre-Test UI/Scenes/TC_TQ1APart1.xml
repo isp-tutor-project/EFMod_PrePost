@@ -1,113 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1547156858" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1547495007" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="TC_TQ1APart1">
       <layers>
-        <DOMLayer name="StandA TabControl" color="#4F80FF" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController" name="tabControllerAq1" selected="true" centerPoint3DX="336.35" centerPoint3DY="498.3">
-                  <matrix>
-                    <Matrix a="0.702163696289063" d="0.023040771484375" tx="138" ty="494.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="243.45" y="149.75"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="StandB TabControl" color="#808080" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController" name="tabControllerBq1" centerPoint3DX="736.25" centerPoint3DY="498.3">
-                  <matrix>
-                    <Matrix a="0.702163696289063" d="0.023040771484375" tx="537.9" ty="494.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="243.45" y="149.75"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="StandA ImageTool" color="#4F80FF" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" name="imgToolAq1" centerPoint3DX="379.3" centerPoint3DY="498.2">
-                  <matrix>
-                    <Matrix a="0.621932983398438" d="0.020416259765625" tx="260.1" ty="494.55"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="177.85" y="181.25"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="StandB ImageTool" color="#4FFFFF" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" name="imgToolBq1" selected="true" centerPoint3DX="778.25" centerPoint3DY="498.2">
-                  <matrix>
-                    <Matrix a="0.621932983398438" d="0.020416259765625" tx="659.05" ty="494.55"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="177.85" y="181.25"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1AFrameA" name="q1FrameA" centerPoint3DX="308.95" centerPoint3DY="497.85">
-                  <matrix>
-                    <Matrix a="0.9998779296875" d="0.0328216552734375" tx="127" ty="493.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="183.85" y="147.75"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1AFrameB" name="q1FrameB" centerPoint3DX="708.85" centerPoint3DY="497.85">
-                  <matrix>
-                    <Matrix a="0.9998779296875" d="0.0328216552734375" tx="526.9" ty="493.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="183.85" y="147.75"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
         <DOMLayer name="Title1" color="#808080" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
@@ -156,14 +50,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TItle3A" color="#FF4F4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Info Frame" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="Info Frame" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -176,6 +63,13 @@
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -211,25 +105,6 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title6" color="#4FFF4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle6" name="q1Title6" centerPoint3DX="508.4" centerPoint3DY="359.9">
-                  <matrix>
-                    <Matrix tx="156.95" ty="327.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="322.45" y="11.5"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
         <DOMLayer name="Design Button" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
@@ -241,25 +116,6 @@
                   <transformationPoint>
                     <Point x="187.1" y="11.5"/>
                   </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="TextControl1" color="#FF4F4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_THtmlText__CTextControl" name="q1TextControl1" centerPoint3DX="509.9" centerPoint3DY="402.45">
-                  <matrix>
-                    <Matrix a="0.91644287109375" tx="158.95" ty="365.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="382.95" y="37"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -316,7 +172,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

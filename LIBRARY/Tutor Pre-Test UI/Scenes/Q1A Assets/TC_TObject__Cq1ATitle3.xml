@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>•   Time of day (Noon,  3:00 pm, or 6:00 pm)&#xA;•   The age of the seller (Older or Younger)&#xA;•   The type of drink (Lemonade or Iced tea)</characters>
+                      <characters>•   Time of day (Noon,  3:00 pm, or 6:00 pm)&#xD;•   The age of the seller (Older or Younger)&#xD;•   The type of drink (Lemonade or Iced tea)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

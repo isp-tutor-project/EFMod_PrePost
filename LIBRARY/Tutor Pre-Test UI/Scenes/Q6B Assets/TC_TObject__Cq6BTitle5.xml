@@ -45,7 +45,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters>makes a difference in how much people can memorize.&#xA;&#xA;(For example, you may want to change the lighting of the room, the type of flashcard, or how much time they’re given in one or both pictures.)</characters>
+                      <characters>makes a difference in how much people can memorize.&#xD;&#xD;(For example, you may want to change the lighting of the room, the type of flashcard, or how much time they’re given in one or both pictures.)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

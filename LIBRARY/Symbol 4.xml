@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 4" itemID="5c3ce180-00000a84" lastModified="1547493761" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="Symbol 4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1" name="i1p2QFrame" selected="true">
+                  <matrix>
+                    <Matrix d="0.76470947265625" ty="494.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1" name="i1p2IFrame1" selected="true">
+                  <matrix>
+                    <Matrix d="0.784317016601563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title2" name="i1p2Title2" selected="true">
+                  <matrix>
+                    <Matrix tx="101.4" ty="526"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="292.5" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2Title1" name="i1p2Title1" selected="true">
+                  <matrix>
+                    <Matrix tx="6" ty="-3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="389.3" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" name="i1p2Frame" selected="true">
+                  <matrix>
+                    <Matrix a="1.2271728515625" d="1.19589233398438" tx="156.7" ty="118.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="258.95" y="165.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool" selected="true">
+                  <matrix>
+                    <Matrix a="0.862350463867188" d="0.840423583984375" tx="357.85" ty="203.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="780.1" y="744.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" name="i1p2tabController" selected="true">
+                  <matrix>
+                    <Matrix a="0.862350463867188" d="0.840423583984375" tx="169.3" ty="183.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="404.15" y="216"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

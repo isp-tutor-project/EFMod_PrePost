@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB" itemID="5b008c98-0000167b" linkageExportForAS="true" linkageClassName="TC_TAssess__CAssessmentB" lastModified="1526762648" lastUniqueIdentifier="42">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB" itemID="5b008c98-0000167b" linkageExportForAS="true" linkageClassName="TC_TAssess__CAssessmentB" lastModified="1547489435" lastUniqueIdentifier="42">
   <timeline>
     <DOMTimeline name="TC_TAssess__CAssessmentB">
       <layers>
@@ -88,16 +88,16 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sresult" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Sresult" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/BigButtonGrey" centerPoint3DX="958" centerPoint3DY="60.9">
                   <matrix>
-                    <Matrix a="0.308303833007813" d="4.07464599609375" tx="775.7" ty="17.45"/>
+                    <Matrix a="0.308303833007813" d="1.58828735351563" tx="775.7" ty="207.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.95" y="76.5"/>
+                    <Point x="381.95" y="76.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMDynamicText name="Sresult" fontRenderingMode="standard" width="157.55" height="84.3" isSelectable="false" lineType="multiline">
@@ -435,7 +435,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sstar3" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Sstar3" color="#4FFFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

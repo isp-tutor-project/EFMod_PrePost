@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB" itemID="5b15b89f-00000b51" linkageExportForAS="true" linkageClassName="TC_TAssess__CPPAssessmentB" lastModified="1547156795" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB" itemID="5b15b89f-00000b51" linkageExportForAS="true" linkageClassName="TC_TAssess__CPPAssessmentB" lastModified="1547489614" lastUniqueIdentifier="8">
   <timeline>
     <DOMTimeline name="TC_TAssess__CPPAssessmentB">
       <layers>
@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB" name="Sassess" centerPoint3DX="400.1" centerPoint3DY="242.85">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB" name="Sassess" centerPoint3DX="773.65" centerPoint3DY="418.75">
                   <matrix>
-                    <Matrix a="0.8470458984375" d="0.8470458984375" tx="76.6" ty="71.4"/>
+                    <Matrix a="1.41822814941406" d="1.41830444335938" tx="231.95" ty="131.65"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="165.35"/>
+                    <Point x="381.95" y="165.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

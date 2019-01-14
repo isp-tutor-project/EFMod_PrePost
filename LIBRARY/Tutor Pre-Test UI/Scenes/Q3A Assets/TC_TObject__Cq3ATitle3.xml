@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• The shape of the body (Curved or Straight)&#xA;• The number of windows (One or Four)&#xA;• The engine direction (Down or Tilted)</characters>
+                      <characters>• The shape of the body (Curved or Straight)&#xD;• The number of windows (One or Four)&#xD;• The engine direction (Down or Tilted)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

@@ -45,7 +45,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in how much you learn.&#xA;&#xA;(For example, you may want to change who you study with, where you study, or what you drink in one or both of the pictures.)</characters>
+                      <characters> makes a difference in how much you learn.&#xD;&#xD;(For example, you may want to change who you study with, where you study, or what you drink in one or both of the pictures.)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

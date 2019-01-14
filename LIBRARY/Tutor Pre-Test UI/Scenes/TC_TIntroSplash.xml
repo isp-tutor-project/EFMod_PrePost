@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroSplash" itemID="5b15bc5a-00000b55" linkageExportForAS="true" linkageClassName="TC_TIntroSplash" lastModified="1547156839" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroSplash" itemID="5b15bc5a-00000b55" linkageExportForAS="true" linkageClassName="TC_TIntroSplash" lastModified="1547494072" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TIntroSplash">
       <layers>
-        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="We will now ask you six questions.  This is not a test and it will not be graded. You will not be told whether or not your answers are correct while you are answering the questions.  Please take your time and think about each question before you answer.  Click Next when you are ready to begin.  " color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMStaticText fontRenderingMode="standard" width="637.9" height="263.5" includeOutlines="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="182.05" ty="210"/>
+                    <Matrix a="1.72434997558594" d="1.72438049316406" tx="384.15" ty="338.75"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -23,13 +23,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QFrame1" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="SplashFrame1" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="512" centerPoint3DY="352.8">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="953.15" centerPoint3DY="585.05">
                   <matrix>
-                    <Matrix d="2.16117858886719" tx="130.1" ty="187.5"/>
+                    <Matrix a="1.72434997558594" d="3.7266845703125" tx="294.6" ty="300"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
@@ -39,13 +39,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
+        <DOMLayer name="SplashFrameShadow" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="370.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="966.9" centerPoint3DY="614.85">
                   <matrix>
-                    <Matrix d="2.16117858886719" tx="138.1" ty="204.8"/>
+                    <Matrix a="1.72434997558594" d="3.7266845703125" tx="308.35" ty="329.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
@@ -61,7 +61,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

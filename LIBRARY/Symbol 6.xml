@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 6" itemID="5c3ce295-00000b83" lastModified="1547494037" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 6">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="389.9" centerPoint3DY="182.6">
+                  <matrix>
+                    <Matrix d="2.16117858886719" tx="8" ty="17.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" selected="true" centerPoint3DX="381.9" centerPoint3DY="165.3">
+                  <matrix>
+                    <Matrix d="2.16117858886719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="637.9" height="263.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="51.95" ty="22.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>We will now ask you six questions.&#xD;&#xD;This is not a test and it will not be graded. You will not be told whether or not your answers are correct while you are answering the questions.&#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

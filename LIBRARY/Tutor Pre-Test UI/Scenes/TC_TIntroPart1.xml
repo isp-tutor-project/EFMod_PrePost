@@ -1,65 +1,65 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart1" itemID="5b15bc53-00000b52" linkageExportForAS="true" linkageClassName="TC_TIntroPart1" lastModified="1547156805" lastUniqueIdentifier="39">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart1" itemID="5b15bc53-00000b52" linkageExportForAS="true" linkageClassName="TC_TIntroPart1" lastModified="1547493730" lastUniqueIdentifier="40">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version 0.1 loop true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TIntroPart1">
       <layers>
-        <DOMLayer name="TabTool" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="i1p2tabController" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" name="i1p2tabController">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" name="i1p2tabController" centerPoint3DX="956.15" centerPoint3DY="604.95">
                   <matrix>
-                    <Matrix a="0.862350463867188" d="0.840423583984375" tx="302.4" ty="286.8"/>
+                    <Matrix a="1.26841735839844" d="1.23619079589844" tx="647.3" ty="419.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="404.15" y="216"/>
+                    <Point x="404.15" y="216.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ImageTool" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="i1p2imgTool" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool" centerPoint3DX="1071.75" centerPoint3DY="591.55">
                   <matrix>
-                    <Matrix a="0.862350463867188" d="0.840423583984375" tx="490.95" ty="307.35"/>
+                    <Matrix a="1.26841735839844" d="1.23619079589844" tx="924.65" ty="449.7"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="780.1" y="744.75"/>
+                    <Point x="780.05" y="744.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Expt Frame1" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="i1p2Frame" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" name="i1p2Frame">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart2 Assets/TC_TObject__Ci1p2FrameA" name="i1p2Frame" centerPoint3DX="957.3" centerPoint3DY="603.25">
                   <matrix>
-                    <Matrix a="1.2271728515625" d="1.19589233398438" tx="289.8" ty="221.65"/>
+                    <Matrix a="1.80502319335938" d="1.75906372070313" tx="628.75" ty="323.6"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="258.95" y="165.5"/>
+                    <Point x="259" y="165.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title1" color="#808080" autoNamed="false">
+        <DOMLayer name="i1p2Title1" color="#FF0000" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title1" name="i1p2Title1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title1" name="i1p2Title1" centerPoint3DX="960.05" centerPoint3DY="238.25">
                   <matrix>
-                    <Matrix tx="119.55" ty="130.8"/>
+                    <Matrix a="1.47088623046875" d="1.47093200683594" tx="378.35" ty="190"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="389.3" y="28"/>
@@ -69,29 +69,29 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title2" color="#808080" autoNamed="false">
+        <DOMLayer name="i1p2Title2" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title2" name="i1p2Title2">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/TC_TObject__Ci1p1Title2" name="i1p2Title2" centerPoint3DX="912.25" centerPoint3DY="969">
                   <matrix>
-                    <Matrix tx="234.5" ty="629.6"/>
+                    <Matrix a="1.47088623046875" d="1.47093200683594" tx="547.4" ty="923.7"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="292.5" y="28"/>
+                    <Point x="292.55" y="28"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Intro Frame 1" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="i1p2IFrame1" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1" name="i1p2IFrame1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1InfoFrame1" name="i1p2IFrame1" centerPoint3DX="960.05" centerPoint3DY="238.25">
                   <matrix>
-                    <Matrix d="0.784317016601563" tx="133.1" ty="103.6"/>
+                    <Matrix a="1.47088623046875" d="1.15367126464844" tx="398.3" ty="150"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
@@ -101,43 +101,43 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkRight" color="#9933CC" autoNamed="false">
+        <DOMLayer name="TC_TObject__CQMarkRight" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight">
                   <matrix>
-                    <Matrix a="1.0003662109375" d="1.00021362304688" tx="519.2" ty="265.6"/>
+                    <Matrix a="1.47140502929688" d="1.47122192382813" tx="966.9" ty="395.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="395.2" y="382.45"/>
+                    <Point x="395.3" y="382.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Question Frame1" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="i1p2QFrame" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1" name="i1p2QFrame">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CPPIntroPart1 Assets/i1p1QuestionFrame1" name="i1p2QFrame" centerPoint3DX="960.05" centerPoint3DY="963.95">
                   <matrix>
-                    <Matrix d="0.76470947265625" tx="133.1" ty="598.45"/>
+                    <Matrix a="1.47088623046875" d="1.12483215332031" tx="398.3" ty="877.85"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="76.5"/>
+                    <Point x="381.9" y="76.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

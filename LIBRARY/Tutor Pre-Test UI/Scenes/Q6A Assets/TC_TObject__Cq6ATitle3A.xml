@@ -24,7 +24,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in how much you learn.&#xA;</characters>
+                      <characters> makes a difference in how much you learn.&#xD;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

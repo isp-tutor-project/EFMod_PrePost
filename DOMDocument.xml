@@ -1,7 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="003340B071B3BA476B76579AF714ED87">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
-          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9" isExpanded="true"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5b05ec75-0000044e" isExpanded="true"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
@@ -122,6 +122,12 @@
           <Include href="Common Controls/Assessment Assets/CplaceHolder.xml" itemID="536646c4-000008cc" lastModified="1399211716"/>
           <Include href="Common Prompts/Icons/CYellowArrow.xml" loadImmediate="false" itemID="48ff7fdf-000011f0" lastModified="1273800718"/>
           <Include href="Symbol 1.xml" loadImmediate="false" itemID="5c37bccd-00000741" lastModified="1547156685"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="5c3cd2b0-000009a9" lastModified="1547489968"/>
+          <Include href="Symbol 3.xml" loadImmediate="false" itemID="5c3ce08d-000009bb" lastModified="1547493517"/>
+          <Include href="Symbol 4.xml" loadImmediate="false" itemID="5c3ce180-00000a84" lastModified="1547493761"/>
+          <Include href="Symbol 5.xml" loadImmediate="false" itemID="5c3ce1ed-00000b4d" lastModified="1547493869"/>
+          <Include href="Symbol 6.xml" loadImmediate="false" itemID="5c3ce295-00000b83" lastModified="1547494037"/>
+          <Include href="Symbol 7.xml" loadImmediate="false" itemID="5c3ce2be-00000b8b" lastModified="1547494078"/>
           <Include href="Tutor Global Assets/Global Assets/IntroBackgroundNewB.xml" loadImmediate="false" itemID="538dd44e-00000e2e" lastModified="1401803872"/>
           <Include href="Tutor Pre-Test UI/Common Controls/Assets/BigButton.xml" loadImmediate="false" itemID="48220e0e-00006eda" lastModified="1210194974"/>
           <Include href="Tutor Pre-Test UI/Common Controls/Assets/BigButtonGrey.xml" loadImmediate="false" itemID="515c4cdf-000020ba" lastModified="1365003499"/>
@@ -150,8 +156,8 @@
           <Include href="Tutor Pre-Test UI/Common Controls/Assets/xparentFace.xml" loadImmediate="false" itemID="481b37e0-000024ae" lastModified="1210261371"/>
           <Include href="Tutor Pre-Test UI/Common Controls/DoneButton.xml" loadImmediate="false" itemID="48220e51-000070ec" lastModified="1368637313"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment.xml" itemID="5b008c8e-00001677" lastModified="1526762638"/>
-          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentA.xml" itemID="5b008c93-00001679" lastModified="1526762643"/>
-          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB.xml" itemID="5b008c98-0000167b" lastModified="1526762648"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentA.xml" itemID="5b008c93-00001679" lastModified="1547489421"/>
+          <Include href="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessmentB.xml" itemID="5b008c98-0000167b" lastModified="1547489435"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TButton__CDesignButton.xml" itemID="5b008cc4-0000167d" lastModified="1526762692"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TButton__CDismissButton.xml" itemID="5b008cd4-0000167e" lastModified="1526762708"/>
           <Include href="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton.xml" itemID="5b008d24-00001681" lastModified="1526762788"/>
@@ -534,14 +540,14 @@
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle5.xml" itemID="5b0087e1-00001667" lastModified="1526761441"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle6.xml" itemID="5b0087e0-00001666" lastModified="1526761440"/>
           <Include href="Tutor Pre-Test UI/Scenes/Q6B Assets/TC_TObject__Cq6BTitle7.xml" itemID="5b0087de-00001665" lastModified="1526761438"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment.xml" itemID="5b15b899-00000b4f" lastModified="1547156770"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentA.xml" itemID="5b15b89c-00000b50" lastModified="1547156785"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB.xml" itemID="5b15b89f-00000b51" lastModified="1547156795"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart1.xml" itemID="5b15bc53-00000b52" lastModified="1547156805"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart2.xml" itemID="5b15bc56-00000b53" lastModified="1547156814"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart3.xml" itemID="5b15bc58-00000b54" lastModified="1547156828"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroSplash.xml" itemID="5b15bc5a-00000b55" lastModified="1547156839"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash.xml" itemID="5b15bc5f-00000b56" lastModified="1547156847"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessment.xml" itemID="5b15b899-00000b4f" lastModified="1547493972"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentA.xml" itemID="5b15b89c-00000b50" lastModified="1547489621"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TAssess__CPPAssessmentB.xml" itemID="5b15b89f-00000b51" lastModified="1547489614"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart1.xml" itemID="5b15bc53-00000b52" lastModified="1547493730"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart2.xml" itemID="5b15bc56-00000b53" lastModified="1547493847"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroPart3.xml" itemID="5b15bc58-00000b54" lastModified="1547493962"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TIntroSplash.xml" itemID="5b15bc5a-00000b55" lastModified="1547494072"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TPostIntroSplash.xml" itemID="5b15bc5f-00000b56" lastModified="1547494107"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1.xml" itemID="5b15bc63-00000b57" lastModified="1547156858"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart1B.xml" itemID="5b15bc66-00000b58" lastModified="1547156867"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ1APart2.xml" itemID="5b15bc69-00000b59" lastModified="1547156876"/>
@@ -568,7 +574,7 @@
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ4BPart3.xml" itemID="5b15bcc9-00000b6e" lastModified="1547157911"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart1.xml" itemID="5b15bccc-00000b6f" lastModified="1547157919"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart1B.xml" itemID="5b15bccf-00000b70" lastModified="1547157926"/>
-          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart2.xml" itemID="5b15bcd3-00000b71" lastModified="1547157933"/>
+          <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5APart2.xml" itemID="5b15bcd3-00000b71" lastModified="1547489379"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart1.xml" itemID="5b15bcd6-00000b72" lastModified="1547157942"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart1B.xml" itemID="5b15bcdb-00000b73" lastModified="1547157950"/>
           <Include href="Tutor Pre-Test UI/Scenes/TC_TQ5BPart2.xml" itemID="5b15bcde-00000b74" lastModified="1547157972"/>

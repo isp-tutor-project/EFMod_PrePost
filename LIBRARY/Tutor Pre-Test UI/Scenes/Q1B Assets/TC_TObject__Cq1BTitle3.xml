@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• Oven temperature (200, 350, or 500 Degrees)&#xA;• Type of sweetener (Honey or Sugar)&#xA;• Number of eggs (One or Three)</characters>
+                      <characters>• Oven temperature (200, 350, or 500 Degrees)&#xD;• Type of sweetener (Honey or Sugar)&#xD;• Number of eggs (One or Three)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

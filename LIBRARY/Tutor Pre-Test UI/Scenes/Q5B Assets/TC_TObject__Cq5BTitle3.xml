@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• The lighting of the room (Bright or Dim) &#xA;• The type of flashcard to memorize (10 Words or 10 Pictures)&#xA;• How much time they have to memorize (15 Seconds or 45 Seconds)</characters>
+                      <characters>• The lighting of the room (Bright or Dim) &#xD;• The type of flashcard to memorize (10 Words or 10 Pictures)&#xD;• How much time they have to memorize (15 Seconds or 45 Seconds)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

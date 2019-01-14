@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• The type of roof (Closed or Open)&#xA;• The number of doors (Two or Four)&#xA;• The size of tires (Large or Small)</characters>
+                      <characters>• The type of roof (Closed or Open)&#xD;• The number of doors (Two or Four)&#xD;• The size of tires (Large or Small)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

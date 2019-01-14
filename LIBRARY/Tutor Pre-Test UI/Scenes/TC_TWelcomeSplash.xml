@@ -6,13 +6,13 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="662.9" height="77.65" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="662.9" height="257.95" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="180.55" ty="240"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>WELCOME&#xA;&#xA;&#xA;We will now ask you to create or analyse &#xA;6 different experiments.&#xA;&#xA;&#xA;Click the Next button when you are ready to start. &#xA;&#xA;</characters>
+                      <characters>WELCOME&#xD;&#xD;&#xD;We will now ask you to create or analyse &#xD;6 different experiments.&#xD;&#xD;&#xD;Click the Next button when you are ready to start. &#xD;&#xD;</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" bitmapSize="440" face="Arial-BoldMT"/>
                       </textAttrs>

@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Now, we will ask you another six questions.&#xA;&#xA;This is not a test and it will not be graded. &#xA;&#xA;Please take your time and think about each question before you answer.&#xA;&#xA;Click Next when you are ready to begin.  </characters>
+                      <characters>Now, we will ask you another six questions.&#xD;&#xD;This is not a test and it will not be graded. &#xD;&#xD;Please take your time and think about each question before you answer.&#xD;&#xD;Click Next when you are ready to begin.  </characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>

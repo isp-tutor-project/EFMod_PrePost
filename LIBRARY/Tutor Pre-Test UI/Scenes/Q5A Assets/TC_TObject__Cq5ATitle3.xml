@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>• Who you study with (Alone or With a Friend)&#xA;• Where you study (Public Library or Home)&#xA;• What you drink while you study (Soda or Water) </characters>
+                      <characters>• Who you study with (Alone or With a Friend)&#xD;• Where you study (Public Library or Home)&#xD;• What you drink while you study (Soda or Water) </characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" face="Arial-BoldMT"/>
                       </textAttrs>

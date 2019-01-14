@@ -12,7 +12,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Circle the words that describe the picture of the house.  &#xA;</characters>
+                      <characters>Circle the words that describe the picture of the house.  &#xD;</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.55" size="22" face="Arial-BoldMT"/>
                       </textAttrs>

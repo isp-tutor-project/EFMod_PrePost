@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1" itemID="5c37bccd-00000741" lastModified="1547156685">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="5c3cd2b0-000009a9" lastModified="1547489968" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="Symbol 1">
+    <DOMTimeline name="Symbol 2">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="389.9" centerPoint3DY="211.15">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="577.65" centerPoint3DY="312.85">
                   <matrix>
-                    <Matrix d="2.53408813476563" tx="8" ty="17.3"/>
+                    <Matrix a="1.48147583007813" d="3.75389099121094" tx="11.85" ty="25.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>
@@ -20,9 +20,12 @@
                     <Color brightness="-0.75"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment" name="Sassess" selected="true" centerPoint3DX="381.9" centerPoint3DY="196.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TAssess__CAssessment" name="Sassess" selected="true" centerPoint3DX="565.8" centerPoint3DY="291.5">
+                  <matrix>
+                    <Matrix a="1.48147583007813" d="1.48135375976563"/>
+                  </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="165.35"/>
+                    <Point x="381.9" y="165.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

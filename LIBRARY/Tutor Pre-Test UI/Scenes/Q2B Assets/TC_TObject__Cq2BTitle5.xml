@@ -45,7 +45,7 @@
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters> makes a difference in which cookies people prefer.&#xA;&#xA;(For example, you may want to change the temperature of the oven, the type of sweetener or the number of eggs in one or both of the pictures.)</characters>
+                      <characters> makes a difference in which cookies people prefer.&#xD;&#xD;(For example, you may want to change the temperature of the oven, the type of sweetener or the number of eggs in one or both of the pictures.)</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
                       </textAttrs>

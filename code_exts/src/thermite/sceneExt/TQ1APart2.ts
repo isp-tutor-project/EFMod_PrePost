@@ -92,10 +92,10 @@ export class TQ1APart2 extends TExpSceneTyp2
 		this.selThreeA = "drinkLemon";
 		this.selThreeB = "drinkTea";
 			
-		this.imgTool1		= "this.imgToolAq1";
-		this.imgTool2		= "this.imgToolBq1";
-		this.tabController1	= "this.tabControllerAq1";
-		this.tabController2	= "this.tabControllerBq1";
+		this.imgTool1		= "imgToolAq1";
+		this.imgTool2		= "imgToolBq1";
+		this.tabController1	= "tabControllerAq1";
+		this.tabController2	= "tabControllerBq1";
 
 		// Disable the controllers
 		//

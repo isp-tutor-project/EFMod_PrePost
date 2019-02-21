@@ -1,33 +1,33 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart3" itemID="5b15bcc9-00000b6e" linkageExportForAS="true" linkageClassName="TC_TQ4BPart3" lastModified="1547505149">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart3" itemID="5b15bcc9-00000b6e" linkageExportForAS="true" linkageClassName="TC_TQ4BPart3" lastModified="1547585713">
   <timeline>
     <DOMTimeline name="TC_TQ4BPart3">
       <layers>
-        <DOMLayer name="DrinkC TabController" color="#4FFFFF" autoNamed="false" visible="false">
+        <DOMLayer name="DrinkC TabController" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerCq4" selected="true" centerPoint3DX="336.35" centerPoint3DY="328.45">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerCq4" selected="true" centerPoint3DX="692.55" centerPoint3DY="472.05">
                   <matrix>
-                    <Matrix a="0.702255249023438" d="0.702163696289063" tx="138" ty="223.85"/>
+                    <Matrix a="1.08531188964844" d="1.08517456054688" tx="386" ty="310.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="447.4" y="270.1"/>
+                    <Point x="447.45" y="270.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="DrinkD TabController" color="#4FFFFF" autoNamed="false" visible="false">
+        <DOMLayer name="DrinkD TabController" color="#4FFFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerDq4" selected="true" centerPoint3DX="736.35" centerPoint3DY="328.45">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerDq4" selected="true" centerPoint3DX="1310.75" centerPoint3DY="472.05">
                   <matrix>
-                    <Matrix a="0.702255249023438" d="0.702163696289063" tx="538" ty="223.85"/>
+                    <Matrix a="1.08531188964844" d="1.08517456054688" tx="1004.2" ty="310.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="447.4" y="270.1"/>
+                    <Point x="447.45" y="270.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -38,12 +38,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolCq4" centerPoint3DX="258.5" centerPoint3DY="327.7">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolCq4" selected="true" centerPoint3DX="572.25" centerPoint3DY="470.9">
                   <matrix>
-                    <Matrix a="0.471420288085938" d="0.471038818359375" tx="227.1" ty="253"/>
+                    <Matrix a="0.728561401367188" d="0.72796630859375" tx="523.7" ty="355.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="177.85" y="179.9"/>
+                    <Point x="177.9" y="180"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -54,12 +54,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolDq4" centerPoint3DX="657.45" centerPoint3DY="327.7">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolDq4" selected="true" centerPoint3DX="1188.8" centerPoint3DY="470.9">
                   <matrix>
-                    <Matrix a="0.471420288085938" d="0.471038818359375" tx="626.1" ty="253"/>
+                    <Matrix a="0.728561401367188" d="0.72796630859375" tx="1140.35" ty="355.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="177.95" y="180.05"/>
+                    <Point x="178" y="180.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -70,20 +70,20 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameE" name="q4FrameC" centerPoint3DX="309" centerPoint3DY="318.35">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameE" name="q4FrameC" selected="true" centerPoint3DX="650.3" centerPoint3DY="456.45">
                   <matrix>
-                    <Matrix tx="127" ty="171.45"/>
+                    <Matrix a="1.54547119140625" d="1.54547119140625" tx="369" ty="229.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="182" y="147.5"/>
+                    <Point x="182" y="147.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameF" name="q4FrameD" centerPoint3DX="709" centerPoint3DY="318.35">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BFrameF" name="q4FrameD" selected="true" centerPoint3DX="1268.5" centerPoint3DY="456.45">
                   <matrix>
-                    <Matrix tx="527" ty="171.45"/>
+                    <Matrix a="1.54547119140625" d="1.54547119140625" tx="987.2" ty="229.4"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="182" y="147.5"/>
+                    <Point x="182" y="147.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -94,9 +94,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle5" name="q4Title5" centerPoint3DX="499.9" centerPoint3DY="567.45">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q4B Assets/TC_TObject__Cq4BTitle5" name="q4Title5" selected="true" centerPoint3DX="945.35" centerPoint3DY="841.4">
                   <matrix>
-                    <Matrix tx="94.05" ty="527.95"/>
+                    <Matrix a="1.54547119140625" d="1.54547119140625" tx="318.1" ty="780.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="419.45" y="32.5"/>
@@ -106,13 +106,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkRight" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="QMarkRight" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight" name="q4QMarkRight">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight" name="q4QMarkRight" selected="true">
                   <matrix>
-                    <Matrix tx="513.75" ty="149.55"/>
+                    <Matrix a="1.54547119140625" d="1.54547119140625" tx="966.7" ty="195.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="395.2" y="382.45"/>
@@ -126,9 +126,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q4QFrame1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q4QFrame1" selected="true">
                   <matrix>
-                    <Matrix tx="127" ty="489.45"/>
+                    <Matrix a="1.54547119140625" d="1.54547119140625" tx="369" ty="720.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="381.9" y="76.5"/>

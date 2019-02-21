@@ -1,17 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash" itemID="5b008125-0000147c" linkageExportForAS="true" linkageClassName="TC_TEndSpash__CPPEndSplash" lastModified="1547158102" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/TC_TEndSpash__CPPEndSplash" itemID="5b008125-0000147c" linkageExportForAS="true" linkageClassName="TC_TEndSpash__CPPEndSplash" lastModified="1547586609" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="TC_TEndSpash__CPPEndSplash">
       <layers>
-        <DOMLayer name="Done Button" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Done Button" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Navigation/NavPanel Components/CNavDone" name="SdoneButton" centerPoint3DX="512" centerPoint3DY="506.35">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Navigation/NavPanel Components/CNavDone" name="SdoneButton" centerPoint3DX="960.85" centerPoint3DY="740.95">
                   <matrix>
-                    <Matrix tx="604" ty="460.9"/>
+                    <Matrix a="1.48272705078125" d="1.48101806640625" tx="1096.4" ty="673.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="46.6" y="45"/>
+                    <Point x="47.1" y="45.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -22,28 +22,28 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/DoneButton" centerPoint3DX="512" centerPoint3DY="384.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/DoneButton" centerPoint3DX="960.7" centerPoint3DY="560.2">
                   <matrix>
-                    <Matrix tx="130.1" ty="187.5"/>
+                    <Matrix a="1.48272705078125" d="1.48101806640625" tx="393.75" ty="268.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="165.35"/>
+                    <Point x="382.35" y="165.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Shadow" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" centerPoint3DX="520" centerPoint3DY="398.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" centerPoint3DX="960.7" centerPoint3DY="581.95">
                   <matrix>
-                    <Matrix d="2.53408813476563" tx="138.1" ty="204.8"/>
+                    <Matrix a="1.48272705078125" d="3.7529296875" tx="393.75" ty="294.25"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="76.5"/>
+                    <Point x="382.35" y="76.65"/>
                   </transformationPoint>
                   <filters>
                     <BlurFilter blurX="13" blurY="13"/>
@@ -56,7 +56,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

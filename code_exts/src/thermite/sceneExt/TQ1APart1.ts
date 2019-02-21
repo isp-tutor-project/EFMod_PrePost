@@ -22,6 +22,10 @@ import { TExpSceneTyp2 } 	from "./TExpSceneTyp2";
 import { TDrinkImgTool } 	from "../../thermite/TDrinkImgTool";
 import { TDrinkController } from "../../thermite/TDrinkController";
 
+import { TSelectEvent }     from "../events/TSelectEvent";
+import { TMouseEvent }      from "thermite/events/TMouseEvent";
+import { TNavEvent }        from "../events/TNavEvent";
+
 import { TRoot }			from "thermite/TRoot";
 import { TObject }			from "thermite/TObject";
 import { TButton }			from "thermite/TButton";
@@ -33,9 +37,6 @@ import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
-import { TSelectEvent } from "../events/TSelectEvent";
-import { TMouseEvent } from "thermite/events/TMouseEvent";
-import { TNavEvent } from "../events/TNavEvent";
 
 
 export class TQ1APart1 extends TExpSceneTyp2
@@ -88,10 +89,10 @@ export class TQ1APart1 extends TExpSceneTyp2
 		this.selThreeA = "drinkLemon";
 		this.selThreeB = "drinkTea";
 		
-		this.imgTool1		= "this.imgToolAq1";
-		this.imgTool2		= "this.imgToolBq1";
-		this.tabController1	= "this.tabControllerAq1";
-		this.tabController2	= "this.tabControllerBq1";
+		this.imgTool1		= "imgToolAq1";
+		this.imgTool2		= "imgToolBq1";
+		this.tabController1	= "tabControllerAq1";
+		this.tabController2	= "tabControllerBq1";
 	
 		this.imgToolAq1.addEventListener(TSelectEvent.WOZIMGSELECT,  this.doImageMapA);			
 		this.imgToolBq1.addEventListener(TSelectEvent.WOZIMGSELECT,  this.doImageMapB);			

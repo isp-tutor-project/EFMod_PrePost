@@ -1,5 +1,5 @@
 
-namespace EFTut_Suppl.EFMod_CodeTest {
+namespace EFTut_Suppl.EFMod_PrePost {
     
     export class $Common {
 
@@ -57,6 +57,42 @@ namespace EFTut_Suppl.EFMod_CodeTest {
         public $cuePoints(script:string, id:string) { /* empty */  }
 
         public $timedEvents(script:string, id:string) { /* empty */  }
+
+
+        
+        //***********************************************
+        // Scene State methods
+        //
+
+        public $onAction(target:string, evt:string) {}
+
+        public $queryFinished() : boolean {             
+
+            let stateComplete:boolean = false;
+            return  stateComplete; 
+        }
+
+        public $canGoBack() : boolean {             
+
+            let stateComplete:boolean = true;
+            return  stateComplete; 
+        }
+
+		public $updateNav() : void {
+
+			// Update the Navigation
+            //
+            if(!this.$queryFinished())
+                this.enableNext(false);		
+            else	
+                this.enableNext(true);		
+
+            if(!this.$canGoBack())
+                this.enableBack(false);		
+            else	
+                this.enableBack(true);		
+
+		}
 
     }   
 }

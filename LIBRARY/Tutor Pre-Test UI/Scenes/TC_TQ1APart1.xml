@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1547495007" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1APart1" itemID="5b15bc63-00000b57" linkageExportForAS="true" linkageClassName="TC_TQ1APart1" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Scenes/Q1AP1 - Question1A Part1" sourceLastModified="1401729594" lastModified="1547579425" lastUniqueIdentifier="50" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="TC_TQ1APart1">
       <layers>
-        <DOMLayer name="Title1" color="#808080" autoNamed="false">
+        <DOMLayer name="Title1" color="#808080" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle1" name="q1Title1" centerPoint3DX="497.45" centerPoint3DY="135.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle1" name="q1Title1" selected="true" centerPoint3DX="943.1" centerPoint3DY="165.45">
                   <matrix>
-                    <Matrix tx="174" ty="102.6"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="443.25" ty="115.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="380.4" y="22"/>
@@ -22,9 +22,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle2" name="q1Title2" centerPoint3DX="492.45" centerPoint3DY="190.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle2" name="q1Title2" selected="true" centerPoint3DX="935.4" centerPoint3DY="250.4">
                   <matrix>
-                    <Matrix tx="174" ty="178.6"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="443.25" ty="232.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="385.45" y="11.5"/>
@@ -38,28 +38,28 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3" name="q1Title3" centerPoint3DX="553.4" centerPoint3DY="245.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle3" name="q1Title3" selected="true" centerPoint3DX="1029.55" centerPoint3DY="336.25">
                   <matrix>
-                    <Matrix tx="356.95" ty="213.15"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="725.95" ty="286"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="180.7" y="32.5"/>
+                    <Point x="180.75" y="32.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Info Frame" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Info Frame" color="#4FFFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CInfoFrame" name="q1IFrame1" centerPoint3DX="508.9" centerPoint3DY="186.5">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CInfoFrame" name="q1IFrame1" selected="true" centerPoint3DX="960.8" centerPoint3DY="244.85">
                   <matrix>
-                    <Matrix d="1.39909362792969" tx="127" ty="79.5"/>
+                    <Matrix a="1.54527282714844" d="2.16171264648438" tx="370.6" ty="79.5"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="76.55"/>
+                    <Point x="381.95" y="76.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -77,9 +77,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle4" name="q1Title4" centerPoint3DX="514.1" centerPoint3DY="349.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle4" name="q1Title4" selected="true" centerPoint3DX="968.85" centerPoint3DY="496.95">
                   <matrix>
-                    <Matrix tx="169.95" ty="328.65"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="437" ty="464.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="385.45" y="32.5"/>
@@ -93,12 +93,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle5" name="q1Title5" centerPoint3DX="509.4" centerPoint3DY="401.45">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q1A Assets/TC_TObject__Cq1ATitle5" name="q1Title5" selected="true" centerPoint3DX="961.6" centerPoint3DY="577">
                   <matrix>
-                    <Matrix tx="169.95" ty="379.45"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="437" ty="542.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="391.95" y="22"/>
+                    <Point x="391.95" y="22.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -109,32 +109,13 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TButton__CDesignButton" name="q1DesignButton" centerPoint3DX="510.7" centerPoint3DY="454">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TButton__CDesignButton" name="q1DesignButton" selected="true" centerPoint3DX="963.6" centerPoint3DY="658.15">
                   <matrix>
-                    <Matrix tx="320.75" ty="443.45"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="670" ty="641.85"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="187.1" y="11.5"/>
+                    <Point x="187.15" y="11.5"/>
                   </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="QMark Left" color="#808080" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="q1MarkLeft" centerPoint3DX="120.05" centerPoint3DY="351.4">
-                  <matrix>
-                    <Matrix a="0.224761962890625" d="0.224761962890625" tx="22.05" ty="265.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="414.9" y="382.85"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -144,12 +125,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight" name="q1MarkRight" centerPoint3DX="907.1" centerPoint3DY="350.9">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkRight" name="q1MarkRight" selected="true" centerPoint3DX="1576.1" centerPoint3DY="498.85">
                   <matrix>
-                    <Matrix tx="512.9" ty="-31.5"/>
+                    <Matrix a="1.54527282714844" d="1.54508972167969" tx="966.9" ty="-91.95"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="414.95" y="382.95"/>
+                    <Point x="415" y="382.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -160,12 +141,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q1QFrame1" centerPoint3DX="507.85" centerPoint3DY="396.9">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q1QFrame1" selected="true" centerPoint3DX="959.2" centerPoint3DY="569.95">
                   <matrix>
-                    <Matrix d="1.17002868652344" tx="125.95" ty="307.4"/>
+                    <Matrix a="1.54527282714844" d="1.80778503417969" tx="369" ty="431.65"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="381.9" y="76.45"/>
+                    <Point x="381.95" y="76.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

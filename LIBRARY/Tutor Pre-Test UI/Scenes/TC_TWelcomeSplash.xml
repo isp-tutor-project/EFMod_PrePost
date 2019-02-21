@@ -1,30 +1,19 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TWelcomeSplash" itemID="5b15bcf8-00000b7d" linkageExportForAS="true" linkageClassName="TC_TWelcomeSplash" lastModified="1547158053">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TWelcomeSplash" itemID="5b15bcf8-00000b7d" linkageExportForAS="true" linkageClassName="TC_TWelcomeSplash" lastModified="1547586319" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TWelcomeSplash">
       <layers>
-        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Title" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="662.9" height="257.95" includeOutlines="true" isSelectable="false">
+                <DOMSymbolInstance libraryItemName="Welcome">
                   <matrix>
-                    <Matrix tx="180.55" ty="240"/>
+                    <Matrix a="1.72433471679688" d="1.72438049316406" tx="294.6" ty="250"/>
                   </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>WELCOME&#xD;&#xD;&#xD;We will now ask you to create or analyse &#xD;6 different experiments.&#xD;&#xD;&#xD;Click the Next button when you are ready to start. &#xD;&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" bitmapSize="440" face="Arial-BoldMT"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>Also click Next  to continue once you finish each page. </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
+                  <transformationPoint>
+                    <Point x="385.9" y="174.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
@@ -33,9 +22,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CArrowNext" centerPoint3DX="811.5" centerPoint3DY="646.2">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CArrowNext" centerPoint3DX="1599.6" centerPoint3DY="986.35">
                   <matrix>
-                    <Matrix tx="839.5" ty="651.45"/>
+                    <Matrix tx="1627.6" ty="991.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-73.6" y="24.25"/>
@@ -51,42 +40,18 @@
         <DOMLayer name="QFrame1" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="512" centerPoint3DY="352.8">
-                  <matrix>
-                    <Matrix d="2.16117858886719" tx="130.1" ty="187.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="381.9" y="76.5"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="Shadow" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="520" centerPoint3DY="370.1">
-                  <matrix>
-                    <Matrix d="2.16117858886719" tx="138.1" ty="204.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="381.9" y="76.5"/>
-                  </transformationPoint>
-                  <filters>
-                    <BlurFilter blurX="13" blurY="13"/>
-                  </filters>
-                  <color>
-                    <Color brightness="-0.75"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

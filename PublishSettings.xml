@@ -39,9 +39,12 @@
   </PublishProperties>
   <PublishProperties id="C6B9CB0C-C6DC-4FBC-9805-93E9EB37A444" name="JavaScript/HTML" otf="true" enabled="true">
     <Property name="SiteUrl"> </Property>
+    <Property name="TPpngMaxSheetHeight">2048</Property>
+    <Property name="TPpngMaxSheetWidth">2048</Property>
+    <Property name="TextureBitDepth">8</Property>
     <Property name="bitDepth">8</Property>
     <Property name="centerOption">2</Property>
-    <Property name="centerStage">false</Property>
+    <Property name="centerStage">true</Property>
     <Property name="compactPaths">true</Property>
     <Property name="componentsPath">components/</Property>
     <Property name="createjsNS">createjs</Property>
@@ -61,7 +64,7 @@
     <Property name="imageFormat">0</Property>
     <Property name="imagesNS">images</Property>
     <Property name="imagesPath">images/</Property>
-    <Property name="includeHiddenLayers">false</Property>
+    <Property name="includeHiddenLayers">true</Property>
     <Property name="includePreloader">false</Property>
     <Property name="jpegBackground">#FFFFFF</Property>
     <Property name="jpegMaxSheetHeight">8192</Property>
@@ -69,18 +72,20 @@
     <Property name="libNS">lib</Property>
     <Property name="libraryPath">libs/</Property>
     <Property name="loop">true</Property>
-    <Property name="makeResponsive">false</Property>
+    <Property name="makeResponsive">true</Property>
     <Property name="optimizeExport">true</Property>
     <Property name="pngBackground">#00000000</Property>
     <Property name="pngMaxSheetHeight">8192</Property>
     <Property name="pngMaxSheetWidth">8192</Property>
     <Property name="preloaderName">Default</Property>
     <Property name="quality">80</Property>
+    <Property name="resolution">2</Property>
     <Property name="responsiveOption">2</Property>
     <Property name="scaleOption">0</Property>
-    <Property name="scaleStage">false</Property>
+    <Property name="scaleStage">true</Property>
     <Property name="soundsPath">sounds/</Property>
     <Property name="templateTitle">Default Template</Property>
+    <Property name="textureConversion">false</Property>
     <Property name="version">0.1</Property>
     <Property name="webfontEmbedCode">null</Property>
   </PublishProperties>

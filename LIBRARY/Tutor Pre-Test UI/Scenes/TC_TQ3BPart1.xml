@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ3BPart1" itemID="5b15bcb1-00000b66" linkageExportForAS="true" linkageClassName="TC_TQ3BPart1" lastModified="1547495264">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ3BPart1" itemID="5b15bcb1-00000b66" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ3BPart1" lastModified="1547495264">
   <timeline>
-    <DOMTimeline name="TC_TQ3BPart1">
+    <DOMTimeline name="TC_TP2Scene__TQ3BPart1">
       <layers>
         <DOMLayer name="Title1" color="#808080" autoNamed="false">
           <frames>

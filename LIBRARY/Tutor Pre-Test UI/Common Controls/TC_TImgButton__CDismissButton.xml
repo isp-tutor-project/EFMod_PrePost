@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TImgButton__CDismissButton" itemID="5c89739e-0000279e" linkageExportForAS="true" linkageClassName="TC_TImgButton__CDismissButton" lastModified="1552511902" lastUniqueIdentifier="18">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CDismissButton">
+      <layers>
+        <DOMLayer name="focus" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/xparentFace" name="Sfocus" selected="true" centerPoint3DX="370.45" centerPoint3DY="281.95">
+                  <transformationPoint>
+                    <Point x="370.45" y="281.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="up" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/xparentFace" name="Sup" centerPoint3DX="370.45" centerPoint3DY="281.95">
+                  <transformationPoint>
+                    <Point x="370.45" y="281.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="over" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/xparentFace" name="Sover" centerPoint3DX="370.45" centerPoint3DY="281.95">
+                  <transformationPoint>
+                    <Point x="370.45" y="281.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="down" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/xparentFace" name="Sdown" centerPoint3DX="370.45" centerPoint3DY="281.95">
+                  <transformationPoint>
+                    <Point x="370.45" y="281.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disabled" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/xparentFace" name="Sdisabled" centerPoint3DX="370.45" centerPoint3DY="281.95">
+                  <transformationPoint>
+                    <Point x="370.45" y="281.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

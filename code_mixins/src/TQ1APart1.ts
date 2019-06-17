@@ -18,12 +18,18 @@ namespace EFTut_Suppl.EFMod_PrePost {
 
             // By default disable all Navigation - Let scenes decide
             // 
-            this.setNavMode(CONST.NAVNEXT, CONST.NAVSCENE);
+            this.setNavMode(CONST.NAVNONE, CONST.NAVSCENE);
         }
 
         public $onCreateScene() { 
             
             this.setSceneValue("complete", false);      
+        }
+
+        public $onEnterScene() {
+        }
+        
+        public $preEnterScene() {
 
             this.selOneA   = "clockNoon";
             this.selOneB   = "clockThree";
@@ -33,16 +39,6 @@ namespace EFTut_Suppl.EFMod_PrePost {
             this.selThreeA = "drinkLemon";
             this.selThreeB = "drinkTea";
             
-            this.imgTool1		= "imgToolAq1";
-            this.imgTool2		= "imgToolBq1";
-            this.tabController1	= "tabControllerAq1";
-            this.tabController2	= "tabControllerBq1";
-        }
-
-        public $onEnterScene() {
-        }
-        
-        public $preEnterScene() {
         }
 
         public $preExitScene() {
@@ -127,6 +123,9 @@ namespace EFTut_Suppl.EFMod_PrePost {
         public $onAction(target:string) {         
             
             switch(target) {
+                case "q1DesignButton":
+                this.nextTrack("$onAction:" + target);
+                break;
             }
         }
 

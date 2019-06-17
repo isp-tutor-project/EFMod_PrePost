@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/TC_TAssessIcon__CStar" itemID="5b008d70-00001682" linkageExportForAS="true" linkageClassName="TC_TAssessIcon__CStar" lastModified="1526762864" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/TC_TAssessIcon__CStar" itemID="5b008d70-00001682" linkageExportForAS="true" linkageClassName="TC_TAssessIcon__CStar" lastModified="1560802785" lastUniqueIdentifier="1">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TAssessIcon__CStar">
       <layers>
-        <DOMLayer name="wrong" color="#9933CC" autoNamed="false">
+        <DOMLayer name="wrong" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__wrong" name="Swrong" centerPoint3DX="42.15" centerPoint3DY="41.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__wrong" name="Swrong" selected="true" centerPoint3DX="42.15" centerPoint3DY="41.95">
                   <matrix>
                     <Matrix a="0.387344360351563" d="0.387344360351563" tx="7.65" ty="9.1"/>
                   </matrix>
@@ -21,11 +24,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="right" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="right" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__starRight" name="Sright" selected="true" centerPoint3DX="38.4" centerPoint3DY="36.6">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/TC_TObject__starRight" name="Sright" centerPoint3DX="38.4" centerPoint3DY="36.6">
                   <transformationPoint>
                     <Point x="38.4" y="36.6"/>
                   </transformationPoint>

@@ -18,7 +18,7 @@
 
 //** Imports
 
-import { TImgTool } from "./common/TImgTool";
+import { TImgTool } from "./TImgTool";
 
 import { TRoot }		from "thermite/TRoot";
 import { TObject }		from "thermite/TObject";
@@ -30,6 +30,7 @@ import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
+import { CEFEvent } from "events/CEFEvent";
 
 
 export class TRocketImgTool extends TImgTool
@@ -48,13 +49,47 @@ export class TRocketImgTool extends TImgTool
 	
 	//************ Stage Symbols				
 	
-	
-	constructor()
+	    
+    constructor()
 	{
 		super();
+		this.init5();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TRocketImgToolInitialize() {
+
+		this.TImgToolInitialize.call(this);
+		this.init5();
+	}
+
+	public initialize() {
+
+		this.TImgToolInitialize.call(this);		
+		this.init5();
+	}
+
+	private init5() {
 		
-		CUtil.trace("TRocketImgTool:Constructor");
-		
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TRocketImgTool:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TRocketImgTool On Stage");
+
 		this.feature1A = "curvedBody";
 		this.feature1B = "straightBody";
 		this.feature2A = "oneWindow";
@@ -65,6 +100,8 @@ export class TRocketImgTool extends TImgTool
 		// now that everything is named - wire it up
 		//
 		this.initListeners();			
+
+        super.onAddedToStage(evt);
 	}
-	
+    
 }

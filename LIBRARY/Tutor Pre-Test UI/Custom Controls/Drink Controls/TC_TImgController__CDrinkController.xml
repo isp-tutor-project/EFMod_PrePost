@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController" itemID="5b00746f-0000106a" linkageExportForAS="true" linkageClassName="TC_TImgController__CDrinkController" lastModified="1526756463" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkController__DrinkController" itemID="5b00746f-0000106a" linkageExportForAS="true" linkageClassName="TC_TDrinkController__DrinkController" lastModified="1526756463" lastUniqueIdentifier="3">
   <timeline>
-    <DOMTimeline name="TC_TImgController__CDrinkController">
+    <DOMTimeline name="TC_TDrinkController__DrinkController">
       <layers>
         <DOMLayer name="tabTool" color="#4FFFFF" locked="true" autoNamed="false">
           <frames>

@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Controls/Keyboard Assets/shiftIcon" itemID="5ca260ff-000036b3" lastModified="1554145535">
+  <timeline>
+    <DOMTimeline name="shiftIcon">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.95">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!310 22S6|510 222!510 222[554 266 510 310!510 310/22 310!22 310[-22 266 22 222!22 222|222 22!222 22[266 -22 310 22"/>
+                    <Edge cubics="!222 22(;251,-7 281,-7 310,22q222 22Q266 -22q310 22);"/>
+                    <Edge cubics="!510 222(;539,251 539,281 510,310q510 222Q554 266q510 310);"/>
+                    <Edge cubics="!310 22(;310,22 510,222 510,222q310 22 510 222);"/>
+                    <Edge cubics="!22 310(;-7,281 -7,251 22,222q22 310Q-22 266q22 222);"/>
+                    <Edge cubics="!22 222(;22,222 222,22 222,22q22 222 222 22);"/>
+                    <Edge cubics="!510 310(;510,310 22,310 22,310q510 310 22 310);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

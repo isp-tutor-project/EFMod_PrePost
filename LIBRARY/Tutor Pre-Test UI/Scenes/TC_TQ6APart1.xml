@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6APart1" itemID="5b15bce1-00000b75" linkageExportForAS="true" linkageClassName="TC_TQ6APart1" lastModified="1547585742">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ6APart1" itemID="5b15bce1-00000b75" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ6APart1" lastModified="1547585742">
   <timeline>
-    <DOMTimeline name="TC_TQ6APart1">
+    <DOMTimeline name="TC_TP2Scene__TQ6APart1">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController" name="tabControllerCq6" selected="true" centerPoint3DX="692.55" centerPoint3DY="606.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyController__StudyController" name="tabControllerCq6" selected="true" centerPoint3DX="692.55" centerPoint3DY="606.25">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="386" ty="444.6"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController" name="tabControllerDq6" selected="true" centerPoint3DX="1310.75" centerPoint3DY="606.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyController__StudyController" name="tabControllerDq6" selected="true" centerPoint3DX="1310.75" centerPoint3DY="606.25">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="1004.2" ty="444.6"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" name="imgToolCq6" selected="true" centerPoint3DX="739.55" centerPoint3DY="600.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyImgTool__StudyImgTool" name="imgToolCq6" selected="true" centerPoint3DX="739.55" centerPoint3DY="600.1">
                   <matrix>
                     <Matrix a="0.961334228515625" d="0.961151123046875" tx="611.35" ty="446.9"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" name="imgToolDq6" selected="true" centerPoint3DX="1357.3" centerPoint3DY="600.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyImgTool__StudyImgTool" name="imgToolDq6" selected="true" centerPoint3DX="1357.3" centerPoint3DY="600.1">
                   <matrix>
                     <Matrix a="0.961334228515625" d="0.961151123046875" tx="1229.05" ty="446.9"/>
                   </matrix>

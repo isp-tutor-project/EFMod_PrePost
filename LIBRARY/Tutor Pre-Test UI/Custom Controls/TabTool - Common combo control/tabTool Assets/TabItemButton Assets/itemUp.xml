@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemUp" itemID="4818b3ca-0000c1b1" lastModified="1209851692">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/itemUp" itemID="4818b3ca-0000c1b1" lastModified="1552508890">
   <timeline>
     <DOMTimeline name="itemUp">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="145" objectHeight="270.7" x="442.2" y="302.55" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                <DOMRectangleObject objectWidth="145" objectHeight="270.7" x="442.2" y="302.55" selected="true" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
                   <matrix>
                     <Matrix tx="-442.2" ty="-302.55"/>
                   </matrix>

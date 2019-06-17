@@ -26,7 +26,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p3imgTool" centerPoint3DX="660.95" centerPoint3DY="394.8">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" name="i1p3imgTool" centerPoint3DX="660.95" centerPoint3DY="394.8">
                   <matrix>
                     <Matrix a="0.862350463867188" d="0.840423583984375" tx="560.95" ty="298.35"/>
                   </matrix>

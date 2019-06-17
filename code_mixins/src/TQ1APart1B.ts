@@ -23,7 +23,16 @@ namespace EFTut_Suppl.EFMod_PrePost {
 
         public $onCreateScene() { 
             
-            this.setSceneValue("complete", false);      
+            this.imgTool1		= "imgToolAq1";
+            this.imgTool2		= "imgToolBq1";
+            this.tabController1	= "tabControllerAq1";
+            this.tabController2	= "tabControllerBq1";    
+        }
+
+        public $onEnterScene() {
+        }
+        
+        public $preEnterScene() {
 
             this.selOneA   = "clockNoon";
             this.selOneB   = "clockThree";
@@ -33,27 +42,33 @@ namespace EFTut_Suppl.EFMod_PrePost {
             this.selThreeA = "drinkLemon";
             this.selThreeB = "drinkTea";
             
-            this.imgTool1		= "imgToolAq1";
-            this.imgTool2		= "imgToolBq1";
-            this.tabController1	= "tabControllerAq1";
-            this.tabController2	= "tabControllerBq1";
+            if(!this.getSceneValue("initialized"))
+            {
+                this.imgToolAq1.bPersist = true;			
+                this.imgToolBq1.bPersist = true;			
+                this.tabControllerAq1.bPersist = true;
+                this.tabControllerBq1.bPersist = true;				      
+    
+                this.imgToolAq1.initState();			
+                this.imgToolBq1.initState();			
+                this.tabControllerAq1.initState();
+                this.tabControllerBq1.initState();		
+                
+                this.setSceneValue("initialized", true)
+                this.setSceneValue("complete", false);      
+            }
+            this.tabControllerAq1.enableTool(true);
+            this.tabControllerBq1.enableTool(true);
 
-            this.imgToolAq1.addEventListener(CONST.WOZIMGSELECT,  this.doImageMapA);			
-            this.imgToolBq1.addEventListener(CONST.WOZIMGSELECT,  this.doImageMapB);			
-            this.tabControllerAq1.addEventListener(CONST.WOZTABSELECT,  this.doTabMapA);
-            this.tabControllerBq1.addEventListener(CONST.WOZTABSELECT,  this.doTabMapB);				  
-            
-            this.tabControllerAq1.addEventListener("Done",  this.questionFinishedA);			
-            this.tabControllerBq1.addEventListener("Done",  this.questionFinishedB);						    
-        }
+            this.imgToolAq1.enableTool(true);
+            this.imgToolBq1.enableTool(true);
 
-        public $onEnterScene() {
-        }
-        
-        public $preEnterScene() {
+            this.wireControls();
         }
 
         public $preExitScene() {
+
+            this.setModuleValue('q1CVS', this.encodeExptString("time of day", "sel1", "sel2", "sel3"));
         }
 
         public $demoInitScene() {

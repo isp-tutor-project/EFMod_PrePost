@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" itemID="5b00904b-000016b9" linkageExportForAS="true" linkageClassName="TC_TImgTool__CHouseImageTool" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/House Controls/CHouseImageTool" sourceLastModified="1368651126" lastModified="1526764212" lastUniqueIdentifier="19" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" itemID="5b00904b-000016b9" linkageExportForAS="true" linkageClassName="TC_THouseImgTool__HouseImgTool" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/House Controls/CHouseImageTool" sourceLastModified="1368651126" lastModified="1526764212" lastUniqueIdentifier="19" sourceItemID="00000000-ffffffff">
   <timeline>
-    <DOMTimeline name="TC_TImgTool__CHouseImageTool">
+    <DOMTimeline name="TC_THouseImgTool__HouseImgTool">
       <layers>
         <DOMLayer name="Background" color="#9933CC" autoNamed="false" layerType="folder"/>
         <DOMLayer name="doubleDoor" color="#FF4FFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">

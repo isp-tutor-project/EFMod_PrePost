@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgTool__CMemImageTool" itemID="5b007456-00001068" linkageExportForAS="true" linkageClassName="TC_TImgTool__CMemImageTool" lastModified="1526756438" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemImgTool__MemImgTool" itemID="5b007456-00001068" linkageExportForAS="true" linkageClassName="TC_TMemImgTool__MemImgTool" lastModified="1526756438" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TImgTool__CMemImageTool">
+    <DOMTimeline name="TC_TMemImgTool__MemImgTool">
       <layers>
         <DOMLayer name="Background" color="#9933CC" autoNamed="false" layerType="folder"/>
         <DOMLayer name="lightBright" color="#4F80FF" parentLayerIndex="0" autoNamed="false">

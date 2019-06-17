@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgController__CBakingController" itemID="5b0073ed-00001062" linkageExportForAS="true" linkageClassName="TC_TImgController__CBakingController" lastModified="1526756368" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TBakingController__BakingController" itemID="5b0073ed-00001062" linkageExportForAS="true" linkageClassName="TC_TBakingController__BakingController" lastModified="1526756368" lastUniqueIdentifier="3">
   <timeline>
-    <DOMTimeline name="TC_TImgController__CBakingController">
+    <DOMTimeline name="TC_TBakingController__BakingController">
       <layers>
         <DOMLayer name="tabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>

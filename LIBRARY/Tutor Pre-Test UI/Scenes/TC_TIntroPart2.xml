@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart2" itemID="5b15bc56-00000b53" linkageExportForAS="true" linkageClassName="TC_TIntroPart2" lastModified="1547493847" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart2" itemID="5b15bc56-00000b53" linkageExportForAS="true" linkageClassName="TC_TScene__IntroPart2" lastModified="1553539054" lastUniqueIdentifier="2">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TIntroPart2">
       <layers>
-        <DOMLayer name="i1p2tabController" color="#9933CC" autoNamed="false">
+        <DOMLayer name="i1p2tabController" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" name="i1p2tabController" centerPoint3DX="956.1" centerPoint3DY="604.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseController__HouseController" name="i1p2tabController" selected="true" centerPoint3DX="956.1" centerPoint3DY="604.95">
                   <matrix>
                     <Matrix a="1.2685546875" d="1.2362060546875" tx="647.2" ty="419.45"/>
                   </matrix>
@@ -22,7 +25,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool" centerPoint3DX="1071.7" centerPoint3DY="591.6">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" name="i1p2imgTool" centerPoint3DX="1071.7" centerPoint3DY="591.6">
                   <matrix>
                     <Matrix a="1.2685546875" d="1.2362060546875" tx="924.6" ty="449.7"/>
                   </matrix>
@@ -98,7 +101,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkLeft" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="QMarkLeft" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

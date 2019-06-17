@@ -1,0 +1,200 @@
+{
+	"_LIBRARY": {
+		"eflist": {},
+		"eftext": {
+			"SbreadCrumbs": {
+				"src": "$$EFX.html_crumbText",
+				"htmlData": {
+					"style": {
+						"[sbreadcrumbs].outerContainer": {
+							"text-align": "left",
+							"user-select": "none",
+							"color": "rgba(0, 0, 0, 0.575)",
+							"font-weight": "bold",
+							"font-family": "'PT Sans'",
+							"font-size": "41px",
+							"height": "30px",
+							"width": "475"
+						},
+						"[sbreadcrumbs] .tablecell": {
+							"vertical-align": "middle"
+						}
+					},
+					"html": "\n        <p></p>\n    "
+				}
+			}
+		},
+		"efinput": {
+			"q1TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q1textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q1textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q1textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			},
+			"q2TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q2textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q2textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q2textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			},
+			"q3TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q3textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q3textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q3textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			},
+			"q4TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q4textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q4textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q4textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			},
+			"q5TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q5textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q5textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q5textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			},
+			"q6TextControl1": {
+				"src": "$$EFX.html_input_std",
+				"fontSize": "28",
+				"htmlData": {
+					"style": {
+						"[q6textcontrol1].outerContainer": {
+							"font-Weight": "normal",
+							"font-Style": "normal",
+							"font-Size": "10px",
+							"font-Family": "verdana",
+							"height": "20px",
+							"width": "203px",
+							"top": "0px",
+							"left": "0px",
+							"border": "1px solid #CCC"
+						},
+						"[q6textcontrol1] .input::placeholder": {
+							"font-style": "italic",
+							"color": "rgb(233, 232, 232)"
+						},
+						"[q6textcontrol1] textarea:focus": {
+							"border": "2px solid #0CC",
+							"outline": "none"
+						}
+					},
+					"html": "\n\n        <textarea id=\"textarea\" class=\"input\" placeholder=\"\"></textarea>\n\n    "
+				}
+			}
+		},
+		"eftable": {},
+		"efdata": {}
+	}
+}

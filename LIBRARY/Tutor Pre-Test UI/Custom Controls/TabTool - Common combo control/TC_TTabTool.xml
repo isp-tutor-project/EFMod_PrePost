@@ -1,12 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TTabTool" itemID="5b0074cb-0000106f" linkageExportForAS="true" linkageClassName="TC_TTabTool" lastModified="1526756555" lastUniqueIdentifier="13">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/TC_TTabTool" itemID="5b0074cb-0000106f" linkageExportForAS="true" linkageClassName="TC_TTabTool__TabTool" lastModified="1553621126" lastUniqueIdentifier="13">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TTabTool">
       <layers>
-        <DOMLayer name="2ItemButton1" color="#9933CC" autoNamed="false">
+        <DOMLayer name="2ItemButton1" color="#9933CC" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab2ItemButton" name="Sitem1" centerPoint3DX="251.35" centerPoint3DY="149.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton" name="Sitem1" centerPoint3DX="251.35" centerPoint3DY="149.65">
                   <matrix>
                     <Matrix tx="179.45" ty="15.65"/>
                   </matrix>
@@ -18,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="2ItemButton2" color="#FFFF4F" autoNamed="false">
+        <DOMLayer name="2ItemButton2" color="#FFFF4F" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab2ItemButton" name="Sitem2" centerPoint3DX="406.35" centerPoint3DY="149.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton" name="Sitem2" centerPoint3DX="406.35" centerPoint3DY="149.65">
                   <matrix>
                     <Matrix tx="334.45" ty="15.65"/>
                   </matrix>
@@ -34,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="3ItemButton1" color="#FFFF4F" autoNamed="false">
+        <DOMLayer name="3ItemButton1" color="#FFFF4F" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem3" centerPoint3DX="229.15" centerPoint3DY="152.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton" name="Sitem3" centerPoint3DX="229.15" centerPoint3DY="152.65">
                   <matrix>
                     <Matrix tx="156.5" ty="16.65"/>
                   </matrix>
@@ -50,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="3itemButton2" color="#9933CC" autoNamed="false">
+        <DOMLayer name="3itemButton2" color="#9933CC" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem4" centerPoint3DX="323.15" centerPoint3DY="152.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton" name="Sitem4" centerPoint3DX="323.15" centerPoint3DY="152.65">
                   <matrix>
                     <Matrix tx="250.5" ty="16.65"/>
                   </matrix>
@@ -66,11 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="3itemButton3" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="3itemButton3" color="#4FFF4F" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TC_TTab3ItemButton" name="Sitem5" centerPoint3DX="417.15" centerPoint3DY="152.65">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton" name="Sitem5" centerPoint3DX="417.15" centerPoint3DY="152.65">
                   <matrix>
                     <Matrix tx="344.5" ty="16.65"/>
                   </matrix>
@@ -86,19 +89,19 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TButton__CDismissButton" name="SdismissButton" centerPoint3DX="282.45" centerPoint3DY="148.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgButton__CDismissButton" name="SdismissButton" selected="true" centerPoint3DX="-466.15" centerPoint3DY="-289.15">
                   <matrix>
-                    <Matrix a="0.118896484375" d="0.122695922851563" tx="238.4" ty="114.35"/>
+                    <Matrix a="2.05021667480469" d="1.73844909667969" tx="-510.2" ty="-341.05"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="370.5" y="282"/>
+                    <Point x="369.6" y="281.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="topTab" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="topTab" color="#FF4FFF" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -114,7 +117,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="centerTab" color="#FF800A" autoNamed="false">
+        <DOMLayer name="centerTab" color="#FF800A" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -130,7 +133,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="bottomTab" color="#9933CC" autoNamed="false">
+        <DOMLayer name="bottomTab" color="#9933CC" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -146,7 +149,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Frame" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="Frame" color="#4FFFFF" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

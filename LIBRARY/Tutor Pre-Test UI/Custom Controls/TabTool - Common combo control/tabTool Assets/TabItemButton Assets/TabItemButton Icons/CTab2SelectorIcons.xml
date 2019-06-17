@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab2SelectorIcons" itemID="5193d947-00001a73" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorIcons" linkageClassName="CTab2SelectorIcons" lastModified="1368647335" lastUniqueIdentifier="93">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/TabItemButton Assets/TabItemButton Icons/CTab2SelectorIcons" itemID="5193d947-00001a73" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorIcons" linkageClassName="TC_TSelectorIcons__Tab2SelectorIcons" lastModified="1552676050" lastUniqueIdentifier="93">
   <timeline>
     <DOMTimeline name="CTab2SelectorIcons">
       <layers>

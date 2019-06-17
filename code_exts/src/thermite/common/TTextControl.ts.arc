@@ -56,22 +56,56 @@ export class TTextControl extends TObject
 	
 	private _valid:string = "";
 	
-
-
-
+	
 	constructor()
 	{
 		super();
-
-		if(this.traceMode) CUtil.trace("CWOZTextControl:Constructor");						
-		
-		this.SfocusBox.visible = false;			
+		this.init3();
 	}
-	
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TTextControlInitialize() {
+
+		this.TObjectInitialize.call(this);
+		this.init3();
+	}
+
+	public initialize() {
+
+		this.TObjectInitialize.call(this);		
+		this.init3();
+	}
+
+	private init3() {
+		
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TTextControl:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TTextControl On Stage");
+
+        super.onAddedToStage(evt);
+
+        this.SfocusBox.visible = false;			
+	}
+
 	
 	public Destructor() : void
 	{
-		this.removeEventListener(TMouseEvent.WOZCLICKED, this.liveSetFocus);
+		this.removeEventListener(CONST.BUTTON_CLICKED, this.liveSetFocus);
 		this.removeEventListener(TTextEvent.this.wozInputText, this.wozInputText);				
 		
 		this.StxtField.removeEventListener(FocusEvent.FOCUS_IN,  this.liveFocusIN);						
@@ -110,7 +144,7 @@ export class TTextControl extends TObject
 					
 		super.restoreDefState(TutScene );
 	}
-	
+    
 	
 	public hasMinWords(cnt: number = 0, minLen: number = 8) : Boolean
 	{
@@ -119,12 +153,14 @@ export class TTextControl extends TObject
 		var i1: number;
 		var fResult:Boolean = false;
 		
+        let text = this.controlContainer.innerHTML;
+
 		if(cnt == 0)
 		{
-			if(this.StxtField.text.length >= 1)
+			if(text.length >= 1)
 								fResult = true;
 		}
-		else if(this.StxtField.text.length >= minLen)
+		else if(this.getText().length >= minLen)
 		{			
 			// default to a single word
 			
@@ -140,7 +176,7 @@ export class TTextControl extends TObject
 							
 			regEx = new RegExp(regStr,"i");
 			
-			fResult = (this.StxtField.text.search(regEx) != -1);
+			fResult = (this.getText().search(regEx) != -1);
 		}			
 		
 		return fResult; 
@@ -153,10 +189,10 @@ export class TTextControl extends TObject
 	{
 		var maxString: number = 250;
 		
-		if(this.StxtField.text.length > maxString)	
-			return this.StxtField.text.substring(0,maxString);		  
+		if(this.getText().length > maxString)	
+			return this.getText().substring(0,maxString);		  
 		else 
-			return this.StxtField.text;
+			return this.getText();
 	}
 	
 					
@@ -164,7 +200,7 @@ export class TTextControl extends TObject
 
 	public deepStateCopy(src:CWOZObject) : void 
 	{
-		this.StxtField.text = src["this.StxtField"].text;
+		this.setText(src["this.StxtField"].text);
 		
 		super.deepStateCopy(src);
 	}		
@@ -187,10 +223,10 @@ export class TTextControl extends TObject
 		{		
 			CUtil.trace("CWOZTextControl: Live");
 			
-			this.addEventListener(TMouseEvent.WOZCLICKED, this.liveSetFocus);
+			this.on(CONST.BUTTON_CLICKED, this.liveSetFocus);
 			
-			this.StxtField.addEventListener(FocusEvent.FOCUS_IN,  this.liveFocusIN);			// These will change the Controls Focus state						
-			this.StxtField.addEventListener(FocusEvent.FOCUS_OUT, this.liveFocusOUT);									
+			this.StxtField.on(FocusEvent.FOCUS_IN,  this.liveFocusIN);			// These will change the Controls Focus state						
+			this.StxtField.on(FocusEvent.FOCUS_OUT, this.liveFocusOUT);									
 			
 			this.removeEventListener(TTextEvent.this.wozInputText, this.wozInputText);								
 		}		
@@ -198,12 +234,12 @@ export class TTextControl extends TObject
 		{
 			CUtil.trace("CWOZTextControl: Replay");
 
-			this.removeEventListener(TMouseEvent.WOZCLICKED, this.liveSetFocus);
+			this.removeEventListener(CONST.BUTTON_CLICKED, this.liveSetFocus);
 			
 			this.StxtField.removeEventListener(FocusEvent.FOCUS_IN,  this.liveFocusIN);		// These will change the Controls Focus state						
 			this.StxtField.removeEventListener(FocusEvent.FOCUS_OUT, this.liveFocusOUT);									
 			
-			this.addEventListener(TTextEvent.this.wozInputText, this.wozInputText);				
+			this.on(TTextEvent.this.wozInputText, this.wozInputText);				
 		}
 		
 		// Walk any children
@@ -216,8 +252,8 @@ export class TTextControl extends TObject
 	
 	public liveMouseDown(evt:MouseEvent)
 	{
-		this.stage.addEventListener(MouseEvent.MOUSE_UP,   this.liveMouseUp);			
-		this.stage.addEventListener(MouseEvent.MOUSE_MOVE, this.liveMouseMove);			
+		this.stage.on(MouseEvent.MOUSE_UP,   this.liveMouseUp);			
+		this.stage.on(MouseEvent.MOUSE_MOVE, this.liveMouseMove);			
 	}
 	
 	public liveMouseUp(evt:MouseEvent)
@@ -225,7 +261,7 @@ export class TTextControl extends TObject
 		this.stage.removeEventListener(MouseEvent.MOUSE_UP,   this.liveMouseUp);			
 		this.stage.removeEventListener(MouseEvent.MOUSE_MOVE, this.liveMouseMove);			
 		
-		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.StxtField.text);		
+		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.getText());		
 		gLogR.logLiveEvent(wEvt.captureLogState());
 	}
 	
@@ -249,14 +285,14 @@ export class TTextControl extends TObject
 
 	public liveTextInput(evt:TextEvent) : void
 	{
-		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.StxtField.text);		
+		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.getText());		
 		gLogR.logLiveEvent(wEvt.captureLogState());
 	}
 	
 	public liveKeyDown(evt:KeyboardEvent) : void
 	{
 		if(this.traceMode) CUtil.trace("LiveKeyDown");
-		this.StxtField.addEventListener(KeyboardEvent.KEY_UP,liveKeyUp);			
+		this.StxtField.on(KeyboardEvent.KEY_UP,liveKeyUp);			
 	}
 	
 	public liveKeyUp(evt:KeyboardEvent) : void
@@ -264,7 +300,7 @@ export class TTextControl extends TObject
 		if(this.traceMode) CUtil.trace("LiveKeyUp");			
 		this.StxtField.removeEventListener(KeyboardEvent.KEY_UP,liveKeyUp);
 		
-		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.StxtField.text);		
+		var wEvt:TTextEvent = new TTextEvent(objID, TTextEvent.this.wozInputText, this.StxtField.selectionBeginIndex, this.StxtField.selectionEndIndex, this.getText());		
 		gLogR.logLiveEvent(wEvt.captureLogState());			
 	}
 	
@@ -306,15 +342,15 @@ export class TTextControl extends TObject
 		//
 		//gTutor.cCursor.show(false);
 		
-		this.StxtField.addEventListener(MouseEvent.CLICK, liveMouseClick);		// When Mouse Clicked make sure the current position is updated and accurate
+		this.StxtField.on(MouseEvent.CLICK, liveMouseClick);		// When Mouse Clicked make sure the current position is updated and accurate
 
-		this.StxtField.addEventListener(MouseEvent.MOUSE_DOWN, liveMouseDown);	// Local MouseDown and global MouseUp may change the current selection
+		this.StxtField.on(MouseEvent.MOUSE_DOWN, liveMouseDown);	// Local MouseDown and global MouseUp may change the current selection
 		
-		this.StxtField.addEventListener(Event.SCROLL, liveScroll);				// This may change the scroll position
+		this.StxtField.on(Event.SCROLL, liveScroll);				// This may change the scroll position
 		
-		this.StxtField.addEventListener(TextEvent.TEXT_INPUT, liveTextInput);		// This may add text
+		this.StxtField.on(TextEvent.TEXT_INPUT, liveTextInput);		// This may add text
 		
-		this.StxtField.addEventListener(KeyboardEvent.KEY_DOWN,liveKeyDown);		// This may delete text or modify the this.caret position or current selection
+		this.StxtField.on(KeyboardEvent.KEY_DOWN,liveKeyDown);		// This may delete text or modify the this.caret position or current selection
 			
 		// Add this to the live event logging stream
 		//
@@ -363,7 +399,7 @@ export class TTextControl extends TObject
 	
 // 		public captureLogState() : XML
 //		{		
-//			var xmlVal:XML = <TTextEvent text={this.StxtField.text} this.caret={this.caret} selstart={this.sSel} selend={this.eSel} scrollh={this.hScroll} scrollv={this.vScroll}/>;
+//			var xmlVal:XML = <TTextEvent text={this.getText()} this.caret={this.caret} selstart={this.sSel} selend={this.eSel} scrollh={this.hScroll} scrollv={this.vScroll}/>;
 //								
 //			xmlVal.appendChild(super.captureLogState());
 //			
@@ -379,7 +415,7 @@ export class TTextControl extends TObject
 	
 	public captureLOGState() : XML
 	{		
-		var xmlVal:XML = <self_explanation id={name} textdata={this.StxtField.text}/>;
+		var xmlVal:XML = <self_explanation id={name} textdata={this.getText()}/>;
 					
 		return xmlVal;
 	}		
@@ -390,7 +426,7 @@ export class TTextControl extends TObject
 	 */
 	public logState() : XML
 	{		
-		var xmlVal:XML = <textfield value={this.StxtField.text}/>;
+		var xmlVal:XML = <textfield value={this.getText()}/>;
 					
 		return xmlVal;
 	}		
@@ -407,7 +443,7 @@ export class TTextControl extends TObject
 	public wozClear() : void
 	{
 		CUtil.trace("CWOZTextControl: wozClear");
-		this.StxtField.text = "";
+		this.setText("");
 		this.StxtField.setSelection(0, 0);
 	}		
 	
@@ -434,7 +470,7 @@ export class TTextControl extends TObject
 					
 		wozSetSelection(evt.index1, evt.index2 );
 		
-		this.StxtField.text = evt.textdata;
+		this.setText(evt.textdata);
 	}
 
 	
@@ -467,7 +503,7 @@ export class TTextControl extends TObject
 		var sResult:string;
 
 		
-		sResult = (this.StxtField.text == this._valid)? "true":"false";
+		sResult = (this.getText() == this._valid)? "true":"false";
 		
 		
 		return sResult;
@@ -478,7 +514,7 @@ export class TTextControl extends TObject
 	{			
 		var sResult:string;
 
-		sResult = this.StxtField.text;
+		sResult = this.getText();
 		
 		if(sResult.length == 0)
 				sResult	= "**empty_string**";
@@ -503,7 +539,7 @@ export class TTextControl extends TObject
 			this._valid = xmlSrc.@valid;
 		
 		if(xmlSrc.@label != undefined)
-			this.StxtField.text = xmlSrc.@label;
+			this.setText(xmlSrc.@label);
 	}
 	
 	/*

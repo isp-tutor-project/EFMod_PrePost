@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/checked" itemID="4819d689-00001e93" lastModified="1210611753">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/checked" itemID="4819d689-00001e93" lastModified="1552936985">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="checked">
       <layers>
@@ -6,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape>
                   <fills>
                     <FillStyle index="1">
                       <LinearGradient>
@@ -19,7 +22,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2434 359S2[2399 353 2326 279!2326 279[2308 259 2308 231!2308 231[2308 187 2331 174!2331 174[2374 149 2528 149!2528 149[2879 149 3073 404!3073 404[3171 532 3198 663!3198 663[3198 908 2819 1047!2819 1047[2455 1179 1848 1179!1848 1179[840
+                    <Edge fillStyle1="1" edges="!2434 359[2399 353 2326 279!2326 279[2308 259 2308 231!2308 231[2308 187 2331 174!2331 174[2374 149 2528 149!2528 149[2879 149 3073 404!3073 404[3171 532 3198 663!3198 663[3198 908 2819 1047!2819 1047[2455 1179 1848 1179!1848 1179[840
  1179 384 1024!384 1024[0 893 0 649!0 649[0 350 547 174!547 174[1015 23 1699 9!1699 9[2042 -20 2167 42!2167 42[2229 74 2229 129!2229 129[2229 149 2212 174!2212 174[2188 206 2149 206!2149 206[2112 206 2105 200!2105 200[2102 192 2095 188
 !2095 188[2068 169 1849 169!1849 169[1236 169 819 242!819 242[158 359 158 639!158 639[158 1017 1828 1017!1828 1017[2353 1017 2699 915!2699 915[3038 814 3038 666!3038 666[3038 621 2975 543!2975 543[2912 465 2853 437!2853 437[2822 422 2772
  383!2772 383[2720 343 2681 324!2681 324[2592 280 2542 292!2542 292[2513 298 2483 333!2483 333[2457 363 2434 359"/>

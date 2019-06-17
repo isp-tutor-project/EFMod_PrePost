@@ -1,131 +1,1565 @@
 
 {
 
-	"SScene1":
+	"SNavigator":
 	{	
-		"COMMENT":"TED Introduction sequence...",
+		"COMMENT":"ISP Navigation Panel...",
 		"type":"animation",
 		"version":"0.1.0",
 	
 		"CNodes":
 		{	
 			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
 						
 			"root":{"COMMENT":"Welcome...",
-					"type":"node",
-					"subtype":"module", 
-					"name":"INTRO1",
+                    "type":"moduleRef",
+                    "subtype":"module", 
+                	"name":"NOOP",
 					"edges":
-							[
-								{"constraint":"","edge":"INTRO1" }
-							]
-					},
-															
-			"INTRO1":{"COMMENT":"Welcome...",
-					"type":"node",
-					"subtype":"module", 
-					"name":"INTRO1",
-					"edges":
-							[
-								{"constraint":"","edge":"NEXTSCENE" }
-							]
-					},					
-										
-			"NEXTSCENE":{"COMMENT":"When module is complete - move to next scene in the scenegraph",
-					 "type":"node",
-					"subtype":"action", 
-					 "name":"NEXTSCENE",
-					 "edges":
 							[
 							]
 					}															
 		},		
-			
+            
 		"CModules":
-		{		
+		{
 			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-		
-			"INTRO1":
-			{
+            
+            "NOOP":{
 				"COMMENT":"",
 				"type":"module",
 				"reuse":true,
 				"actiontracks":		
 				[
-					{"trackname":"tedIntro1", "cues":"cueSet1", "events":"eventSet1", "features":""}
+					{"actionname":"NOOP", "features":""}
 				]
 			}			
 		}
 	},
-	
-	
-	"SScene2":
+        
+
+	"WelcomeSplash":
 	{	
-		"COMMENT":"Today we're going to...",
+		"COMMENT":"",
 		"type":"animation",
 		"version":"0.1.0",
+		"volatile":true,
 	
 		"CNodes":
 		{	
 			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
 						
-			"root":{"COMMENT":"Today we're going to learn how to design good ...",
-					"type":"node",
-					"subtype":"module", 
-					"name":"INTRO_A.0",
-					 "preenter":"{ setButtonBehavior('incrAnimation'); fComplete=false; updateNav(); }",
-					 "preexit" :"",
-					 "edges":
-							[
-								{"constraint":"","edge":"INTRO_A.1" }
-							]
-					},
-										
-			"NEXTSCENE":{"COMMENT":"When module is complete - move to next scene in the scenegraph",
-					 "type":"node",
-					"subtype":"action", 
-					 "name":"NEXTSCENE",
-					 "preenter":"",
-					 "preexit" :"{setButtonBehavior('incrScene');}",					 
-					 "edges":
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
 							[
 							]
-					}					
-					
-					
+					}
 		},		
 			
 		"CModules":
 		{		
-			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CModules  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-		
-			"INTRO_A.0":
-			{
-				"COMMENT":"",
-				"type":"module",
-				"reuse":true,
-				"actiontracks":		
-				[
-					{"classname":"CWOZLessonIntroAudio1A.0", "features":""}
-				]
-			},
+		}
+    },
+
+
+	"SIntroPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
 			
-			"INTRO_A.1":
-			{
-				"COMMENT":"",
-				"type":"module",
-				"reuse":true,
-				"actiontracks":		
-				[
-					{"classname":"CWOZLessonIntroAudio1A.1", "features":""}
-				]
-			}
-		}		
-	}
+		"CModules":
+		{		
+		}
+    },
+
+
+	"SIntroPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"SIntroPart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"Q1Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1APart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1BPart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ1BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"Q2Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2APart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ2BPart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+
+    "Q3Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+
+
+	"TQ3APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ3APart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ3APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ3BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ3BPart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ3BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+
+    "Q4Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4APart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ4BPart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"Q5Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+
+	"TQ5APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ5APart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ5APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ5BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ5BPart1B":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ5BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"Q6Splash":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6APart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6APart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6APart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6BPart1":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6BPart2":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+
+	"TQ6BPart3":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+	"EndScene":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+	"AssessmentA":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    },
+
+	"AssessmentB":
+	{	
+		"COMMENT":"",
+		"type":"animation",
+		"version":"0.1.0",
+		"volatile":true,
+	
+		"CNodes":
+		{	
+			"COMMENT":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  CNodes  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+						
+			"root":{"COMMENT":"...",
+					"type":"module", 
+					"name":"NOOP",
+                    "reuse":true,
+                    "actiontracks":		
+                    [
+                        {"actionname":"NOOP", "autostep":false, "features":""}
+                    ],                        
+					"edges":
+							[
+							]
+					}
+		},		
+			
+		"CModules":
+		{		
+		}
+    }
+
+
+
 
 }
 

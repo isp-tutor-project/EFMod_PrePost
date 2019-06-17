@@ -18,7 +18,7 @@
 
 //** Imports
 
-import { TImgTool } from "./common/TImgTool";
+import { TImgTool } from "./TImgTool";
 
 import { TRoot }		from "thermite/TRoot";
 import { TObject }		from "thermite/TObject";
@@ -31,6 +31,8 @@ import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
 import { TMouseEvent } from "thermite/events/TMouseEvent";
+import { CEFEvent } from "events/CEFEvent";
+import { CONST } from "util/CONST";
 
 
 
@@ -56,12 +58,47 @@ export class TMemoryImgTool extends TImgTool
 	
 	public currentEvtTar:Function;
 	
-	constructor()
+    
+    constructor()
 	{
 		super();
+		this.init5();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TMemoryImgToolInitialize() {
+
+		this.TImgToolInitialize.call(this);
+		this.init5();
+	}
+
+	public initialize() {
+
+		this.TImgToolInitialize.call(this);		
+		this.init5();
+	}
+
+	private init5() {
 		
-		CUtil.trace("TMemoryImgTool:Constructor");
-		
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TMemoryImgTool:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TMemoryImgTool On Stage");
+
 		this.feature1A = "lightBright";
 		this.feature1B = "lightDim";
 		this.feature2A = "cardIcons";
@@ -77,8 +114,11 @@ export class TMemoryImgTool extends TImgTool
 		// now that everything is named - wire it up
 		//
 		this.initListeners();			
+
+        super.onAddedToStage(evt);
 	}
-	
+    
+
 //*************** Image Mask Management
 	
 	/**
@@ -111,12 +151,12 @@ export class TMemoryImgTool extends TImgTool
 						
 						if (this.currentEvtTar != null) 
 						{
-							this[this.featureMaskA].removeEventListener(TMouseEvent.WOZCLICK, this.currentEvtTar);
-							this[this.featureMaskB].removeEventListener(TMouseEvent.WOZCLICK, this.currentEvtTar);
+							this[this.featureMaskA].removeEventListener(CONST.BUTTON_CLICK, this.currentEvtTar);
+							this[this.featureMaskB].removeEventListener(CONST.BUTTON_CLICK, this.currentEvtTar);
 						}
 						
-						this[this.featureMaskA].addEventListener(TMouseEvent.WOZCLICK, this.dofeature2A);
-						this[this.featureMaskB].addEventListener(TMouseEvent.WOZCLICK, this.dofeature2A);
+						this[this.featureMaskA].on(CONST.BUTTON_CLICK, this.dofeature2A);
+						this[this.featureMaskB].on(CONST.BUTTON_CLICK, this.dofeature2A);
 						
 						this.currentEvtTar = this.dofeature2A;
 						break;
@@ -126,12 +166,12 @@ export class TMemoryImgTool extends TImgTool
 						
 						if (this.currentEvtTar != null) 
 						{
-							this[this.featureMaskA].removeEventListener(TMouseEvent.WOZCLICK, this.currentEvtTar);
-							this[this.featureMaskB].removeEventListener(TMouseEvent.WOZCLICK, this.currentEvtTar);
+							this[this.featureMaskA].removeEventListener(CONST.BUTTON_CLICK, this.currentEvtTar);
+							this[this.featureMaskB].removeEventListener(CONST.BUTTON_CLICK, this.currentEvtTar);
 						}
 						
-						this[this.featureMaskA].addEventListener(TMouseEvent.WOZCLICK, this.dofeature2B);
-						this[this.featureMaskB].addEventListener(TMouseEvent.WOZCLICK, this.dofeature2B);
+						this[this.featureMaskA].on(CONST.BUTTON_CLICK, this.dofeature2B);
+						this[this.featureMaskB].on(CONST.BUTTON_CLICK, this.dofeature2B);
 						
 						this.currentEvtTar = this.dofeature2B;
 						break;

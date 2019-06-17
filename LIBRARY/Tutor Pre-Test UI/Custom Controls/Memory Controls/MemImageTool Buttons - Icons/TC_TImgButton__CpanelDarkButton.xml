@@ -1,8 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelDarkButton" itemID="5b00907b-000016bc" linkageExportForAS="true" linkageClassName="TC_TImgButton__CpanelDarkButton" lastModified="1526763643">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/TC_TImgButton__CpanelDarkButton" itemID="5b00907b-000016bc" linkageExportForAS="true" linkageClassName="TC_TImgButton__CpanelDarkButton" lastModified="1560629546">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TImgButton__CpanelDarkButton">
       <layers>
-        <DOMLayer name="(up)" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="(up)" color="#4FFF4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,7 +21,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+        <DOMLayer name="(over)" color="#9933CC" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sdown" selected="true" centerPoint3DX="217" centerPoint3DY="518">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sdown" centerPoint3DX="217" centerPoint3DY="518">
                   <matrix>
                     <Matrix a="2.906494140625" d="2.90805053710938"/>
                   </matrix>
@@ -50,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sdisabled" selected="true" centerPoint3DX="217" centerPoint3DY="518">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sdisabled" centerPoint3DX="217" centerPoint3DY="518">
                   <matrix>
                     <Matrix a="2.906494140625" d="2.90805053710938"/>
                   </matrix>
@@ -70,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sfocus" selected="true" centerPoint3DX="216.9" centerPoint3DY="517.85">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/MemImageTool Buttons - Icons/button Images/panelDark" name="Sfocus" centerPoint3DX="216.9" centerPoint3DY="517.85">
                   <matrix>
                     <Matrix a="2.90548706054688" d="2.90707397460938"/>
                   </matrix>

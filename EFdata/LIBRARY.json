@@ -1,0 +1,38 @@
+{
+    "_LIBRARY": {
+        "eflist": {},
+        "eftext": {
+            "SbreadCrumbs": {
+            "src": "$$EFX.html_crumbText"
+            }
+        },
+        "efinput": {
+            "q1TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            },
+            "q2TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            },
+            "q3TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            },
+            "q4TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            },
+            "q5TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            },
+            "q6TextControl1": {
+                "src": "$$EFX.html_input_std",
+                "fontSize": "28"                
+            }
+        },
+        "eftable": {},
+        "efdata": {}
+    }
+}

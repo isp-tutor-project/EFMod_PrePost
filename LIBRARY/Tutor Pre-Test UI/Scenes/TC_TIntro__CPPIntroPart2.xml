@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgController__CHouseController" name="i1p2tabController" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseController__HouseController" name="i1p2tabController" selected="true">
                   <matrix>
                     <Matrix a="0.862350463867188" d="0.840423583984375" tx="302.4" ty="286.8"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p2imgTool">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" name="i1p2imgTool">
                   <matrix>
                     <Matrix a="0.862350463867188" d="0.840423583984375" tx="490.95" ty="307.35"/>
                   </matrix>

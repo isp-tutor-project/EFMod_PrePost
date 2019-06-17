@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ5BPart1B" itemID="5b15bcdb-00000b73" linkageExportForAS="true" linkageClassName="TC_TQ5BPart1B" lastModified="1547495750">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ5BPart1B" itemID="5b15bcdb-00000b73" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ5BPart1B" lastModified="1547495750">
   <timeline>
-    <DOMTimeline name="TC_TQ5BPart1B">
+    <DOMTimeline name="TC_TP2Scene__TQ5BPart1B">
       <layers>
         <DOMLayer name="Title1" color="#4FFFFF" autoNamed="false">
           <frames>
@@ -148,7 +148,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgController__CMemController" name="tabControllerAq5" selected="true" centerPoint3DX="336.35" centerPoint3DY="614">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemController__MemController" name="tabControllerAq5" selected="true" centerPoint3DX="336.35" centerPoint3DY="614">
                   <matrix>
                     <Matrix a="0.702163696289063" d="0.702163696289063" tx="138" ty="509.4"/>
                   </matrix>
@@ -164,7 +164,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgController__CMemController" name="tabControllerBq5" selected="true" centerPoint3DX="736.25" centerPoint3DY="614">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemController__MemController" name="tabControllerBq5" selected="true" centerPoint3DX="736.25" centerPoint3DY="614">
                   <matrix>
                     <Matrix a="0.702163696289063" d="0.702163696289063" tx="537.9" ty="509.4"/>
                   </matrix>
@@ -180,7 +180,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgTool__CMemImageTool" name="imgToolAq5" centerPoint3DX="373.05" centerPoint3DY="610.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemImgTool__MemImgTool" name="imgToolAq5" centerPoint3DX="373.05" centerPoint3DY="610.75">
                   <matrix>
                     <Matrix a="0.621932983398438" d="0.621917724609375" tx="290.1" ty="511.65"/>
                   </matrix>
@@ -196,7 +196,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgTool__CMemImageTool" name="imgToolBq5" centerPoint3DX="772" centerPoint3DY="610.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemImgTool__MemImgTool" name="imgToolBq5" centerPoint3DX="772" centerPoint3DY="610.75">
                   <matrix>
                     <Matrix a="0.621932983398438" d="0.621917724609375" tx="689.05" ty="511.65"/>
                   </matrix>

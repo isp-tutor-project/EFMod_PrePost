@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart2" itemID="5b15bcc6-00000b6d" linkageExportForAS="true" linkageClassName="TC_TQ4BPart2" lastModified="1547585666">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ4BPart2" itemID="5b15bcc6-00000b6d" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ4BPart2" lastModified="1547585666">
   <timeline>
-    <DOMTimeline name="TC_TQ4BPart2">
+    <DOMTimeline name="TC_TP2Scene__TQ4BPart2">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerCq4" selected="true" centerPoint3DX="695.15" centerPoint3DY="387.05">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsController__CarsController" name="tabControllerCq4" selected="true" centerPoint3DX="695.15" centerPoint3DY="387.05">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="388.65" ty="225.35"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerDq4" selected="true" centerPoint3DX="1313.25" centerPoint3DY="387.05">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsController__CarsController" name="tabControllerDq4" selected="true" centerPoint3DX="1313.25" centerPoint3DY="387.05">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="1006.7" ty="225.35"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolCq4" selected="true" centerPoint3DX="574.85" centerPoint3DY="385.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsImgTool__CarsImgTool" name="imgToolCq4" selected="true" centerPoint3DX="574.85" centerPoint3DY="385.95">
                   <matrix>
                     <Matrix a="0.728408813476563" d="0.727737426757813" tx="526.3" ty="270.4"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolDq4" selected="true" centerPoint3DX="1191.3" centerPoint3DY="385.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsImgTool__CarsImgTool" name="imgToolDq4" selected="true" centerPoint3DX="1191.3" centerPoint3DY="385.95">
                   <matrix>
                     <Matrix a="0.728408813476563" d="0.727737426757813" tx="1142.8" ty="270.4"/>
                   </matrix>
@@ -158,7 +158,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q4TextControl1" selected="true">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlInput__Text" name="q4TextControl1" selected="true">
                   <matrix>
                     <Matrix a="10.7540130615234" d="1.01837158203125" tx="423.5" ty="868.1"/>
                   </matrix>

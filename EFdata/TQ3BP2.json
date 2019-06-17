@@ -1,0 +1,12 @@
+{
+    "_MODULEDATA":"v1.0.0",
+    "TQ3BPart2": {
+        "q3TextControl1": {
+            "layoutsource":"$EFL_efinput.q3TextControl1"
+        },
+        "tabControllerAq3":{},
+        "tabControllerBq3":{},
+        "imgToolAq3":{},
+        "imgToolBq3":{}
+    }
+}

@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Controls/Keyboard Assets/bkSpaceUp" itemID="5ca25fc8-000036a6" lastModified="1554145653">
+  <timeline>
+    <DOMTimeline name="bkSpaceUp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="73.95" objectHeight="45.15" x="811" y="757.9" lockFlag="true" topLeftRadius="8.7" topRightRadius="8.7" bottomLeftRadius="8.7" bottomRightRadius="8.7">
+                  <matrix>
+                    <Matrix a="1.00067138671875" tx="-811.55" ty="-757.9"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/shiftIcon">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="21.45" ty="34.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMRectangleObject objectWidth="23.9" objectHeight="8.85" x="35.1" y="18.05" lockFlag="true" topLeftRadius="5.35" topRightRadius="5.35" bottomLeftRadius="5.35" bottomRightRadius="5.35">
+                  <matrix>
+                    <Matrix ty="-0.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.95">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

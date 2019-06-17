@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/CircleLabel" itemID="519a6efa-00001a35" lastModified="1369075469">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/CircleLabel" itemID="519a6efa-00001a35" lastModified="1560035338">
   <timeline>
     <DOMTimeline name="CircleLabel">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="label" fontRenderingMode="standard" width="188.75" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="label" selected="true" fontRenderingMode="standard" width="188.75" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>

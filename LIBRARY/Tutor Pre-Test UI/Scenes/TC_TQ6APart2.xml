@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ6APart2" itemID="5b15bce4-00000b76" linkageExportForAS="true" linkageClassName="TC_TQ6APart2" lastModified="1547585775">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ6APart2" itemID="5b15bce4-00000b76" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ6APart2" lastModified="1547585775">
   <timeline>
-    <DOMTimeline name="TC_TQ6APart2">
+    <DOMTimeline name="TC_TP2Scene__TQ6APart2">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController" name="tabControllerCq6" selected="true" centerPoint3DX="695.15" centerPoint3DY="387.05">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyController__StudyController" name="tabControllerCq6" selected="true" centerPoint3DX="695.15" centerPoint3DY="387.05">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="388.65" ty="225.35"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController" name="tabControllerDq6" selected="true" centerPoint3DX="1313.25" centerPoint3DY="387.05">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyController__StudyController" name="tabControllerDq6" selected="true" centerPoint3DX="1313.25" centerPoint3DY="387.05">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="1006.7" ty="225.35"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" name="imgToolCq6" selected="true" centerPoint3DX="742.1" centerPoint3DY="380.85">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyImgTool__StudyImgTool" name="imgToolCq6" selected="true" centerPoint3DX="742.1" centerPoint3DY="380.85">
                   <matrix>
                     <Matrix a="0.961135864257813" d="0.960845947265625" tx="613.9" ty="227.65"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgTool__CStudyImageTool" name="imgToolDq6" selected="true" centerPoint3DX="1359.75" centerPoint3DY="380.85">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyImgTool__StudyImgTool" name="imgToolDq6" selected="true" centerPoint3DX="1359.75" centerPoint3DY="380.85">
                   <matrix>
                     <Matrix a="0.961135864257813" d="0.960845947265625" tx="1231.5" ty="227.65"/>
                   </matrix>
@@ -158,7 +158,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q6TextControl1" selected="true">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlInput__Text" name="q6TextControl1" selected="true">
                   <matrix>
                     <Matrix a="10.7540130615234" d="1.01837158203125" tx="423.5" ty="868.1"/>
                   </matrix>

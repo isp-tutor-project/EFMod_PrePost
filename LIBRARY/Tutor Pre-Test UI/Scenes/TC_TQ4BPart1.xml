@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4BPart1" itemID="5b15bcc3-00000b6c" linkageExportForAS="true" linkageClassName="TC_TQ4BPart1" lastModified="1547585641">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ4BPart1" itemID="5b15bcc3-00000b6c" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ4BPart1" lastModified="1547585641">
   <timeline>
-    <DOMTimeline name="TC_TQ4BPart1">
+    <DOMTimeline name="TC_TP2Scene__TQ4BPart1">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerCq4" selected="true" centerPoint3DX="692.55" centerPoint3DY="606.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsController__CarsController" name="tabControllerCq4" selected="true" centerPoint3DX="692.55" centerPoint3DY="606.25">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="386" ty="444.6"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" name="tabControllerDq4" selected="true" centerPoint3DX="1310.75" centerPoint3DY="606.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsController__CarsController" name="tabControllerDq4" selected="true" centerPoint3DX="1310.75" centerPoint3DY="606.25">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="1004.2" ty="444.6"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolCq4" selected="true" centerPoint3DX="572.25" centerPoint3DY="605.2">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsImgTool__CarsImgTool" name="imgToolCq4" selected="true" centerPoint3DX="572.25" centerPoint3DY="605.2">
                   <matrix>
                     <Matrix a="0.728561401367188" d="0.72796630859375" tx="523.7" ty="489.65"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgTool__CCarsImageTool" name="imgToolDq4" selected="true" centerPoint3DX="1188.75" centerPoint3DY="605.1">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsImgTool__CarsImgTool" name="imgToolDq4" selected="true" centerPoint3DX="1188.75" centerPoint3DY="605.1">
                   <matrix>
                     <Matrix a="0.72857666015625" d="0.72796630859375" tx="1140.35" ty="489.65"/>
                   </matrix>

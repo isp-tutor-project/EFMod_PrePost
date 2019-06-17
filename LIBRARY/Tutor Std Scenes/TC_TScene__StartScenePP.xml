@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/TC_TScene__StartScenePP" itemID="5c892d3d-00000316" linkageExportForAS="true" linkageClassName="TC_TScene__StartScenePP" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Std Scenes/CStartScenePP" sourceLastModified="1526757678" lastModified="1552493885" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="TC_TScene__StartScenePP">
+      <layers>
+        <DOMLayer name="Start" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Sstart" fontRenderingMode="standard" width="351.15" height="167.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="784.45" ty="504.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="167.6" size="150" bitmapSize="3000" face="Arial-BoldMT" fillColor="#02407D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Common Prompts/Icons/CYellowArrow" name="Sicon" centerPoint3DX="1595.55" centerPoint3DY="913.65">
+                  <matrix>
+                    <Matrix a="0.655715942382813" b="1.13572692871094" c="-1.13572692871094" d="0.655715942382813" tx="1576.6" ty="813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.75" y="25.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

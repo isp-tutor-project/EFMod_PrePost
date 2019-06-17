@@ -1,0 +1,538 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Controls/Keyboard" itemID="5c3e256a-000006cd" lastModified="1559857758">
+  <timeline>
+    <DOMTimeline name="Keyboard">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/sftUp" selected="true">
+                  <matrix>
+                    <Matrix tx="5.55" ty="138"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="22.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="660.1" objectHeight="34.05" x="141" y="940.9" lockFlag="true" topLeftRadius="6.5" topRightRadius="6.5" bottomLeftRadius="6.5" bottomRightRadius="6.5">
+                  <matrix>
+                    <Matrix a="1.143798828125" d="1.02714538574219" tx="-145.7" ty="-760.4"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_7" color="#669900">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_9" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_11" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_13" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_14" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_15" color="#669900">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_16" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_17" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_18" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_19" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_20" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_21" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_22" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/rtnUp">
+                  <matrix>
+                    <Matrix tx="676.6" ty="78.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.25" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/bkSpaceUp">
+                  <matrix>
+                    <Matrix tx="701.1" ty="16.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37" y="22.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_23" color="#669900">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_24" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_25" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_26" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_27" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_28" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_29" color="#009999">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_30" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_31" color="#669900">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_32" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sq">
+                  <matrix>
+                    <Matrix tx="25.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sw">
+                  <matrix>
+                    <Matrix tx="91.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Se">
+                  <matrix>
+                    <Matrix tx="157.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sr">
+                  <matrix>
+                    <Matrix tx="223.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="St">
+                  <matrix>
+                    <Matrix tx="289.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sy">
+                  <matrix>
+                    <Matrix tx="355.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Su">
+                  <matrix>
+                    <Matrix tx="421.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Si">
+                  <matrix>
+                    <Matrix tx="487.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="So">
+                  <matrix>
+                    <Matrix tx="553.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sp">
+                  <matrix>
+                    <Matrix tx="619.35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sa">
+                  <matrix>
+                    <Matrix tx="47.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Ss">
+                  <matrix>
+                    <Matrix tx="113.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sd">
+                  <matrix>
+                    <Matrix tx="179.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sf">
+                  <matrix>
+                    <Matrix tx="245.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sg">
+                  <matrix>
+                    <Matrix tx="311.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sh">
+                  <matrix>
+                    <Matrix tx="377.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sj">
+                  <matrix>
+                    <Matrix tx="443.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sk">
+                  <matrix>
+                    <Matrix tx="509.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sl">
+                  <matrix>
+                    <Matrix tx="575.35" ty="79.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sz">
+                  <matrix>
+                    <Matrix tx="77.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sx">
+                  <matrix>
+                    <Matrix tx="143.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sc">
+                  <matrix>
+                    <Matrix tx="209.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sv">
+                  <matrix>
+                    <Matrix tx="275.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sb">
+                  <matrix>
+                    <Matrix tx="341.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sn">
+                  <matrix>
+                    <Matrix tx="407.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Sm">
+                  <matrix>
+                    <Matrix tx="473.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Scomma">
+                  <matrix>
+                    <Matrix tx="539.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" name="Speriod">
+                  <matrix>
+                    <Matrix tx="605.35" ty="138.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_33" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="795.05" objectHeight="252.7" x="115.65" y="737.9" selected="true" topLeftRadius="6.5" topRightRadius="6.5">
+                  <matrix>
+                    <Matrix tx="-115.65" ty="-737.9"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.95">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_34" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="795.05" objectHeight="252.7" x="115.65" y="737.9" topLeftRadius="6.5" topRightRadius="6.5">
+                  <matrix>
+                    <Matrix a="1.52787780761719" tx="-388.05" ty="-737.9"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#E7FFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.95">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

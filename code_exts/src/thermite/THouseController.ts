@@ -18,12 +18,9 @@
 
 //** Imports
 
-import { TController } from "./common/TController";
-
-import { TRoot }		from "thermite/TRoot";
-import { TObject }		from "thermite/TObject";
-import { TScene }		from "thermite/TScene";
+import { TController }  from "./TController";
 import { TMouseEvent } 	from "thermite/events/TMouseEvent";
+import { CEFEvent }     from "events/CEFEvent";
 import { CUtil } 		from "util/CUtil";
 
 import MovieClip     		  = createjs.MovieClip;
@@ -44,16 +41,53 @@ export class THouseController extends TController
 	//************ Stage Symbols				
 	
 	
-	constructor()
+    constructor()
 	{
 		super();
+		this.init4();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public THouseControllerInitialize() {
+
+		this.TControllerInitialize.call(this);
+		this.init4();
+	}
+
+	public initialize() {
+
+		this.TControllerInitialize.call(this);		
+		this.init4();
+	}
+
+	private init4() {
 		
-		CUtil.trace("THouseController:Constructor");			
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("THouseController:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("THouseController On Stage");
+
+        super.onAddedToStage(evt);
 
 		this.initLabels("Chimney", "Paint Color", "Front Door");
 	}
-		
-		
+    
+    
+
 //******* Button Actions				
 			
 	//** Time - top Button has been clicked

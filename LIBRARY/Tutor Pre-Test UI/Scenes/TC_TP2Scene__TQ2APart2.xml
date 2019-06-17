@@ -1,0 +1,253 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ2APart2" itemID="5b15bc92-00000b5e" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ2APart2" lastModified="1559836581" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="TC_TP2Scene__TQ2APart2">
+      <layers>
+        <DOMLayer name="DrinkC TabControl" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkController__DrinkController" name="tabControllerCq2">
+                  <matrix>
+                    <Matrix a="1.0850830078125" d="1.08493041992188" tx="386" ty="225.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="447.5" y="270.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DrinkD TabControl" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkController__DrinkController" name="tabControllerDq2">
+                  <matrix>
+                    <Matrix a="1.0850830078125" d="1.08493041992188" tx="1004.05" ty="225.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="447.5" y="270.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DrinkC ImageControl" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkImgTool__DrinkImgTool" name="imgToolCq2">
+                  <matrix>
+                    <Matrix a="0.961135864257813" d="0.960922241210938" tx="580.35" ty="212.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="177.95" y="179.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DrinkD ImageControl" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkImgTool__DrinkImgTool" name="imgToolDq2">
+                  <matrix>
+                    <Matrix a="0.961135864257813" d="0.960922241210938" tx="1197.95" ty="212.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="177.95" y="179.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Expt Frames" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameC" name="q2FrameC">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="369" ty="144.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="147.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2AFrameD" name="q2FrameD">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="987.05" ty="144.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="147.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Title3A" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle3A" name="q2Title3A" centerPoint3DX="826.9" centerPoint3DY="745.5">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="368" ty="649.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="380.4" y="22.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Title4" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle4" name="q2Title4" centerPoint3DX="834.7" centerPoint3DY="678.5">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="398.9" ty="660.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="441.5" y="12.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Title6" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle6" name="q2Title6">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="398.9" ty="983.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="351.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Title7" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Q2A Assets/TC_TObject__Cq2ATitle7" name="q2Title7">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="430.65" ty="817.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250.5" y="11.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TextControl1" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlInput__Text" name="q2TextControl1" selected="true">
+                  <matrix>
+                    <Matrix a="10.7540130615234" d="1.01849365234375" tx="420.85" ty="868.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.35" y="50.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GoodWay" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="q2Check1">
+                  <matrix>
+                    <Matrix a="1.02334594726563" d="1.02333068847656" tx="1319.2" ty="653.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.1" y="11.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BadWay" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="q2Check2">
+                  <matrix>
+                    <Matrix a="1.02334594726563" d="1.02333068847656" tx="1319.2" ty="729.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.1" y="11.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QMarkLeft" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQMarkLeft" name="q2QMarkLeft">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="1.54513549804688" tx="-330" ty="187.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="435.1" y="382.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Question Frame1" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/Common Components/TC_TObject__CQuestionFrame" name="q2QFrame1" centerPoint3DX="959.15" centerPoint3DY="832.7">
+                  <matrix>
+                    <Matrix a="1.54515075683594" d="2.63583374023438" tx="369" ty="631"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.95" y="76.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton" itemID="5193cf08-00001325" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorItemButton" linkageClassName="CTab2ItemButton" lastModified="1368647443" lastUniqueIdentifier="12">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab2ItemButton" itemID="5193cf08-00001325" linkageExportForAS="true" linkageClassName="TC_TSelectorItemButton__TwoItemButton" lastModified="1552676429" lastUniqueIdentifier="12">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="CTab2ItemButton">
       <layers>
@@ -18,7 +21,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="up" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="up" color="#4FFF4F" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -37,7 +40,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="over" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="over" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -53,7 +56,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="down" color="#FFFF4F" autoNamed="false">
+        <DOMLayer name="down" color="#FFFF4F" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -69,7 +72,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="disabled" color="#808080" autoNamed="false">
+        <DOMLayer name="disabled" color="#808080" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -85,7 +88,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="focus" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="focus" color="#4FFFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -101,11 +104,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="checkbox" color="#4FFFFF" autoNamed="false">
+        <DOMLayer name="checkbox" color="#4FFFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TRadioButton__CRadioControl" name="Scheckbox" centerPoint3DX="72.4" centerPoint3DY="232.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgRadioButton__CRadioControl" name="Scheckbox" centerPoint3DX="72.4" centerPoint3DY="232.95">
                   <matrix>
                     <Matrix a="0.17486572265625" d="0.17486572265625" tx="60.25" ty="220.8"/>
                   </matrix>

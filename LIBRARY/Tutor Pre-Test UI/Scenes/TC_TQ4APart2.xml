@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ4APart2" itemID="5b15bcbd-00000b6a" linkageExportForAS="true" linkageClassName="TC_TQ4APart2" lastModified="1547585580">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ4APart2" itemID="5b15bcbd-00000b6a" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ4APart2" lastModified="1547585580">
   <timeline>
-    <DOMTimeline name="TC_TQ4APart2">
+    <DOMTimeline name="TC_TP2Scene__TQ4APart2">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgController__CRocketController" name="tabControllerCq4" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TRocketController__RocketController" name="tabControllerCq4" selected="true">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="355.65" ty="225.35"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgController__CRocketController" name="tabControllerDq4" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TRocketController__RocketController" name="tabControllerDq4" selected="true">
                   <matrix>
                     <Matrix a="1.0850830078125" d="1.08480834960938" tx="973.7" ty="225.35"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgTool__CRocketImageTool" name="imgToolCq4" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TRocketImgTool__RocketImgTool" name="imgToolCq4" selected="true">
                   <matrix>
                     <Matrix a="0.961135864257813" d="0.960845947265625" tx="658.2" ty="235.4"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TImgTool__CRocketImageTool" name="imgToolDq4" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Rocket Controls/TC_TRocketImgTool__RocketImgTool" name="imgToolDq4" selected="true">
                   <matrix>
                     <Matrix a="0.961135864257813" d="0.960845947265625" tx="1275.8" ty="235.4"/>
                   </matrix>
@@ -158,7 +158,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q4TextControl1" selected="true">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlInput__Text" name="q4TextControl1" selected="true">
                   <matrix>
                     <Matrix a="10.7540130615234" d="1.01837158203125" tx="390.5" ty="868.1"/>
                   </matrix>

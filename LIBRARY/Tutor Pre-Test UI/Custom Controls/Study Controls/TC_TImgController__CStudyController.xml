@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TImgController__CStudyController" itemID="5b00747b-0000106d" linkageExportForAS="true" linkageClassName="TC_TImgController__CStudyController" lastModified="1526756475" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Study Controls/TC_TStudyController__StudyController" itemID="5b00747b-0000106d" linkageExportForAS="true" linkageClassName="TC_TStudyController__StudyController" lastModified="1526756475" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TImgController__CStudyController">
+    <DOMTimeline name="TC_TStudyController__StudyController">
       <layers>
         <DOMLayer name="tabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>

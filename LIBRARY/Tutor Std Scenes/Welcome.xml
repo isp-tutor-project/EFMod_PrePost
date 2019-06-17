@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Std Scenes/Welcome" itemID="5c3e4ae1-00000798" lastModified="1547586273">
+  <timeline>
+    <DOMTimeline name="Welcome">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="389.9" centerPoint3DY="182.6">
+                  <matrix>
+                    <Matrix d="2.16117858886719" tx="8" ty="17.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="13"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" selected="true" centerPoint3DX="381.9" centerPoint3DY="165.3">
+                  <matrix>
+                    <Matrix d="2.16117858886719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="381.9" y="76.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="662.9" height="257.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="50.45" ty="52.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WELCOME&#xD;&#xD;&#xD;We will now ask you to create or analyse &#xD;6 different experiments.&#xD;&#xD;&#xD;Click the Next button when you are ready to start. &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24.55" size="22" bitmapSize="440" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Also click Next  to continue once you finish each page. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

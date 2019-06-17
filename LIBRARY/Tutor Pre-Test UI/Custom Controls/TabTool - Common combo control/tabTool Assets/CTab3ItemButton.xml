@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton" itemID="5193cf1f-00001326" linkageExportForAS="true" linkageBaseClass="cmu.woz.prepost.com.CWOZSelectorItemButton" linkageClassName="CTab3ItemButton" lastModified="1368650705">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/TabTool - Common combo control/tabTool Assets/CTab3ItemButton" itemID="5193cf1f-00001326" linkageExportForAS="true" linkageClassName="TC_TSelectorItemButton__ThreeItemButton" lastModified="1552509917">
   <timeline>
     <DOMTimeline name="CTab3ItemButton">
       <layers>
@@ -105,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TRadioButton__CRadioControl" name="Scheckbox" selected="true" centerPoint3DX="72.4" centerPoint3DY="232.95">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgRadioButton__CRadioControl" name="Scheckbox" selected="true" centerPoint3DX="72.4" centerPoint3DY="232.95">
                   <matrix>
                     <Matrix a="0.17486572265625" d="0.17486572265625" tx="60.25" ty="220.8"/>
                   </matrix>

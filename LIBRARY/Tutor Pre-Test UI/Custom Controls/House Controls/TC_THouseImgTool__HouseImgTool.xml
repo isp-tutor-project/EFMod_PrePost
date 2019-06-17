@@ -1,0 +1,105 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" itemID="5b00904b-000016b9" linkageExportForAS="true" linkageClassName="TC_THouseImgTool__HouseImgTool" sourceFlashFilepath="../../../Projects FlashBuilder/TED2.1.0/Module_PrePost/PreTest_FLA/PreTest_FLA.xfl" sourceLibraryItemHRef="Tutor Pre-Test UI/Custom Controls/House Controls/CHouseImageTool" sourceLastModified="1368651126" lastModified="1552590628" lastUniqueIdentifier="19" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="TC_THouseImgTool__HouseImgTool">
+      <layers>
+        <DOMLayer name="Background" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="doubleDoor" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CDoubleDoorButton" name="doubleDoor">
+                  <matrix>
+                    <Matrix tx="-5.6" ty="-1.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99.6" y="204.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="singleDoor" color="#4FFFFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CSingleDoorButton" name="singleDoor">
+                  <matrix>
+                    <Matrix tx="-2.05" ty="-1.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.05" y="202.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pinkPaint" color="#808080" parentLayerIndex="0" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CPinkPaintButton" name="pinkPaint" selected="true">
+                  <matrix>
+                    <Matrix d="0.999710083007813" tx="1.9" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.5" y="143.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bluePaint" color="#FF4F4F" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton" name="bluePaint" selected="true">
+                  <matrix>
+                    <Matrix d="0.999710083007813" tx="1.95" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.5" y="143.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="chimneyRight" color="#4F80FF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyRightButton" name="chimneyRight">
+                  <matrix>
+                    <Matrix ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="66.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="chimneyLeft" color="#4FFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CChimneyLeftButton" name="chimneyLeft">
+                  <matrix>
+                    <Matrix ty="7.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.15" y="62.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

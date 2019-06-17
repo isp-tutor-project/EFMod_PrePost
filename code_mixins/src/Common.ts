@@ -20,21 +20,28 @@ namespace EFTut_Suppl.EFMod_PrePost {
         //***********************************************
         // Tutor graph methods
         //
+
+        public $preCreateScene() { /* empty */  }        
+        public $onCreateScene() { /* empty */  }
+
+        public $preEnterScene() { /* empty */  }
+        public $onEnterScene()  { /* empty */  }
         
-        public $oncreate() { /* empty */  }
+        public $preExitScene() { /* empty */  }
+        public $onExitScene()  { /* empty */  }
 
-        public $onenter() { /* empty */  }
-        
-        public $preenter() { /* empty */  }
+        public $preShowScene() { /* empty */  }        
+        public $preHideScene() { /* empty */  }
 
-        public $preexit() { /* empty */  }
+        public $demoInitScene() { /* empty */  }
 
-        public $demoinit() { /* empty */  }
+        public $logScene() { /* empty */  }
 
-        public $logging() { /* empty */  }
+        public $rewindScene() { /* empty */  }
 
-        public $rewind() { /* empty */  }
+        public $resolveTemplate(templID:string) { /* empty */  }
 
+        public $handleEvent() { /* empty */  }           
 
         //***********************************************
         // Scene graph methods
@@ -54,9 +61,11 @@ namespace EFTut_Suppl.EFMod_PrePost {
             return result;
         }
 
-        public $cuePoints(script:string, id:string) { /* empty */  }
+        // Track methods.
+        // 
+        public $cuePoints(id:string) { /* empty */  }
 
-        public $timedEvents(script:string, id:string) { /* empty */  }
+        public $timedEvents(id:string) { /* empty */  }
 
 
         
@@ -91,8 +100,12 @@ namespace EFTut_Suppl.EFMod_PrePost {
                 this.enableBack(false);		
             else	
                 this.enableBack(true);		
+        }
+        
+        public $questionFinished(evt:any) : void {
 
-		}
-
+            this.setSceneValue("complete", true);      
+        }
     }   
 }
+

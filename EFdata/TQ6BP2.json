@@ -1,0 +1,16 @@
+{
+    "_MODULEDATA":"v1.0.0",
+    "TQ6BPart2": {
+        "q6TextControl1": {
+            "layoutsource":"$EFL_efinput.q6TextControl1"
+        },
+
+        "tabControllerCq6":{},
+        "tabControllerDq6":{},
+        "imgToolCq6":{},
+        "imgToolDq6":{},
+        
+        "q6Check1":{},
+        "q6Check2":{}
+    }
+}

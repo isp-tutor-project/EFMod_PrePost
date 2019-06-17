@@ -27,7 +27,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="685.95" height="82" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="685.95" height="103" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="74" ty="-12"/>
                   </matrix>

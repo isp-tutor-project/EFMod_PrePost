@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Controls/Keyboard Assets/TC_TImgButton__RegKeyTopButton" itemID="5ca246ef-000025f0" linkageExportForAS="true" linkageClassName="TC_TImgButton__RegKeyTopButton" lastModified="1554140373">
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__RegKeyTopButton">
+      <layers>
+        <DOMLayer name="Label" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Slabel" fontRenderingMode="standard" width="25.25" height="39.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="11" ty="1.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="39.1" size="35" bitmapSize="700" face="Arial-BoldMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(up)" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/QTopUp" name="Sup" centerPoint3DX="61.9" centerPoint3DY="147.75">
+                  <matrix>
+                    <Matrix a="0.82867431640625" d="0.829147338867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.9" y="180.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(over)" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/QTopOver" name="Sover" centerPoint3DX="61.85" centerPoint3DY="147.65">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(down)" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/QTopDown" name="Sdown" centerPoint3DX="61.85" centerPoint3DY="147.65">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter quality="2" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(disabled)" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/QTopDisabled" name="Sdisabled" centerPoint3DX="61.85" centerPoint3DY="147.65">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="(focus)" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Common Controls/Keyboard Assets/QTopFocused" name="Sfocus" centerPoint3DX="61.85" centerPoint3DY="147.65">
+                  <matrix>
+                    <Matrix a="0.828353881835938" d="0.828659057617188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.95" y="180.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

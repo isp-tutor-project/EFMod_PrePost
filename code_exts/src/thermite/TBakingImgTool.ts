@@ -18,8 +18,8 @@
 
 //** Imports
 
-import { TImgTool } 	from "./common/TImgTool";
-import { TImgTool322 } 	from "./common/TImgTool322";
+import { TImgTool } 	from "./TImgTool";
+import { TImgTool322 } 	from "./TImgTool322";
 
 import { TRoot }		from "thermite/TRoot";
 import { TObject }		from "thermite/TObject";
@@ -31,6 +31,7 @@ import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
+import { CEFEvent } from "events/CEFEvent";
 
 
 export class TBakingImgTool extends TImgTool322
@@ -51,12 +52,46 @@ export class TBakingImgTool extends TImgTool322
 	//************ Stage Symbols				
 			
 	
-	constructor()
+    constructor()
 	{
 		super();
+		this.init5();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TBakingImgToolInitialize() {
+
+		this.TImgTool322Initialize.call(this);
+		this.init5();
+	}
+
+	public initialize() {
+
+		this.TImgTool322Initialize.call(this);		
+		this.init5();
+	}
+
+	private init5() {
 		
-		CUtil.trace("TBakingImgTool:Constructor");
-		
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TBakingImgTool:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TBakingImgTool On Stage");
+
 		this.feature1A = "temp200";
 		this.feature1B = "temp350";
 		this.feature1C = "temp500";
@@ -68,6 +103,8 @@ export class TBakingImgTool extends TImgTool322
 		// now that everything is named - wire it up
 		//
 		this.initListeners();			
-	}
-			
+
+        super.onAddedToStage(evt);
+    }
+
 }

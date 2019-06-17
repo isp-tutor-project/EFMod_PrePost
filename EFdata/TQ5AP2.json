@@ -1,0 +1,12 @@
+{
+    "_MODULEDATA":"v1.0.0",
+    "TQ5APart2": {
+        "q5TextControl1": {
+            "layoutsource":"$EFL_efinput.q5TextControl1"
+        },
+        "tabControllerAq5":{},
+        "tabControllerBq5":{},
+        "imgToolAq5":{},
+        "imgToolBq5":{}
+    }
+}

@@ -18,14 +18,14 @@
 
 //** Imports
 
-import { TSelectEvent } 	from "./events/TSelectEvent";
-
 import { TRoot }			from "thermite/TRoot";
 import { TObject }			from "thermite/TObject";
 import { TScene }			from "thermite/TScene";
+import { TSelectEvent }     from "thermite/events/TSelectEvent";
 import { TMouseEvent } 		from "thermite/events/TMouseEvent";
 
 import { CUtil } 			from "util/CUtil";
+import { CONST }            from "util/CONST";
 
 import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
@@ -33,7 +33,7 @@ import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
 
 
-export class TP2scene extends TScene
+export class TP2Scene extends TScene
 {
 	public traceTP2:boolean = false;
 	
@@ -49,16 +49,52 @@ export class TP2scene extends TScene
 	public imgTool2:string;		
 	public tabController1:string;
 	public tabController2:string;
-	
+    
+	public fCompleteA:boolean = false;
+    public fCompleteB:boolean = false;    
+
+    private imgToolA:Function;
+    private imgToolB:Function;
+    private tabtoolA:Function;
+    private tabtoolB:Function;
+    private tabDoneA:Function;
+    private tabDoneB:Function;
+    
+    private isPreconfigured:boolean;
+
+
 	protected sType:string;
 
-	public cvsEncoding:Array<string> = ["NC","CVS","CVS_WV","SC","CVS_WV","SC","HOTAT","MC"];
+	public cvsEncoding:Array<string>;
 
-	constructor()
+   	/**
+	 * 
+	 */
+	constructor() 
 	{
 		super();
+		this.init5();
+	}
+	
+	
+	/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+	/* ######################################################### */
+
+	public TP2SceneInitialize() {
+
+        this.TSceneInitialize.call(this);
+        this.init5();
+    }
+
+    public initialize() {
+
+        this.TSceneInitialize.call(this);		
+        this.init5();
+    }
+
+    private init5() {
 		
-		if(this.traceTP2) CUtil.trace("TP2scene:Constructor");		
+		if(this.traceTP2) CUtil.trace("TP2Scene:Constructor");		
         
         this.selOneC = null;
 
@@ -67,21 +103,75 @@ export class TP2scene extends TScene
 		
 			 if(this.tutorDoc.testFeatureSet("FTR_TYPEA"))  this.sType = "_A";
 		else if(this.tutorDoc.testFeatureSet("FTR_TYPEB"))  this.sType = "_B";
-                                                       else this.sType = "";		
-                                                          
-        this.imgTool1		= "imgToolAq1";
-        this.imgTool2		= "imgToolBq1";
-        this.tabController1	= "tabControllerAq1";
-        this.tabController2	= "tabControllerBq1";
-    
-        this.imgToolAq1.addEventListener(TSelectEvent.WOZIMGSELECT,  this.doImageMapA);			
-        this.imgToolBq1.addEventListener(TSelectEvent.WOZIMGSELECT,  this.doImageMapB);			
-        this.tabControllerAq1.addEventListener(TSelectEvent.WOZTABSELECT,  this.doTabMapA);
-        this.tabControllerBq1.addEventListener(TSelectEvent.WOZTABSELECT,  this.doTabMapB);				  
-                                                                                                            
+                                                       else this.sType = "";
+                                                       
+        this.cvsEncoding = ["NC","CVS","CVS_WV","SC","CVS_WV","SC","HOTAT","MC"];                                                       
+    }
+
+	/* ######################################################### */
+	/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+    // 
+    // 
+    public onCreate() : void
+	{
+        super.onCreate();
+    }
+
+
+    public Destructor() : void
+    {
+        super.Destructor();
+
+        this[this.imgTool1].off(TSelectEvent.WOZIMGSELECT, this.imgToolA);			
+        this[this.imgTool2].off(TSelectEvent.WOZIMGSELECT, this.imgToolB);			
+        this[this.tabController1].off(TSelectEvent.WOZTABSELECT, this.tabtoolA);
+        this[this.tabController2].off(TSelectEvent.WOZTABSELECT, this.tabtoolB);				  
+     		
+		this[this.tabController1].off("Done", this.tabDoneA);			
+        this[this.tabController2].off("Done", this.tabDoneB);	
+    }
+
+
+    // This must be called after the children are added to the control.
+    // 
+    public wireControls() : void
+	{
+        this.imgToolA = this[this.imgTool1].on(TSelectEvent.WOZIMGSELECT,  this.doImageMapA, this);			
+        this.imgToolB = this[this.imgTool2].on(TSelectEvent.WOZIMGSELECT,  this.doImageMapB, this);			
+        this.tabtoolA = this[this.tabController1].on(TSelectEvent.WOZTABSELECT,  this.doTabMapA, this);
+        this.tabtoolB = this[this.tabController2].on(TSelectEvent.WOZTABSELECT,  this.doTabMapB, this);				  
+     		
+		this.tabDoneA = this[this.tabController1].on("Done",  this.questionFinishedA, this);			
+        this.tabDoneB = this[this.tabController2].on("Done",  this.questionFinishedB, this);	
+    }
+
+
+	public questionFinishedA(evt:Event)
+	{			
+		CUtil.trace("#### QuestionA finished");
+	
+		this.fCompleteA = true;
+		
+		if(this.fCompleteB)
+		{
+            this.$questionFinished();
+		}
 	}
 	
-	
+	public questionFinishedB(evt:Event)
+	{
+		CUtil.trace("#### QuestionB finished");
+		
+		this.fCompleteB = true;
+		
+		if(this.fCompleteA)
+		{
+            this.$questionFinished();
+		}
+	}    
+    
 	public encodeExptString(TVTEXT:string, TV:string, NTV1:string, NTV2:string) :string
 	{
 		var code:number = 0;
@@ -126,17 +216,17 @@ export class TP2scene extends TScene
 			case this.selOneA:
 			case this.selOneB:
 			case this.selOneC:
-					this[this.tabController1].topClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController1].topClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;
 					
 			case this.selTwoA:
 			case this.selTwoB:
-					this[this.tabController1].centerClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController1].centerClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;
 					
 			case this.selThreeA:
 			case this.selThreeB:
-					this[this.tabController1].bottomClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController1].bottomClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;						
 		}
 	}
@@ -191,17 +281,17 @@ export class TP2scene extends TScene
 			case this.selOneA:
 			case this.selOneB:
 			case this.selOneC:
-					this[this.tabController2].topClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController2].topClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;
 					
 			case this.selTwoA:
 			case this.selTwoB:
-					this[this.tabController2].centerClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController2].centerClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;
 					
 			case this.selThreeA:
 			case this.selThreeB:
-					this[this.tabController2].bottomClick(new TMouseEvent("", TMouseEvent.WOZCLICK));
+					this[this.tabController2].bottomClick(new TMouseEvent("", CONST.BUTTON_CLICK));
 					break;												
 		}
 	}

@@ -1,14 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplashB" itemID="5b15bcf5-00000b7c" linkageExportForAS="true" linkageClassName="TC_TQSplashB" lastModified="1547586171">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplashB" itemID="5b15bcf5-00000b7c" linkageExportForAS="true" linkageClassName="TC_TScene__QSplashB" lastModified="1560625907">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TQSplashB">
       <layers>
-        <DOMLayer name="Prompt" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Prompt" color="#FFFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="305.9" height="16.8" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="305.9" height="16.8" isSelectable="false">
                   <matrix>
-                    <Matrix a="1.00004577636719" d="1.00038146972656" tx="772.25" ty="583.8"/>
+                    <Matrix a="1.00004577636719" d="1.0003662109375" tx="772.25" ty="583.8"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -23,24 +26,24 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Title" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Title" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="StitleText" selected="true" fontRenderingMode="standard" width="706.75" height="91.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="StitleText" fontRenderingMode="standard" width="706.75" height="91.95" includeOutlines="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix a="1.00004577636719" d="1.00038146972656" tx="511.95" ty="508.7"/>
+                    <Matrix a="1.00004577636719" d="1.0003662109375" tx="511.95" ty="508.7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Question 1</characters>
+                      <characters>Question 1 of 6</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.05" size="52" bitmapSize="1040" face="Arial-BoldMT" fillColor="#0000FF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                   <filters>
-                    <DropShadowFilter blurX="22" blurY="22" color="#0000CC" distance="20" quality="2" strength="0.27"/>
+                    <DropShadowFilter blurX="22" blurY="22" color="#CCCCCC" distance="20" quality="2" strength="0.21"/>
                   </filters>
                 </DOMDynamicText>
               </elements>
@@ -51,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplash" selected="true" centerPoint3DX="1549.5" centerPoint3DY="547.7">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplash" centerPoint3DX="1549.5" centerPoint3DY="547.7">
                   <matrix>
                     <Matrix a="1.49967956542969" d="1.5" tx="944.05" ty="-25.9"/>
                   </matrix>
@@ -67,7 +70,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" selected="true" centerPoint3DX="937.75" centerPoint3DY="554.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrame1" centerPoint3DX="937.75" centerPoint3DY="554.75">
                   <matrix>
                     <Matrix a="1.49967956542969" d="1.5" tx="365" ty="439.95"/>
                   </matrix>
@@ -83,7 +86,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" selected="true" centerPoint3DX="949.75" centerPoint3DY="566.75">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CSplashFrame1" name="SplashFrameShadow" centerPoint3DX="949.75" centerPoint3DY="566.75">
                   <matrix>
                     <Matrix a="1.49967956542969" d="1.5" tx="376.95" ty="451.95"/>
                   </matrix>
@@ -97,7 +100,7 @@
                     <Color brightness="-0.75"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplashShadow" selected="true" centerPoint3DX="1560" centerPoint3DY="559.7">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Scenes/CQSplash Assets/TC_TObject__CQMarkSplash" name="QMarkSplashShadow" centerPoint3DX="1560" centerPoint3DY="559.7">
                   <matrix>
                     <Matrix a="1.49967956542969" d="1.5" tx="954.55" ty="-13.9"/>
                   </matrix>

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Common Controls/Keyboard Assets/rtnUp" itemID="5ca26008-000036aa" lastModified="1554145288">
+  <timeline>
+    <DOMTimeline name="rtnUp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!167 0S6/1803 0!1803 0[1945 0 1966 120!1966 120[1970 142 1970 167!1970 167/1970 753!1970 753[1970 778 1966 800!1966 800[1945 920 1803 920!1803 920/167 920!167 920[25 920 4 800!4 800[0 778 0 753!0 753/0 167!0 167[0 142 4 120!4 120[25 0
+ 167 0"/>
+                    <Edge cubics="!1803 0(;1898,0 1953,41 1966,120q1803 0Q1945 0q1966 120);"/>
+                    <Edge cubics="!1966 120(;1969,137 1970,151 1970,167q1966 120 1970 167);"/>
+                    <Edge cubics="!0 167(;0,152 1,138 4,120q0 167 4 120);"/>
+                    <Edge cubics="!4 120(;16,42 71,0 167,0q4 120Q25 0q167 0);"/>
+                    <Edge cubics="!167 920(;76,920 22,882 4,800q167 920Q25 920q4 800);"/>
+                    <Edge cubics="!4 800(;2,791 0,773 0,753q4 800 0 753);"/>
+                    <Edge cubics="!1970 753(;1970,770 1969,786 1966,800q1970 753 1966 800);"/>
+                    <Edge cubics="!1966 800(;1951,880 1897,920 1803,920q1966 800Q1945 920q1803 920);"/>
+                    <Edge cubics="!0 753(;0,753 0,167 0,167q0 753 0 167);"/>
+                    <Edge cubics="!1970 167(;1970,167 1970,753 1970,753q1970 167 1970 753);"/>
+                    <Edge cubics="!1803 920(;1803,920 167,920 167,920q1803 920 167 920);"/>
+                    <Edge cubics="!167 0(;167,0 1803,0 1803,0q167 0 1803 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

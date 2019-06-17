@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ2APart1" itemID="5b15bc8e-00000b5d" linkageExportForAS="true" linkageClassName="TC_TQ2APart1" lastModified="1547585431" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ2APart1" itemID="5b15bc8e-00000b5d" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ2APart1" lastModified="1547585431" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TQ2APart1">
+    <DOMTimeline name="TC_TP2Scene__TQ2APart1">
       <layers>
         <DOMLayer name="DrinkC TabControl" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController" name="tabControllerCq2" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkController__DrinkController" name="tabControllerCq2" selected="true">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="386" ty="444.6"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgController__CDrinkController" name="tabControllerDq2" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkController__DrinkController" name="tabControllerDq2" selected="true">
                   <matrix>
                     <Matrix a="1.08531188964844" d="1.08515930175781" tx="1004.2" ty="444.6"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" name="imgToolCq2" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkImgTool__DrinkImgTool" name="imgToolCq2" selected="true">
                   <matrix>
                     <Matrix a="0.961334228515625" d="0.961151123046875" tx="580.4" ty="431.45"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TImgTool__CDrinkImageTool" name="imgToolDq2" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Drink Controls/TC_TDrinkImgTool__DrinkImgTool" name="imgToolDq2" selected="true">
                   <matrix>
                     <Matrix a="0.961334228515625" d="0.961151123046875" tx="1198.15" ty="431.45"/>
                   </matrix>

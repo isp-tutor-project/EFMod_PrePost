@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/hit" itemID="4819e5e2-00003eba" lastModified="1209660581">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/Assets/Circle Assets/hit" itemID="4819e5e2-00003eba" lastModified="1560111774">
   <timeline>
     <DOMTimeline name="hit">
       <layers>
@@ -9,20 +9,11 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor/>
+                      <SolidColor color="#FFFFFF"/>
                     </FillStyle>
                   </fills>
-                  <strokes>
-                    <StrokeStyle index="1">
-                      <SolidStroke scaleMode="normal" pixelHinting="true">
-                        <fill>
-                          <SolidColor/>
-                        </fill>
-                      </SolidStroke>
-                    </StrokeStyle>
-                  </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!3186 670[3186 796 3088 879!3088 879[2996 957 2751 1050!2751 1050[2541 1130 2193 1153!2193 1153[2008 1165 1536 1165!1536 1165[1233 1165 970 1129!970 1129[810 1107 491 1040!491 1040[236 987 125 910!125 910[8 830 1 690!1 690[-7 543 63 439
+                    <Edge fillStyle1="1" edges="!3186 670[3186 796 3088 879!3088 879[2996 957 2751 1050!2751 1050[2541 1130 2193 1153!2193 1153[2008 1165 1536 1165!1536 1165[1233 1165 970 1129!970 1129[810 1107 491 1040!491 1040[236 987 125 910!125 910[8 830 1 690!1 690[-7 543 63 439
 !63 439[151 309 371 225!371 225[632 126 929 67!929 67[1268 0 1586 0!1586 0[2312 0 2746 165!2746 165[2969 250 3086 399!3086 399[3186 527 3186 670"/>
                     <Edge cubics="!2746 165(;3065,286 3186,499 3186,670q2746 165Q2969 250q3086 399Q3186 527q3186 670);"/>
                     <Edge cubics="!3186 670(;3186,841 3070,929 2751,1050q3186 670Q3186 796q3088 879Q2996 957q2751 1050);"/>

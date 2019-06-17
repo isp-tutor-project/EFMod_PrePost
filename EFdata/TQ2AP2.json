@@ -1,0 +1,16 @@
+{
+    "_MODULEDATA":"v1.0.0",
+    "TQ2APart2": {
+        "q2TextControl1": {
+            "layoutsource":"$EFL_efinput.q2TextControl1"
+        },
+
+        "tabControllerCq2":{},
+        "tabControllerDq2":{},
+        "imgToolCq2":{},
+        "imgToolDq2":{},
+        
+        "q2Check1":{},
+        "q2Check2":{}
+    }
+}

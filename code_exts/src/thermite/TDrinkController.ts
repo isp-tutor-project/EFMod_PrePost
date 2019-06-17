@@ -18,7 +18,7 @@
 
 //** Imports
 
-import { TController } from "./common/TController";
+import { TController } from "./TController";
 
 import { TRoot }		from "thermite/TRoot";
 import { TObject }		from "thermite/TObject";
@@ -30,6 +30,7 @@ import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
+import { CEFEvent } from "events/CEFEvent";
 
 
 
@@ -44,15 +45,52 @@ export class TDrinkController extends TController
 	//************ Stage Symbols				
 	
 	
-	constructor()
+    constructor()
 	{
 		super();
+		this.init4();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TDrinkControllerInitialize() {
+
+		this.TControllerInitialize.call(this);
+		this.init4();
+	}
+
+	public initialize() {
+
+		this.TControllerInitialize.call(this);		
+		this.init4();
+	}
+
+	private init4() {
 		
-		CUtil.trace("TDrinkController:Constructor");			
-						
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TDrinkController:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TDrinkController On Stage");
+
+        super.onAddedToStage(evt);
+
 		this.initLabels("Time", "Age", "Drink");
 	}
 
+    
 	
 	// Time - top Button has been clicked
 	//
@@ -67,7 +105,7 @@ export class TDrinkController extends TController
 		this.StopButton.SsubLabel.visible = true;
 		this.sel1 = "Sitem3";
 		
-		this.dismissTool("clockNoon");	
+		this.dismiss3Tool("clockNoon");	
 	}
 	
 	public clockThree(evt:TMouseEvent)
@@ -76,7 +114,7 @@ export class TDrinkController extends TController
 		this.StopButton.SsubLabel.visible = true;
 		this.sel1 = "Sitem4";
 		
-		this.dismissTool("clockThree");	
+		this.dismiss3Tool("clockThree");	
 	}
 	
 	public clockSix(evt:TMouseEvent)
@@ -85,7 +123,7 @@ export class TDrinkController extends TController
 		this.StopButton.SsubLabel.visible = true;
 		this.sel1 = "Sitem5";
 		
-		this.dismissTool("clockSix");	
+		this.dismiss3Tool("clockSix");	
 	}
 
 	

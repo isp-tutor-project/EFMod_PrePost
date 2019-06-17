@@ -18,12 +18,31 @@ namespace EFTut_Suppl.EFMod_PrePost {
 
             // By default disable all Navigation - Let scenes decide
             // 
-            this.setNavMode(CONST.NAVNEXT, CONST.NAVSCENE);
+            this.setNavMode(CONST.NAVBOTH, CONST.NAVSCENE);
         }
 
         public $onCreateScene() { 
             
             this.setSceneValue("complete", false);      
+
+            this.imgTool1		= "imgToolAq1";
+            this.imgTool2		= "imgToolBq1";
+            this.tabController1	= "tabControllerAq1";
+            this.tabController2	= "tabControllerBq1";    
+
+            this.q1TextControl1.bPersist = true;
+            
+            this.wireControls();
+        }
+
+        public $onEnterScene() {
+
+            // Init the text control
+			//
+			this.q1TextControl1.setFocus();            
+        }
+        
+        public $preEnterScene() {
 
             this.selOneA   = "clockNoon";
             this.selOneB   = "clockThree";
@@ -31,30 +50,19 @@ namespace EFTut_Suppl.EFMod_PrePost {
             this.selTwoA   = "ageYoung";
             this.selTwoB   = "ageOlder";
             this.selThreeA = "drinkLemon";
-            this.selThreeB = "drinkTea";
+            this.selThreeB = "drinkTea";          
             
-            this.imgTool1		= "imgToolAq1";
-            this.imgTool2		= "imgToolBq1";
-            this.tabController1	= "tabControllerAq1";
-            this.tabController2	= "tabControllerBq1";
+            this.tabControllerAq1.enableTool(false);
+            this.tabControllerBq1.enableTool(false);
 
-            this.imgToolAq1.enableTool(false);			
-            this.imgToolBq1.enableTool(false);			
-            this.tabControllerAq1.enableTool(false);			
-            this.tabControllerBq1.enableTool(false);						
-            
-            // Init the text control
-            //
-            this.q1TextControl1.StxtField.addEventListener(CONST.CHANGE,  this.$questionFinished);			
-        }
+            this.imgToolAq1.enableTool(false);
+            this.imgToolBq1.enableTool(false);
 
-        public $onEnterScene() {
-        }
-        
-        public $preEnterScene() {
         }
 
         public $preExitScene() {
+
+            this.setModuleValue('q1Response', this.q1TextControl1.captureLogState());
         }
 
         public $demoInitScene() {

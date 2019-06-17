@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton" itemID="5b00900c-000016ac" linkageExportForAS="true" linkageClassName="TC_TImgButton__CBluePaintButton" lastModified="1526763532" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/TC_TImgButton__CBluePaintButton" itemID="5b00900c-000016ac" linkageExportForAS="true" linkageClassName="TC_TImgButton__CBluePaintButton" lastModified="1552590698" lastUniqueIdentifier="4">
   <timeline>
     <DOMTimeline name="TC_TImgButton__CBluePaintButton">
       <layers>
@@ -411,11 +411,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Side Window" color="#808080" autoNamed="false">
+        <DOMLayer name="Side Window" color="#808080" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup>
+                <DOMGroup selected="true">
                   <members>
                     <DOMShape selected="true" isDrawingObject="true">
                       <matrix>
@@ -607,11 +607,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="(up) Paint Blue" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="(up) Paint Blue" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/bluePaint" name="Sup" selected="true" centerPoint3DX="114" centerPoint3DY="142.7">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/bluePaint" name="Sup" centerPoint3DX="114" centerPoint3DY="142.7">
                   <matrix>
                     <Matrix tx="19.2" ty="55.05"/>
                   </matrix>
@@ -627,7 +627,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/bluePaint" name="Sover" selected="true">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/HouseImageTool Buttons- Icons/buttonImages/bluePaint" name="Sover">
                   <matrix>
                     <Matrix a="0.999847412109375" d="1.00006103515625" tx="19.2" ty="55"/>
                   </matrix>

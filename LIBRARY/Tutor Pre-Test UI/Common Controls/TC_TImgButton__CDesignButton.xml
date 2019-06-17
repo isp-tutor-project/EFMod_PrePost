@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Common Controls/TC_TImgButton__CDesignButton" itemID="5c9aa09f-000009a5" linkageExportForAS="true" linkageClassName="TC_TImgButton__CDesignButton" lastModified="1560795468" lastUniqueIdentifier="5">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TImgButton__CDesignButton">
+      <layers>
+        <DOMLayer name="Label" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Slabel" fontRenderingMode="standard" width="143.65" height="19" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="118.15" ty="1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click here to start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="19" size="17" bitmapSize="340" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="focus" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignFocus" name="Sfocus" selected="true" centerPoint3DX="189.95" centerPoint3DY="10.55">
+                  <matrix>
+                    <Matrix tx="-7" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="up" color="#808080" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignUp" name="Sup" centerPoint3DX="189.95" centerPoint3DY="10.55">
+                  <matrix>
+                    <Matrix tx="-7" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="over" color="#4FFFFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignOver" name="Sover" centerPoint3DX="189.95" centerPoint3DY="10.55">
+                  <matrix>
+                    <Matrix tx="-7" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="down" color="#FF4FFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignDown" name="Sdown" centerPoint3DX="189.95" centerPoint3DY="10.55">
+                  <matrix>
+                    <Matrix tx="-7" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disabled" color="#FFFF4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/Assets/Design Button Assets/DesignDisabled" name="Sdisabled" centerPoint3DX="189.95" centerPoint3DY="10.55">
+                  <matrix>
+                    <Matrix tx="-7" ty="-9.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.95" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

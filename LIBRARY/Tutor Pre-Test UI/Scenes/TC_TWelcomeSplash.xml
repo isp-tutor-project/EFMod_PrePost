@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TWelcomeSplash" itemID="5b15bcf8-00000b7d" linkageExportForAS="true" linkageClassName="TC_TWelcomeSplash" lastModified="1547586319" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TWelcomeSplash" itemID="5b15bcf8-00000b7d" linkageExportForAS="true" linkageClassName="TC_TScene__WelcomeSplash" lastModified="1560551866" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TWelcomeSplash">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Welcome">
+                <DOMSymbolInstance libraryItemName="Tutor Std Scenes/Welcome">
                   <matrix>
                     <Matrix a="1.72433471679688" d="1.72438049316406" tx="294.6" ty="250"/>
                   </matrix>

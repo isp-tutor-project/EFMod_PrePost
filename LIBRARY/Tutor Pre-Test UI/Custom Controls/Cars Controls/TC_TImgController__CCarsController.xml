@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TImgController__CCarsController" itemID="5b0073e2-00001061" linkageExportForAS="true" linkageClassName="TC_TImgController__CCarsController" lastModified="1526756322" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Cars Controls/TC_TCarsController__CarsController" itemID="5b0073e2-00001061" linkageExportForAS="true" linkageClassName="TC_TCarsController__CarsController" lastModified="1526756322" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TImgController__CCarsController">
+    <DOMTimeline name="TC_TCarsController__CarsController">
       <layers>
         <DOMLayer name="tabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>

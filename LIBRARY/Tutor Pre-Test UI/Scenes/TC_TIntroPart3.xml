@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart3" itemID="5b15bc58-00000b54" linkageExportForAS="true" linkageClassName="TC_TIntroPart3" lastModified="1547493962" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TIntroPart3" itemID="5b15bc58-00000b54" linkageExportForAS="true" linkageClassName="TC_TScene__IntroPart3" lastModified="1552502283" lastUniqueIdentifier="7">
   <timeline>
     <DOMTimeline name="TC_TIntroPart3">
       <layers>
-        <DOMLayer name="i1p3imgTool" color="#9933CC" autoNamed="false">
+        <DOMLayer name="i1p3imgTool" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_TImgTool__CHouseImageTool" name="i1p3imgTool" centerPoint3DX="1179" centerPoint3DY="586.9">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/House Controls/TC_THouseImgTool__HouseImgTool" name="i1p3imgTool" selected="true" centerPoint3DX="1179" centerPoint3DY="586.9">
                   <matrix>
                     <Matrix a="1.29385375976563" d="1.26095581054688" tx="1028.9" ty="442.15"/>
                   </matrix>
@@ -154,7 +154,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check1" centerPoint3DX="646.55" centerPoint3DY="441.9">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check1" centerPoint3DX="646.55" centerPoint3DY="441.9">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="566.55" ty="412.4"/>
                   </matrix>
@@ -170,7 +170,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check2" centerPoint3DX="823.6" centerPoint3DY="441.9">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check2" centerPoint3DX="823.6" centerPoint3DY="441.9">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="743.6" ty="412.4"/>
                   </matrix>
@@ -186,7 +186,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check3" centerPoint3DX="646.55" centerPoint3DY="596">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check3" centerPoint3DX="646.55" centerPoint3DY="596">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="566.55" ty="566.5"/>
                   </matrix>
@@ -202,7 +202,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check4" centerPoint3DX="823.6" centerPoint3DY="596">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check4" centerPoint3DX="823.6" centerPoint3DY="596">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="743.6" ty="566.5"/>
                   </matrix>
@@ -218,7 +218,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check5" centerPoint3DX="646.55" centerPoint3DY="753.55">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check5" centerPoint3DX="646.55" centerPoint3DY="753.55">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="566.55" ty="724"/>
                   </matrix>
@@ -234,7 +234,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TCircleControl__CCircleButton" name="i3Check6" centerPoint3DX="823.6" centerPoint3DY="753.55">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Common Controls/TC_TImgCircleControl__CCircleButton" name="i3Check6" centerPoint3DX="823.6" centerPoint3DY="753.55">
                   <matrix>
                     <Matrix a="1.00025939941406" d="1.00025939941406" tx="743.6" ty="724"/>
                   </matrix>
@@ -310,7 +310,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="QMarkRight" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="QMarkRight" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

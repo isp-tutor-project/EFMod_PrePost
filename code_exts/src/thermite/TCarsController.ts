@@ -18,7 +18,7 @@
 
 //** Imports
 
-import { TController } from "./common/TController";
+import { TController } from "./TController";
 
 import { TRoot }		from "thermite/TRoot";
 import { TObject }		from "thermite/TObject";
@@ -30,6 +30,7 @@ import MovieClip     		  = createjs.MovieClip;
 import Timeline     		  = createjs.Timeline;
 import DisplayObject 		  = createjs.DisplayObject;
 import DisplayObjectContainer = createjs.Container;
+import { CEFEvent } from "events/CEFEvent";
 
 
 export class TCarsController extends TController
@@ -43,16 +44,53 @@ export class TCarsController extends TController
 	//************ Stage Symbols				
 	
 	
-	constructor()
+    constructor()
 	{
 		super();
+		this.init4();
+	}
+
+
+/*  ###########  START CREATEJS SUBCLASS SUPPORT ##########  */
+/* ######################################################### */
+
+	public TCarsControllerInitialize() {
+
+		this.TControllerInitialize.call(this);
+		this.init4();
+	}
+
+	public initialize() {
+
+		this.TControllerInitialize.call(this);		
+		this.init4();
+	}
+
+	private init4() {
 		
-		CUtil.trace("TCarsController:Constructor");			
-		
+		this.traceMode = true;
+		if(this.traceMode) CUtil.trace("TCarsController:Constructor");
+
+    
+		// Note the CreateJS(AnimateCC) parts of the button have not been created
+		// at this point.
+	}
+
+/* ######################################################### */
+/*  ###########  END CREATEJS SUBCLASS SUPPORT ###########   */
+
+
+	public onAddedToStage(evt:CEFEvent) {
+
+		console.log("TCarsController On Stage");
+
+        super.onAddedToStage(evt);
+
 		this.initLabels("Roof", "Doors", "Tires");
 	}
 
-	
+
+    
 	// Time - top Button has been clicked
 	//
 	public topClick(evt:TMouseEvent)

@@ -43,8 +43,7 @@ namespace EFTut_Suppl.EFMod_PrePost {
         static readonly WOZTABSELECT:string 	= "WOZTABSELECT";
         static readonly WOZIMGSELECT:string 	= "WOZIMGSELECT";
         static readonly CHANGE:string 	        = "CHANGE";
-    
-
+        static readonly BUTTON_CLICK:string 	= "buttonclick"         // Internal button event
 
 	}
 

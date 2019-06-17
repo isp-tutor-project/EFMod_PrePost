@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQ1BPart2" itemID="5b15bc72-00000b5c" linkageExportForAS="true" linkageClassName="TC_TQ1BPart2" lastModified="1547584531" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TP2Scene__TQ1BPart2" itemID="5b15bc72-00000b5c" linkageExportForAS="true" linkageClassName="TC_TP2Scene__TQ1BPart2" lastModified="1547584531" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TQ1BPart2">
+    <DOMTimeline name="TC_TP2Scene__TQ1BPart2">
       <layers>
         <DOMLayer name="DrinkA TabControl" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgController__CBakingController" name="tabControllerAq1" centerPoint3DX="693.8" centerPoint3DY="331.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TBakingController__BakingController" name="tabControllerAq1" centerPoint3DX="693.8" centerPoint3DY="331.25">
                   <matrix>
                     <Matrix a="1.08499145507813" d="1.08479309082031" tx="387.35" ty="169.6"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgController__CBakingController" name="tabControllerBq1" centerPoint3DX="1311.8" centerPoint3DY="331.25">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TBakingController__BakingController" name="tabControllerBq1" centerPoint3DX="1311.8" centerPoint3DY="331.25">
                   <matrix>
                     <Matrix a="1.08499145507813" d="1.08479309082031" tx="1005.35" ty="169.6"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" name="imgToolAq1" centerPoint3DX="750.5" centerPoint3DY="326.2">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TBakingImgTool__BakingImgTool" name="imgToolAq1" centerPoint3DX="750.5" centerPoint3DY="326.2">
                   <matrix>
                     <Matrix a="0.960983276367188" d="0.960800170898438" tx="622.35" ty="173.1"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TImgTool__CBakingImageTool" name="imgToolBq1" centerPoint3DX="1367.05" centerPoint3DY="326.2">
+                <DOMSymbolInstance libraryItemName="Tutor Pre-Test UI/Custom Controls/Baking Controls/TC_TBakingImgTool__BakingImgTool" name="imgToolBq1" centerPoint3DX="1367.05" centerPoint3DY="326.2">
                   <matrix>
                     <Matrix a="0.960983276367188" d="0.960800170898438" tx="1238.85" ty="173.1"/>
                   </matrix>
@@ -149,7 +149,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="q1TextControl1">
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlInput__Text" name="q1TextControl1">
                   <matrix>
                     <Matrix a="10.7529907226563" d="1.01840209960938" tx="422.2" ty="792.8"/>
                   </matrix>

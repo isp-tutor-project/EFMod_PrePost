@@ -1,0 +1,16 @@
+{
+    "_MODULEDATA":"v1.0.0",
+    "TQ4APart2": {
+        "q4TextControl1": {
+            "layoutsource":"$EFL_efinput.q4TextControl1"
+        },
+
+        "tabControllerCq4":{},
+        "tabControllerDq4":{},
+        "imgToolCq4":{},
+        "imgToolDq4":{},
+        
+        "q4Check1":{},
+        "q4Check2":{}
+    }
+}

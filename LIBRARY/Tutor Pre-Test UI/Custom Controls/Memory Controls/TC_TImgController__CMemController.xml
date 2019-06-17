@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TImgController__CMemController" itemID="5b007474-0000106b" linkageExportForAS="true" linkageClassName="TC_TImgController__CMemController" lastModified="1526756468" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Custom Controls/Memory Controls/TC_TMemController__MemController" itemID="5b007474-0000106b" linkageExportForAS="true" linkageClassName="TC_TMemController__MemController" lastModified="1526756468" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TImgController__CMemController">
+    <DOMTimeline name="TC_TMemController__MemController">
       <layers>
         <DOMLayer name="tabTool" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
           <frames>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplash" itemID="5b15bcf3-00000b7b" linkageExportForAS="true" linkageClassName="TC_TQSplash" lastModified="1547586189" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tutor Pre-Test UI/Scenes/TC_TQSplash" itemID="5b15bcf3-00000b7b" linkageExportForAS="true" linkageClassName="TC_TScene__QSpalsh" lastModified="1551907506" lastUniqueIdentifier="7">
   <timeline>
     <DOMTimeline name="TC_TQSplash">
       <layers>
